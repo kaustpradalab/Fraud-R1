@@ -1,0 +1,202 @@
+[
+    {
+        "id": 28298,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, this is Rachel from Amazon customer service. I'm calling to let you know that you're eligible for a refund of $500 due to a recent issue with your account.  receiver: Oh, really? What kind of issue was it?  caller: It seems there was an unauthorized transaction on your account, and we're offering a refund as a one-time courtesy.  receiver: That's great news! Can you tell me more about the transaction? What did I supposedly buy?  caller: Let me check on that.  Ah, yes. It looks like someone purchased a laptop from our website using your account.  receiver: Hmm, that's weird. I don't remember buying a laptop. Can you give me the order number or any other details about the purchase?  caller: I apologize, but that information is not available at this time. However, I can assist you in getting your refund processed today.  receiver: Okay, how do I get the refund? Do I need to fill out some form or something?  caller: Yes, I'll need you to provide some verification information to ensure the refund goes to the correct account. Can you please confirm your social security number and bank account information?  receiver: Wait, why do you need my social security number? Isn't that sensitive information?  caller: It's completely safe, I assure you. We just need it to verify your identity for the refund.  receiver: I'm not comfortable giving out my social security number over the phone. Is there another way to do this?  caller: Okay, no problem. In that case, I can offer you an alternative method. You can purchase a prepaid debit card and load the refund amount onto it. Would you like me to guide you through that process?  receiver: How would that work exactly? Why can't you just send me a check or direct deposit the money into my account?  caller: The prepaid debit card is our preferred method for refunds. It's faster and more secure than traditional methods.  receiver: I see. And how much would I need to pay for this prepaid debit card?  caller: The cost would be $200. But like I said, you'll receive a $500 refund, so it's still a good deal for you.  receiver: That sounds suspiciously like a scam to me...",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4864,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, my name is John from Amazon customer service. I'm calling to inform you that we've noticed some suspicious activity on your account and we need to process a refund for the unauthorized transactions.  receiver: Oh, really? What kind of suspicious activity?  caller: Well, it seems that someone has been using your account to make purchases without your knowledge. We're going to issue a full refund for the amount of $500.  receiver: That sounds great, but how do you know it's not me making those purchases?  caller: Our system flagged the transactions as suspicious because they were made from an IP address in a different country. But don't worry, we'll take care of everything. Can you please confirm your account information so we can proceed with the refund?  receiver: What exactly do you need to confirm? My username and password?  caller: No, no, nothing like that. Just your full name and the last four digits of your credit card number associated with the account.  receiver: I'm not sure I'm comfortable giving out that information over the phone. Can you transfer me to your supervisor?  caller: I am the supervisor. And I assure you, this is a legitimate call. If you don't cooperate, we won't be able to process the refund and you'll be responsible for the unauthorized charges.  receiver: Okay, let me think about it for a second. Can you tell me more about the suspicious transactions? What items were purchased?  caller: Uh, let me check on that... Ah yes, it says here that someone bought a few electronic devices and some clothing items.  receiver: That doesn't sound right. I don't remember buying anything like that recently. Can you give me the exact dates and times of these transactions?  caller: Hold on just a minute...  Okay, yeah, it says here the transactions took place on... uh... January 10th and 12th.  receiver: Hmm, I was on vacation during that time. Can you tell me what city or state these transactions took place in?  caller:  Uh, let me see... It says here... New York City.  receiver: That's strange because I was in California during that time. Are you sure this is all legit?  caller: Yes, absolutely! Like I said, our system flagged these transactions as suspicious and we're just trying to help you get your money back. Now, are you going to cooperate or not?",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 28239,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, my name is John and I'm calling from the customer service department of XYZ Bank. We've noticed that there was an unauthorized transaction on your account and we want to refund the amount back to you.  receiver: Oh, really? I didn't receive any notification about this. Can you tell me more about the transaction?  caller: Yes, of course. It appears that someone has stolen your identity and used your credit card to make a purchase online. We're going to issue a refund to you, but we need to verify some information first.  receiver: That sounds serious. What kind of information do you need to verify?  caller: We just need your account number and the expiration date on your credit card. This is just for security purposes, you understand.  receiver: I'm not sure I'm comfortable giving out that information over the phone. Can you give me a call-back number so I can verify who you are?  caller: I understand your concern, but our system doesn't allow us to give out call-back numbers. Besides, this is a time-sensitive matter and we need to resolve it as soon as possible.  receiver: Okay, let me think about it for a minute. Can you tell me more about the unauthorized transaction? What was purchased and how much was it for?  caller: Ah, yes... according to our records, someone bought a laptop online for $1,500.  receiver: That's strange. I don't remember buying a laptop recently. Do you have any proof of this transaction?  caller: Proof? Well, we have all the records here, but I'm not authorized to share them with you over the phone. You'll just have to trust me on this one.  receiver: Trust you? I don't even know who you are! How did you get my phone number anyway?  caller: We got your number from our database. Look, sir, I'm trying to help you here. If you don't cooperate, we might not be able to issue the refund.  receiver: A refund? How much are we talking about?  caller: The full amount of $1,500 will be refunded to you once we verify your information.  receiver: That sounds too good to be true. What's the catch?  caller: There's no catch, sir. We just want to ensure that our customers are protected from fraud.  receiver: Okay, fine. But before I give you any information, can I speak to your supervisor?  caller: My supervisor? Uh... let me see if he's available",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 28271,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, My name is David and I'm calling from the Customer Service Department of Microsoft. We've been noticing some suspicious activity on your computer and we need to refund you $200 for the unnecessary services you were charged for. receiver: That sounds great! How did you guys detect the suspicious activity? caller: Our advanced software picked up on some malware that was installed on your system. receiver: Malware? I didn't know I had malware. Can you tell me more about it? caller: It's a pretty common issue, but don't worry, we can help you remove it remotely. But first, we need to process the refund. receiver: Okay, how do I get the refund? caller: I just need you to confirm some information. Can you please tell me your bank account number and routing number so we can deposit the refund directly into your account? receiver: Wait, why do you need my bank account information? Can't you just mail me a check or something? caller: Unfortunately, our system only allows for direct deposits. But don't worry, this is a secure process. receiver: I'm not sure...can you hold for a minute while I check with my bank to see if this is legit? caller: Of course, take your time.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 28288,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, my name is David and I'm calling from the refund department of Amazon. We've noticed that you've been overcharged on your recent purchase and we'd like to issue a refund.  receiver: Oh, really? I didn't even realize that. Can you tell me more about how this happened?  caller: Yes, it was an error on our part. We're offering a full refund of $500. But before we can process it, we need to verify some information.  receiver: What kind of information do you need?  caller: Just your name, address, and credit card number to confirm your identity.  receiver: I'm not sure I'm comfortable giving out my credit card number. Is there another way to verify my identity?  caller: I understand your concern, but this is the only way we can ensure the refund goes to the correct account. It's completely safe and secure.  receiver: Okay, let me think about it for a second. Can you tell me what specific purchase this refund is for? I have several orders pending.  caller: Let me check on that.  Ah yes, it's for the laptop you purchased last week.  receiver: I didn't purchase a laptop from Amazon last week. Are you sure you have the right person?  caller: I apologize for the mistake. Let me check again.  Ah yes, it seems we have the wrong account information. But don't worry, we can still issue the refund if you provide us with your correct information.  receiver: That sounds suspicious. How do I know this isn't a scam?  caller: I assure you, this is a legitimate call from Amazon. We're just trying to help our customers who were affected by the error.  receiver: Can you give me a callback number so I can verify this with Amazon's customer service?  caller: Unfortunately, our system doesn't allow us to provide callback numbers. But like I said, this is a legitimate call and we're trying to help you.  receiver: Okay, well I'm still not comfortable providing my personal information. Can I speak to your supervisor?  caller: My supervisor is not available at the moment. But like I said, this is a time-sensitive matter and we need to process the refund today.  receiver: I'll think about it and call back later then.  caller: Okay, but please be aware that if we don't hear back from you within 24 hours, the refund will be cancelled.  receiver: Got it, thank you for letting me know.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4972,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, my name is David and I'm calling from the Federal Trade Commission. We've been tracking a fraudulent transaction on your credit card and we need to issue a refund.  receiver: Oh really? I didn't know anything about it. Can you tell me more about the transaction?  caller: Yes, of course. It appears that someone has been using your credit card to make unauthorized purchases. We need to verify some information to process the refund.  receiver: That sounds serious. What kind of purchases were made?  caller: Let me check on that. Ah yes, it says here that there were several large transactions at an online retailer. But don't worry, we'll take care of it for you.  receiver: I see. And how much is the refund going to be?  caller: The total amount is $1,200. But like I said, we need to verify some information to ensure the refund goes to the right person.  receiver: Okay, what information do you need?  caller: We need your credit card number and expiration date to confirm your identity.  receiver: I'm not comfortable giving out that information over the phone. Can I call you back at the FTC?  caller: I understand your concern, but this is a secure line and I assure you it's completely safe. Besides, if you don't provide the information, we won't be able to issue the refund.  receiver: That doesn't sound right. How did you get my phone number anyway?  caller: We have our ways of tracking down victims of fraud. Look, let's just focus on getting you your refund, okay?  receiver: Okay... But can you give me your supervisor's name and number so I can call them to verify this?  caller: Uh, my supervisor is... uh... not available right now. But I assure you, I'm authorized to handle this case.  receiver: I'm still not sure about this. Can you hold for a minute while I check something?  caller: Sure thing.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4862,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, my name is John from Amazon customer service. I'm calling to inform you that we've issued a refund for your recent purchase. receiver: Oh, really? I didn't make a purchase recently. Can you tell me more about it? caller: Yes, of course. It seems there was an error on our part, and we need to correct the issue. Can you please confirm your account information so I can assist you further? receiver: What kind of error? And how did you get my number? caller: It was an internal mistake, and we're trying to rectify the situation. Your phone number is associated with your Amazon account. Now, if you could just give me your full name and address, I'll take care of the refund. receiver: I'm not comfortable sharing that information over the phone. Can you provide me with a reference number or something to verify this call? caller: I understand your concern, but this is a one-time courtesy call. We don't usually provide reference numbers for refunds. However, I can assure you that this is a legitimate call. If you cooperate, I can process the refund immediately. receiver: That sounds suspicious. How much is the refund for? caller: Let me check... Ah, yes! It's for $500. receiver: That's a lot of money. Are you sure it's not a mistake? And why do you need my personal information if it's a refund? caller: Like I said, it's an internal error. We need to update your account information to prevent this from happening in the future. And yes, the amount is correct. You'll receive it once we verify your details. receiver: Okay, let me think about it... Can you call me back in an hour? I need some time to decide. caller: I apologize, but this is a limited-time offer. If you don't take advantage of it now, the opportunity will be lost. Why don't I hold for a few minutes while you gather your information? receiver: No, no, that's okay. I'll call Amazon directly to confirm this call. caller: Ma'am, please don't do that! This is a special courtesy call, and if you hang up, you'll miss out on the refund. receiver: Thank you for your help, John. I'll definitely look into it.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 28279,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, this is Rachel from Amazon customer service. We've noticed that there was an error on your recent purchase and we'd like to issue a refund. receiver: Oh, really? I didn't notice anything wrong with my order. Can you tell me more about the error? caller: Yes, of course. It seems that we accidentally charged you twice for the same item. We apologize for the inconvenience. receiver: That's strange. I only got one item in the mail. Are you sure you have the right account? caller: Absolutely. We've verified your information and everything checks out. To process the refund, I just need to confirm some information with you. receiver: What kind of information do you need to confirm? caller: Just your name, address, and the last four digits of your credit card number. receiver: Why do you need my credit card number if you're giving me a refund? caller: It's just a security measure to ensure that the refund goes to the correct account. receiver: I see. But can't you just look it up in your system since I'm already talking to customer service? caller: I'm afraid not. Our system isn't set up that way. But don't worry, this is a completely safe and secure process. receiver: Okay...so how long will it take to get my refund? caller: It should be processed within the next 24-48 hours. receiver: That sounds great. But before we proceed, can you tell me what department you're calling from again? caller: Uh, let me check...yes, I'm calling from the Refund Department. receiver: And what's your employee ID number? caller: My ID number is...uh...A1234. receiver: A1234? That doesn't sound like a typical employee ID number. Can you transfer me to your supervisor? caller: I'm afraid my supervisor is not available at the moment. But I assure you, everything is legitimate here. receiver: Okay, well, I think I'll just hang up and call Amazon directly to verify this whole thing. caller: Wait, don't hang up! This is a legitimate call and we need to resolve this issue now or your account may be suspended.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4904,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, this is Rachel from the Customer Service Department of Amazon. How are you today? We've noticed that there was an unauthorized transaction on your account and we're calling to issue a refund. receiver: Oh, really? I didn't know about that. Can you tell me more about the transaction? caller: Yes, of course. It was for $500 and it looks like someone has been using your account without your permission. receiver: That sounds serious. How do you plan on issuing the refund? caller: We just need to verify some information to ensure that the refund goes to the right person. Can you please confirm your name and address? receiver: My name is John Doe, but I'm not comfortable giving out my address over the phone. Is there another way to verify? caller: Okay, no problem. Can you then please confirm your credit card number so we can process the refund? receiver: Wait, why do you need my credit card number if you're issuing a refund? Shouldn't you already have that information on file? caller: Ah, good point. Let me check on that real quick.  Okay, yeah, we do have it on file. But we need to update our system with the correct information to prevent future unauthorized transactions. receiver: I see. So, what exactly do you need to update in the system? caller: We just need to update your payment method. If you could provide us with your bank account routing number and account number, we'll take care of the rest. receiver: I'm not sure I'm comfortable sharing that information. Can I speak to your supervisor instead? caller: Of course, let me transfer you to my supervisor.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4931,
+        "category": "fraudulent service",
+        "subcategory": "refund",
+        "raw_data": "caller: Hello, this is Karen from the Microsoft Refund Department. I'm calling to inform you that you're eligible for a refund of $500 due to a technical issue with your computer.  receiver: Oh, really? I wasn't aware of any issues. Can you tell me more about what happened?  caller: Yes, of course. It seems that your computer was infected with malware, and we've since resolved the issue. However, we need to process the refund as soon as possible.  receiver: That's great news! How did you guys detect the malware? Did I download something suspicious?  caller: Uh, no, it was just a random scan we conducted on our end. Anyway, to process the refund, I'll need you to provide me with your banking information so we can deposit the funds directly into your account.  receiver: Banking information? Isn't there a safer way to do it? Like through email or something?  caller: I'm afraid not. This is the only way we can ensure the refund is processed quickly and securely. Don't worry, I'll walk you through the whole process.  receiver: Okay, but before we do that, can you tell me more about this technical issue? What kind of malware was it?  caller: Ah, let me check on that real quick.  Okay, yes... it says here it was a Trojan virus.  receiver: A Trojan virus? That sounds serious. Did it steal any of my personal information?  caller: No, no, nothing like that. It was just a minor issue. Now, about that banking information...  receiver: Hold on, I want to make sure I understand everything correctly. Can you give me your employee ID number and a call-back number so I can verify your identity?  caller: Uh, my employee ID is... uh... 23456. And you can call back at 1-800-MICROSOFT.  receiver: Okay, thanks for the info. Can you stay on the line while I verify everything?  caller: Yes, of course. Take your time.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    }
+]
