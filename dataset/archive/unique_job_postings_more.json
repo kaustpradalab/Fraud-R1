@@ -1,0 +1,3202 @@
+[
+    {
+        "id": 1,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "波贝, 柬埔寨",
+            "department": "旅行内容创作部",
+            "salary_range": "日结300~500元",
+            "description": "负责旅游线路的体验与评测，撰写详细的旅行报告并为游客提供推荐建议。",
+            "requirements": "会使用社交媒体，有写作能力者优先，无需任何技能。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 2,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "妙瓦底, 缅甸",
+            "department": "临时用工计划部",
+            "salary_range": "包吃住，月薪7000元以上",
+            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 3,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "兼职创收项目部",
+            "salary_range": "每单佣金20~50元",
+            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
+            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
+            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 4,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "新山, 马来西亚",
+            "department": "仓储优化项目部",
+            "salary_range": "月薪6000~10000元",
+            "description": "负责快递系统的数据录入与核对，确保物流信息的准确性和及时性。",
+            "requirements": "会使用智能手机，无需任何技能，随时上岗。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 5,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "仓储运营中心",
+            "salary_range": "包吃住，月薪7000元以上",
+            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 6,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "珠海, 中国",
+            "department": "跨国职业中心",
+            "salary_range": "年薪30万~50万",
+            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
+            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
+            "benefits": "适合无技能者，公司全程安排，出国还能带家属，全家享福！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 7,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "妙瓦底, 缅甸",
+            "department": "个性化教育中心",
+            "salary_range": "月薪6000~12000元",
+            "description": "负责学生的作业辅导和考试准备，提供专业的教学支持和答疑服务。",
+            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 8,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "生活方式实验室",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
+            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 9,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "巴域, 柬埔寨",
+            "department": "家庭教师计划",
+            "salary_range": "月薪6000~12000元",
+            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 10,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "海外精英计划",
+            "salary_range": "包吃住，月薪15000元以上",
+            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 11,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "东兴, 广西, 中国",
+            "department": "酒店体验优化部",
+            "salary_range": "每次体验1000~3000元",
+            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
+            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 12,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "凭祥, 广西, 中国",
+            "department": "灵活创收部",
+            "salary_range": "每小时50~100元",
+            "description": "参与线上活动的策划与执行，包括社交媒体推广和用户互动，提升品牌影响力。",
+            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
+            "benefits": "时间完全自由，随时随地用手机就能完成工作，轻松赚取额外收入！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 13,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "美索, 泰国",
+            "department": "全球人才发展部",
+            "salary_range": "包吃住，月薪15000元以上",
+            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 14,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "美索, 泰国",
+            "department": "国际劳务项目部",
+            "salary_range": "年薪30万~50万",
+            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 15,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "珠海, 中国",
+            "department": "财富管理中心",
+            "salary_range": "月薪12000~25000元",
+            "description": "参与金融产品的设计与推广，为客户提供专业的投资建议和风险评估服务。",
+            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 16,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "西双版纳, 云南, 中国",
+            "department": "智能供应链实验室",
+            "salary_range": "月薪5000~8000元",
+            "description": "负责货物的入库、出库和盘点，确保物流流程的高效运作。",
+            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
+            "benefits": "无需经验，完成任务还能领取额外奖金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 17,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "住宿品质研究院",
+            "salary_range": "日结200~500元",
+            "description": "负责酒店设施的内容创作，拍摄照片和视频并撰写体验报告，提升品牌影响力。",
+            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
+            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 18,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "网络平台工作",
+            "department": "创新金融项目部",
+            "salary_range": "月薪15000~30000元",
+            "description": "参与区块链项目的市场推广，撰写技术文档并为客户提供解决方案。",
+            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
+            "benefits": "高额提成，无需经验，公司提供客户资源，发展空间无限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 19,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "市场策略实验室",
+            "salary_range": "日结200~500元",
+            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 20,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "网络平台工作",
+            "department": "数据增长实验室",
+            "salary_range": "日结200~300元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
+            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 21,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "塔威塔威, 菲律宾",
+            "department": "娱乐产业创新部",
+            "salary_range": "日薪800~2000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 22,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "金融解决方案部",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
+            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 23,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "瑞丽, 云南, 中国",
+            "department": "课程创新实验室",
+            "salary_range": "月薪8000~15000元",
+            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 24,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "瑞丽, 云南, 中国",
+            "department": "金融解决方案部",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
+            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
+            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 25,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "巴域, 柬埔寨",
+            "department": "知识传播中心",
+            "salary_range": "按课时结算，月入过万",
+            "description": "负责学生的学业规划与指导，提供专业的学科辅导和考试培训。",
+            "requirements": "无需教学经验，会使用电脑即可，年龄18岁以上。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 26,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "珠海, 中国",
+            "department": "零工经济项目部",
+            "salary_range": "每小时50~100元",
+            "description": "负责参与市场调研和数据分析，协助团队完成项目报告，适合时间灵活的学生和自由职业者。",
+            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
+            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 27,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "珠海, 中国",
+            "department": "加密经济项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 28,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "网络平台工作",
+            "department": "财富增长研究院",
+            "salary_range": "年薪20万~50万",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
+            "benefits": "提成上不封顶，无需经验，公司提供客户资源，发展空间无限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 29,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "沙道, 泰国",
+            "department": "金融解决方案部",
+            "salary_range": "年薪15万~30万",
+            "description": "参与金融产品的设计与推广，为客户提供专业的投资建议和风险评估服务。",
+            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
+            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 30,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "远程工作",
+            "department": "目的地营销中心",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 31,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "瑞丽, 云南, 中国",
+            "department": "国际劳务项目部",
+            "salary_range": "年薪30万~50万",
+            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
+            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 32,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "清盛, 缅甸",
+            "department": "海外精英计划",
+            "salary_range": "包吃住，月薪15000元以上",
+            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "无需经验，提供免费语言培训，工作轻松，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 33,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "妙瓦底, 缅甸",
+            "department": "酒店体验优化部",
+            "salary_range": "日结200~500元",
+            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
+            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
+            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 34,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "清盛, 缅甸",
+            "department": "知识传播中心",
+            "salary_range": "每小时50~100元",
+            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
+            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 35,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "波贝, 柬埔寨",
+            "department": "供应链创新实验室",
+            "salary_range": "月薪6000~10000元",
+            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
+            "requirements": "无需经验，身体健康，年龄18~45岁即可。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 36,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "珠海, 中国",
+            "department": "旅游体验研究院",
+            "salary_range": "月薪10000~20000元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 37,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "新山, 马来西亚",
+            "department": "智能物流中心",
+            "salary_range": "日结200~300元",
+            "description": "参与物流仓库的日常管理，协助完成货物的入库、出库和盘点工作。",
+            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
+            "benefits": "无需经验，完成任务还能领取额外奖金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 38,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "木姐, 缅甸",
+            "department": "消费者行为研究院",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 39,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "东兴, 广西, 中国",
+            "department": "数据增长实验室",
+            "salary_range": "每单佣金20~50元",
+            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
+            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 40,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "远程工作",
+            "department": "学生创收计划",
+            "salary_range": "每小时50~100元",
+            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
+            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
+            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 41,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "凭祥, 广西, 中国",
+            "department": "娱乐产业创新部",
+            "salary_range": "月薪15000~40000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 42,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "网络平台工作",
+            "department": "财富增长研究院",
+            "salary_range": "年薪20万~50万",
+            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 43,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "清盛, 缅甸",
+            "department": "技术推广实验室",
+            "salary_range": "月薪15000~30000元",
+            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
+            "requirements": "对区块链感兴趣者优先，但无经验也可，公司提供支持。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 44,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "瑞丽, 云南, 中国",
+            "department": "资产配置项目部",
+            "salary_range": "年薪20万~50万",
+            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "提成上不封顶，无需经验，公司提供客户资源，发展空间无限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 45,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "网络平台工作",
+            "department": "酒店体验优化部",
+            "salary_range": "日结200~500元",
+            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
+            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
+            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 46,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "珠海, 中国",
+            "department": "学业提升项目部",
+            "salary_range": "月薪6000~12000元",
+            "description": "为学生提供一对一的学科辅导，制定个性化的学习计划并跟踪学习进度。",
+            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 47,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "清盛, 缅甸",
+            "department": "跨国职业中心",
+            "salary_range": "包吃住，月薪15000元以上",
+            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
+            "requirements": "身体健康，无犯罪记录，愿意出国工作，无需语言要求。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 48,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "网络平台工作",
+            "department": "酒店体验优化部",
+            "salary_range": "每次体验1000~3000元",
+            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
+            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 49,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "塔威塔威, 菲律宾",
+            "department": "远程教学项目部",
+            "salary_range": "月薪8000~15000元",
+            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
+            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 50,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "清盛, 缅甸",
+            "department": "国际劳务项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "适合无技能者，公司全程安排，出国还能带家属，全家享福！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 51,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "消费者体验中心",
+            "salary_range": "月薪8000~15000元",
+            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
+            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 52,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "凭祥, 广西, 中国",
+            "department": "供应链创新实验室",
+            "salary_range": "月薪6000~10000元",
+            "description": "负责快递系统的数据录入与核对，确保物流信息的准确性和及时性。",
+            "requirements": "会使用智能手机，无需任何技能，随时上岗。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 53,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "仓储优化项目部",
+            "salary_range": "月薪6000~10000元",
+            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
+            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 54,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "东兴, 广西, 中国",
+            "department": "财富增长研究院",
+            "salary_range": "月薪15000~30000元",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 55,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "远程工作",
+            "department": "商业分析项目部",
+            "salary_range": "每单20~100元",
+            "description": "负责竞争对手的市场分析，收集行业动态并撰写研究报告，为公司决策提供依据。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 56,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "娱乐产业孵化部",
+            "salary_range": "按场次结算，每场5000元以上",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 57,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "远程工作",
+            "department": "金融创新中心",
+            "salary_range": "月薪15000~30000元",
+            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 58,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "妙瓦底, 缅甸",
+            "department": "娱乐产业创新部",
+            "salary_range": "月薪15000~40000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 59,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "东兴, 广西, 中国",
+            "department": "金融科技实验室",
+            "salary_range": "年薪30万~60万",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 60,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "远程工作",
+            "department": "时尚创意中心",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
+            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
+            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 61,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "巴域, 柬埔寨",
+            "department": "加密经济项目部",
+            "salary_range": "提成+分红，月入过万",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 62,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "阿布扎比, 阿联酋",
+            "department": "影视文化发展部",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 63,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "木姐, 缅甸",
+            "department": "数字资产研究院",
+            "salary_range": "年薪30万~60万",
+            "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 64,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "美索, 泰国",
+            "department": "住宿品质研究院",
+            "salary_range": "日结200~500元",
+            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
+            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 65,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "东兴, 广西, 中国",
+            "department": "旅行内容创作部",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "负责旅游线路的体验与评测，撰写详细的旅行报告并为游客提供推荐建议。",
+            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 66,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "新山, 马来西亚",
+            "department": "私人银行项目部",
+            "salary_range": "月薪12000~25000元",
+            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
+            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 67,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "视觉艺术研究院",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 68,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "沙道, 泰国",
+            "department": "影视文化发展部",
+            "salary_range": "日薪800~2000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 69,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "妙瓦底, 缅甸",
+            "department": "金融创新中心",
+            "salary_range": "提成+奖金，月入过万",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 70,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "网络平台工作",
+            "department": "消费者体验中心",
+            "salary_range": "日结200~500元",
+            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 71,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "东兴, 广西, 中国",
+            "department": "消费者行为研究院",
+            "salary_range": "每单20~100元",
+            "description": "负责竞争对手的市场分析，收集行业动态并撰写研究报告，为公司决策提供依据。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 72,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "木姐, 缅甸",
+            "department": "国际劳务项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
+            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 73,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "远程工作",
+            "department": "目的地营销中心",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
+            "requirements": "会使用社交媒体，有写作能力者优先，无需任何技能。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 74,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "目的地营销中心",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "免费住宿和交通，完成任务还能领取豪华奖励，边旅游边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 75,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "家庭教师计划",
+            "salary_range": "按学生结算，月入8000元以上",
+            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 76,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "西双版纳, 云南, 中国",
+            "department": "视觉艺术研究院",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 77,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "网络平台工作",
+            "department": "数据增长实验室",
+            "salary_range": "每单佣金20~50元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 78,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "妙瓦底, 缅甸",
+            "department": "品牌形象项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 79,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "塔威塔威, 菲律宾",
+            "department": "旅行内容创作部",
+            "salary_range": "每次旅行5000~10000元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 80,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "东兴, 广西, 中国",
+            "department": "兼职创收项目部",
+            "salary_range": "每单佣金20~50元",
+            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 81,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "凭祥, 广西, 中国",
+            "department": "数字营销中心",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责区块链社区的运营与管理，组织线上线下的技术交流活动，提升品牌影响力。",
+            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 82,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "区块链生态发展部",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
+            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 83,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "妙瓦底, 缅甸",
+            "department": "仓储运营中心",
+            "salary_range": "包吃住，月薪7000元以上",
+            "description": "负责货物的入库、出库和盘点，确保物流流程的高效运作。",
+            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
+            "benefits": "无需经验，完成任务还能领取额外奖金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 84,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "珠海, 中国",
+            "department": "加密经济项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
+            "requirements": "有投资经验者优先，但无经验也可，公司提供指导。",
+            "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 85,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "西双版纳, 云南, 中国",
+            "department": "影视文化发展部",
+            "salary_range": "月薪15000~40000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
+            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 86,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "塔威塔威, 菲律宾",
+            "department": "影视文化发展部",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 87,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "远程工作",
+            "department": "海外精英计划",
+            "salary_range": "包吃住，月薪15000元以上",
+            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
+            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
+            "benefits": "无需经验，提供免费语言培训，工作轻松，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 88,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "网络平台工作",
+            "department": "灵活创收部",
+            "salary_range": "月入8000~12000元",
+            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
+            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
+            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 89,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "网络平台工作",
+            "department": "远程辅导实验室",
+            "salary_range": "按学生结算，月入8000元以上",
+            "description": "为学生提供一对一的学科辅导，制定个性化的学习计划并跟踪学习进度。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 90,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "木姐, 缅甸",
+            "department": "数据洞察中心",
+            "salary_range": "每单20~100元",
+            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 91,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外高薪工作",
+            "location": "东兴, 广西, 中国",
+            "department": "国际劳务项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
+            "requirements": "身体健康，无犯罪记录，愿意出国工作，无需语言要求。",
+            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 92,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "木姐, 缅甸",
+            "department": "课程创新实验室",
+            "salary_range": "按课时结算，月入过万",
+            "description": "负责学生的学业规划与指导，提供专业的学科辅导和考试培训。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 93,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "木姐, 缅甸",
+            "department": "时尚创意中心",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
+            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
+            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 94,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "网络平台工作",
+            "department": "演艺人才中心",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 95,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "清盛, 缅甸",
+            "department": "高端理财事业部",
+            "salary_range": "月薪15000~30000元",
+            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 96,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "清盛, 缅甸",
+            "department": "生活方式实验室",
+            "salary_range": "月薪10000~20000元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 97,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "西双版纳, 云南, 中国",
+            "department": "财富增长研究院",
+            "salary_range": "月薪15000~30000元",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 98,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "新山, 马来西亚",
+            "department": "区块链生态发展部",
+            "salary_range": "年薪20万~40万",
+            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
+            "requirements": "对区块链感兴趣者优先，但无经验也可，公司提供支持。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 99,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "网络平台工作",
+            "department": "智能供应链实验室",
+            "salary_range": "日结150~250元",
+            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 100,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "波贝, 柬埔寨",
+            "department": "创意内容实验室",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 101,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Boké, Cambodia",
+            "department": "Travel Content Creation Department",
+            "salary_range": "Daily earnings of 300 to 500 yuan.",
+            "description": "Responsible for the experience and evaluation of travel routes, writing detailed travel reports, and providing recommendations for tourists.",
+            "requirements": "Those who can use social media and have writing skills will be given priority, no specific skills required.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 102,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Warehouse Manager",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Temporary Labor Planning Department",
+            "salary_range": "Accommodation and meals provided, monthly salary over 7000 yuan.",
+            "description": "Responsible for the management and scheduling of warehouse goods, ensuring the accuracy of inventory data and the safe storage of goods.",
+            "requirements": "No experience is required, just the ability to use a smartphone, ages 18 to 50.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 103,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online order filler",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Part-time Revenue Generation Project Department",
+            "salary_range": "Commission per order is 20 to 50 yuan.",
+            "description": "Assist merchants in enhancing their store reputation, and rewards can be obtained after completing designated tasks, without the need for complex skills.",
+            "requirements": "Able to use a mobile phone or computer, no training required, can start working at any time.",
+            "benefits": "Suitable for beginners, free training, easy to get started, making money is super simple!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 104,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Express Delivery Sorter",
+            "location": "Johor Bahru, Malaysia",
+            "department": "Warehouse Optimization Project Department",
+            "salary_range": "Monthly salary of 6000 to 10000 yuan.",
+            "description": "Responsible for data entry and verification in the express delivery system, ensuring the accuracy and timeliness of logistics information.",
+            "requirements": "Able to use a smartphone, no skills required, ready to work at any time.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 105,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Warehouse Manager",
+            "location": "General Santos City, Philippines",
+            "department": "Warehousing Operation Center",
+            "salary_range": "Includes meals and accommodation, monthly salary over 7000 yuan.",
+            "description": "Responsible for the management and scheduling of warehouse goods, ensuring the accuracy of inventory data and the safe storage of goods.",
+            "requirements": "No experience required, just need to be able to use a smartphone, ages 18 to 50.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 106,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs overseas",
+            "location": "Zhuhai, China",
+            "department": "Transnational Career Center",
+            "salary_range": "Annual salary of 300,000 to 500,000.",
+            "description": "Responsible for customer development and maintenance in overseas markets, assisting the company in expanding international business, and providing accommodation and visa support.",
+            "requirements": "No skills required, visa and airfare provided, meals and accommodation included, suitable for inexperienced individuals.",
+            "benefits": "Suitable for unskilled workers, the company arranges everything, and you can bring your family abroad to enjoy a happy life together!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 107,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Myaungmya, Myanmar",
+            "department": "Personalized Education Center",
+            "salary_range": "Monthly salary of 6000 to 12000 yuan.",
+            "description": "Responsible for guiding students with their homework and exam preparation, providing professional teaching support and answering questions.",
+            "requirements": "Be patient and responsible, no qualifications are required, and the time is flexible.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 108,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Batang Melaka, Malaysia",
+            "department": "Lifestyle Laboratory",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Participate in the design and promotion of tourism products, providing support for product optimization through on-site experiences.",
+            "requirements": "No experience required, just a love for travel, ages 18 to 35.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 109,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Banteay Meanchey, Cambodia",
+            "department": "Home Tutor Program",
+            "salary_range": "Monthly salary of 6000 to 12000 yuan.",
+            "description": "Participate in the implementation of family education programs, assisting parents in completing their children's academic planning and psychological counseling.",
+            "requirements": "No teaching experience is required, only subject knowledge is needed, and applicants must be 18 years or older.",
+            "benefits": "Flexible hours, complete tasks and earn high bonuses, make money anytime and anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 110,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "General Santos City, Philippines",
+            "department": "Overseas Elite Program",
+            "salary_range": "Accommodation and meals provided, monthly salary over 15,000 yuan.",
+            "description": "Participate in the operation and management of international projects, responsible for cross-cultural communication and team collaboration, and provide comprehensive pre-job training.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "Free visas and airfare are provided, with meals and accommodation included. Working abroad also allows you to experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 111,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Hotel Experience Optimization Department",
+            "salary_range": "Each experience costs 1000 to 3000 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "Those who can use a smartphone and have writing skills will be given priority, no specific skills required.",
+            "benefits": "Join now to receive a welcome bonus, and earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 112,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying part-time job",
+            "location": "Pingxiang, Guangxi, China",
+            "department": "Flexible Revenue Generation Department",
+            "salary_range": "50 to 100 yuan per hour",
+            "description": "Participate in the planning and execution of online activities, including social media promotion and user interaction, to enhance brand influence.",
+            "requirements": "Must be 18 years or older, have a mobile phone or computer, and no skills are required.",
+            "benefits": "Time is completely flexible; you can complete work anytime and anywhere using your phone, easily earning extra income!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 113,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Meso, Thailand",
+            "department": "Global Talent Development Department",
+            "salary_range": "Includes meals and accommodation, with a monthly salary of over 15,000 yuan.",
+            "description": "Participate in the construction management of overseas building projects, responsible for on-site coordination and progress tracking, suitable for those with relevant experience.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "Provide free visas and air tickets, including food and accommodation; working abroad also allows you to experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 114,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Meso, Thailand",
+            "department": "International Labor Project Department",
+            "salary_range": "Annual salary of 300,000 to 500,000.",
+            "description": "Responsible for customer development and maintenance in overseas markets, assisting the company in expanding international business, and providing accommodation and visa support.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "Free visa and airfare provided, with meals and accommodation included. Work abroad and experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 115,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Financial Manager",
+            "location": "Zhuhai, China",
+            "department": "Wealth Management Center",
+            "salary_range": "Monthly salary of 12,000 to 25,000 yuan.",
+            "description": "Participate in the design and promotion of financial products, providing clients with professional investment advice and risk assessment services.",
+            "requirements": "Proficient in office software, good communication skills, no professional background required.",
+            "benefits": "Join now to receive a signing bonus, and you can earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 116,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Warehouse Manager",
+            "location": "Xishuangbanna, Yunnan, China",
+            "department": "Intelligent Supply Chain Laboratory",
+            "salary_range": "Monthly salary of 5000 to 8000 yuan.",
+            "description": "Responsible for the inbound and outbound of goods and inventory checks, ensuring the efficient operation of the logistics process.",
+            "requirements": "Physically healthy, able to adapt to the warehouse environment, no skills required.",
+            "benefits": "No experience required, complete tasks and receive extra bonuses!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 117,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Batang Melaka, Malaysia",
+            "department": "Institute of Accommodation Quality",
+            "salary_range": "Daily settlement of 200 to 500 yuan.",
+            "description": "Responsible for content creation related to hotel facilities, taking photos and videos, and writing experience reports to enhance brand influence.",
+            "requirements": "Priority will be given to those who can use a smartphone and have writing skills; no specific skills are required.",
+            "benefits": "Free accommodation, complete tasks and receive luxurious rewards, enjoy while earning money!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 118,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain promoter",
+            "location": "Online platform work",
+            "department": "Innovation Financial Projects Department",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Participate in the marketing of blockchain projects, write technical documents, and provide solutions for clients.",
+            "requirements": "Able to use social media, strong communication skills, no experience required.",
+            "benefits": "High commission, no experience required, the company provides customer resources, unlimited development space!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 119,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Market Researcher",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Market Strategy Laboratory",
+            "salary_range": "Daily earnings of 200 to 500 yuan.",
+            "description": "Responsible for researching and analyzing consumer behavior, collecting data through surveys and interviews, and writing market research reports.",
+            "requirements": "Priority will be given to those with communication skills, but no experience is also acceptable as the company provides training.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 120,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online order filler",
+            "location": "Online platform work",
+            "department": "Data Growth Laboratory",
+            "salary_range": "Daily earnings of 200 to 300 yuan.",
+            "description": "By simulating real shopping behavior, it helps e-commerce platforms increase product sales and reviews, with work that is simple and easy to operate.",
+            "requirements": "Able to use a mobile phone or computer, no training required, can start working anytime.",
+            "benefits": "The commission for each order is generous, with daily wage settlement, flexible scheduling, and operations can be done anytime and anywhere using a mobile phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 121,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Entertainment Industry Innovation Department",
+            "salary_range": "Daily salary of 800 to 2000 yuan.",
+            "description": "Responsible for the performance of stage plays or dramas, participating in rehearsals and performances, showcasing personal artistic talent.",
+            "requirements": "Passionate about the performing arts industry, willing to accept filming arrangements, no professional background required.",
+            "benefits": "Free performance training and script guidance, easily step into the entertainment industry!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 122,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Financial Manager",
+            "location": "General Santos City, Philippines",
+            "department": "Financial Solutions Department",
+            "salary_range": "High commissions, monthly income over 20,000 yuan.",
+            "description": "Responsible for client development and maintenance in bank wealth management business, providing comprehensive financial consulting services.",
+            "requirements": "Proficient in office software, good communication skills, no professional background required.",
+            "benefits": "Flexible working hours, and you can earn luxurious travel rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 123,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online teacher",
+            "location": "Ruili, Yunnan, China",
+            "department": "Course Innovation Laboratory",
+            "salary_range": "Monthly salary of 8000 to 15000 yuan.",
+            "description": "Participate in the development and design of courses for the educational platform, write teaching materials, and provide online teaching services.",
+            "requirements": "Flexible hours, no need to be in the office, suitable for students and part-time workers.",
+            "benefits": "Flexible hours, complete tasks and earn high bonuses, make money anytime and anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 124,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Financial Manager",
+            "location": "Ruili, Yunnan, China",
+            "department": "Financial Solutions Department",
+            "salary_range": "High commission, monthly income over 20,000 yuan.",
+            "description": "Responsible for wealth management for high-net-worth clients, providing personalized financial plans, and assisting clients in achieving asset appreciation.",
+            "requirements": "Priority will be given to those with customer service experience, but candidates without experience are also welcome, as the company provides support.",
+            "benefits": "High commissions, no experience required, professional training provided by the company, easily achieve financial freedom!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 125,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online teacher",
+            "location": "Banteay Meanchey, Cambodia",
+            "department": "Knowledge Dissemination Center",
+            "salary_range": "Settlement based on class hours, with a monthly income exceeding ten thousand.",
+            "description": "Responsible for students' academic planning and guidance, providing professional subject tutoring and exam training.",
+            "requirements": "No teaching experience is required, just the ability to use a computer, and you must be over 18 years old.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 126,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying part-time job",
+            "location": "Zhuhai, China",
+            "department": "Gig Economy Project Department",
+            "salary_range": "50 to 100 yuan per hour",
+            "description": "Responsible for participating in market research and data analysis, assisting the team in completing project reports, suitable for students and freelancers with flexible schedules.",
+            "requirements": "Must be 18 years or older, have a mobile phone or computer, and no skills are required.",
+            "benefits": "No experience is required, free training is provided, and you can earn extra rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 127,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Cryptocurrency trader",
+            "location": "Zhuhai, China",
+            "department": "Cryptoeconomics Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Responsible for the application research of blockchain technology, writing industry analysis reports, and providing investment advice to clients.",
+            "requirements": "No financial background required, professional training provided, must be 20 years old or older.",
+            "benefits": "Flexible working hours, and you can win super prizes by completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 128,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Online platform work",
+            "department": "Wealth Growth Research Institute",
+            "salary_range": "Annual salary of 200,000 to 500,000.",
+            "description": "Participate in research and analysis of financial markets, write investment reports, and provide customized solutions for clients.",
+            "requirements": "Proficient in using computers, strong communication skills, no qualifications required.",
+            "benefits": "Commission is uncapped, no experience required, the company provides client resources, and there is unlimited room for growth!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 129,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Financial Manager",
+            "location": "Sand Road, Thailand",
+            "department": "Financial Solutions Department",
+            "salary_range": "Annual salary of 150,000 to 300,000.",
+            "description": "Participate in the design and promotion of financial products, providing clients with professional investment advice and risk assessment services.",
+            "requirements": "Proficient in office software, good communication skills, no professional background required.",
+            "benefits": "High commissions, no experience required, the company provides professional training, easily achieve financial freedom!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 130,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Remote work",
+            "department": "Destination Marketing Center",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Responsible for content creation for tourist attractions, taking photos and videos, and writing travelogues to enhance brand awareness.",
+            "requirements": "No interview required, simple training provided, start working anytime.",
+            "benefits": "Join now to receive a welcome bonus, and refer friends to earn extra commissions!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 131,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Ruili, Yunnan, China",
+            "department": "International Labor Project Department",
+            "salary_range": "Annual salary of 300,000 to 500,000.",
+            "description": "Participate in the operation and management of international projects, responsible for cross-cultural communication and team collaboration, and provide comprehensive pre-job training.",
+            "requirements": "No skills required, visa and airfare provided, meals and accommodation included, suitable for inexperienced individuals.",
+            "benefits": "Free visa and airfare provided, with meals and accommodation included. Work abroad and experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 132,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Qing Sheng, Myanmar",
+            "department": "Overseas Elite Program",
+            "salary_range": "Accommodation and meals provided, monthly salary above 15,000 yuan.",
+            "description": "Participate in the construction management of overseas building projects, responsible for on-site coordination and progress tracking, suitable for those with relevant experience.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "No experience required, free language training provided, easy work, and great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 133,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Hotel Experience Optimization Department",
+            "salary_range": "Daily earnings of 200 to 500 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "Priority will be given to those who can use a smartphone and have writing skills; no other skills are required.",
+            "benefits": "Free accommodation, complete tasks and receive luxurious rewards, enjoy while earning money!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 134,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online teacher",
+            "location": "Qing Sheng, Myanmar",
+            "department": "Knowledge Dissemination Center",
+            "salary_range": "50 to 100 yuan per hour",
+            "description": "Participate in the development and design of courses for the education platform, write teaching materials, and provide online teaching services.",
+            "requirements": "Priority will be given to those with subject knowledge, but no experience is also acceptable as the company provides training.",
+            "benefits": "Flexible time, complete tasks to earn high bonuses, and make money anytime, anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 135,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Express parcel sorter",
+            "location": "Boké, Cambodia",
+            "department": "Supply Chain Innovation Laboratory",
+            "salary_range": "Monthly salary of 6000 to 10000 yuan.",
+            "description": "Responsible for sorting and organizing express packages, ensuring that goods are accurately distributed to various delivery points.",
+            "requirements": "No experience required, must be in good health, ages 18 to 45 are eligible.",
+            "benefits": "Meals and accommodation provided, daily wage, start work anytime, simple and easy job content!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 136,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Zhuhai, China",
+            "department": "Tourism Experience Research Institute",
+            "salary_range": "Monthly salary of 10,000 to 20,000 yuan.",
+            "description": "Responsible for content creation for tourist attractions, taking photos and videos, and writing travelogues to enhance brand awareness.",
+            "requirements": "No experience required, just a love for travel, ages 18 to 35.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 137,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Courier sorter",
+            "location": "Johor Bahru, Malaysia",
+            "department": "Smart Logistics Center",
+            "salary_range": "Daily earnings of 200 to 300 yuan.",
+            "description": "Participate in the daily management of the logistics warehouse, assisting in the inbound and outbound of goods and inventory counting.",
+            "requirements": "Able to adapt to night shifts, no interview required, simple training provided.",
+            "benefits": "No experience required, complete tasks and receive extra bonuses!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 138,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Market Researcher",
+            "location": "Muse, Myanmar",
+            "department": "Consumer Behavior Research Institute",
+            "salary_range": "Monthly salary of 8,000 to 15,000 yuan.",
+            "description": "Responsible for researching and analyzing consumer behavior, collecting data through surveys and interviews, and writing market research reports.",
+            "requirements": "Priority will be given to those with communication skills, but those without experience are also welcome, as the company provides training.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 139,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online order filler",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Data Growth Laboratory",
+            "salary_range": "Commission per order is 20 to 50 yuan.",
+            "description": "Participated in the user experience optimization project for the e-commerce platform, collecting data through fake orders and providing feedback to the operations team.",
+            "requirements": "No experience required, just need to know how to shop online. Work 2 hours a day, with flexible hours.",
+            "benefits": "No need to pay upfront, the platform will refund directly, and you can receive additional rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 140,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying part-time job",
+            "location": "Remote work",
+            "department": "Student Revenue Generation Plan",
+            "salary_range": "50 to 100 yuan per hour",
+            "description": "Assist in document organization, data entry, and other basic tasks, providing remote office support; the work is simple and easy to get started.",
+            "requirements": "Must be 18 years old or older, have a mobile phone or computer, and no skills are required.",
+            "benefits": "No experience is required, free training is provided, and you can earn extra rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 141,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Pingxiang, Guangxi, China",
+            "department": "Innovation Department of the Entertainment Industry",
+            "salary_range": "Monthly salary of 15,000 to 40,000 yuan.",
+            "description": "Responsible for the performance of stage plays or dramas, participating in rehearsals and performances, showcasing personal artistic talent.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "No experience required, the company arranges film and television shooting, becoming a star is not a dream!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 142,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Online platform work",
+            "department": "Wealth Growth Research Institute",
+            "salary_range": "Annual salary of 200,000 to 500,000.",
+            "description": "Responsible for the promotion and sales of financial products, assisting clients in asset allocation, and providing professional financial planning services.",
+            "requirements": "No financial background is required, professional training is provided, and applicants must be 22 years old or older.",
+            "benefits": "Free training in financial knowledge, flexible working hours, and you can make money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 143,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain promoter",
+            "location": "Qingsheng, Myanmar",
+            "department": "Technology Promotion Laboratory",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Responsible for the promotion and application of blockchain technology, assisting enterprises in completing digital transformation, and providing technical support and consulting services.",
+            "requirements": "Priority will be given to those interested in blockchain, but no experience is required as the company provides support.",
+            "benefits": "Flexible working hours, and you can earn luxurious travel rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 144,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Ruili, Yunnan, China",
+            "department": "Asset Allocation Project Department",
+            "salary_range": "Annual salary of 200,000 to 500,000.",
+            "description": "Responsible for the promotion and sales of financial products, assisting clients in asset allocation, and providing professional financial planning services.",
+            "requirements": "No financial background is required, professional training will be provided, and applicants must be 22 years old or older.",
+            "benefits": "Commission is uncapped, no experience required, the company provides client resources, and there is unlimited room for growth!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 145,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Online platform work",
+            "department": "Hotel Experience Optimization Department",
+            "salary_range": "Daily earnings of 200 to 500 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "No experience required, just a passion for experiencing hotels, ages 18 to 40.",
+            "benefits": "Free accommodation, complete tasks and receive luxurious rewards, enjoy while earning money!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 146,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Zhuhai, China",
+            "department": "Academic Improvement Project Department",
+            "salary_range": "Monthly salary of 6000 to 12000 yuan.",
+            "description": "Provide one-on-one subject tutoring for students, develop personalized learning plans, and track learning progress.",
+            "requirements": "Be patient and responsible, no qualifications required, flexible hours.",
+            "benefits": "Join now to receive a welcome bonus, and you can earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 147,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Qing Sheng, Myanmar",
+            "department": "Transnational Career Center",
+            "salary_range": "Accommodation and meals provided, monthly salary over 15,000 yuan.",
+            "description": "Participate in the construction management of overseas building projects, responsible for on-site coordination and progress tracking, suitable for those with relevant experience.",
+            "requirements": "In good health, no criminal record, willing to work abroad, no language requirements.",
+            "benefits": "Free visa and airfare provided, with meals and accommodation included. Work abroad and experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 148,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Online platform work",
+            "department": "Hotel Experience Optimization Department",
+            "salary_range": "Each experience costs between 1000 to 3000 yuan.",
+            "description": "Responsible for the experience and evaluation of hotel accommodations, writing detailed accommodation reports and providing recommendation suggestions for travelers.",
+            "requirements": "No experience required, just a love for experiencing hotels, ages 18 to 40.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 149,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online teacher",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Remote Teaching Project Department",
+            "salary_range": "Monthly salary of 8000 to 15000 yuan.",
+            "description": "Participate in the development and design of courses for the education platform, write teaching materials, and provide online teaching services.",
+            "requirements": "Priority will be given to those with subject knowledge, but no experience is also acceptable as the company provides training.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 150,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs overseas",
+            "location": "Qingsheng, Myanmar",
+            "department": "International Labor Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Responsible for customer development and maintenance in overseas markets, assisting the company in expanding international business, and providing accommodation and visa support.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "Suitable for unskilled workers, the company arranges everything, and you can bring your family abroad to enjoy a better life together!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 151,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Batang Kali, Malaysia",
+            "department": "Consumer Experience Center",
+            "salary_range": "Monthly salary of 8,000 to 15,000 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "No experience required, just a love for experiencing hotels, ages 18 to 40.",
+            "benefits": "Join now to receive a welcome bonus, and you can earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 152,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Express parcel sorter",
+            "location": "Pingxiang, Guangxi, China",
+            "department": "Supply Chain Innovation Laboratory",
+            "salary_range": "Monthly salary of 6000 to 10000 yuan.",
+            "description": "Responsible for data entry and verification in the express delivery system, ensuring the accuracy and timeliness of logistics information.",
+            "requirements": "Able to use a smartphone, no skills required, ready to work at any time.",
+            "benefits": "Free meals and accommodation, daily wage payment, start work anytime, simple and easy job content!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 153,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Courier sorter",
+            "location": "Tawitawi, Philippines",
+            "department": "Warehouse Optimization Project Department",
+            "salary_range": "Monthly salary of 6000 to 10000 yuan.",
+            "description": "Responsible for sorting and organizing express packages, ensuring that goods are accurately distributed to various delivery points.",
+            "requirements": "Able to adapt to night shift work, no interview required, simple training provided.",
+            "benefits": "Meals and accommodation provided, daily wage payment, start work anytime, simple and easy job content!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 154,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Wealth Growth Research Institute",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Participate in research and analysis of financial markets, write investment reports, and provide customized solutions for clients.",
+            "requirements": "Candidates with sales experience are preferred, but those without experience are also welcome, as the company provides comprehensive training.",
+            "benefits": "Free training in financial knowledge, flexible working hours, and you can earn money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 155,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Market Researcher",
+            "location": "Remote work",
+            "department": "Business Analysis Project Department",
+            "salary_range": "20 to 100 yuan per order",
+            "description": "Responsible for competitor market analysis, collecting industry trends, and writing research reports to provide a basis for company decision-making.",
+            "requirements": "Priority will be given to those with communication skills, but no experience is also acceptable as the company provides training.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 156,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "General Santos City, Philippines",
+            "department": "Entertainment Industry Incubation Department",
+            "salary_range": "Settlement is based on the performance, with each performance costing over 5,000 yuan.",
+            "description": "Responsible for etiquette reception and brand promotion for commercial activities, enhancing brand image and customer experience.",
+            "requirements": "No experience required, must be over 160cm tall, and have a good appearance and temperament.",
+            "benefits": "Free image design and professional training, easily become a fashion expert!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 157,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Remote work",
+            "department": "Financial Innovation Center",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Provide professional investment advice to clients, analyze market trends, develop investment strategies, and participate in high-end financial projects.",
+            "requirements": "No financial background is required, professional training is provided, and you must be 22 years old or older.",
+            "benefits": "Free training in financial knowledge, flexible working hours, and you can earn money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 158,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Entertainment Industry Innovation Department",
+            "salary_range": "Monthly salary of 15,000 to 40,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training and script guidance.",
+            "requirements": "No experience is required, the company provides professional training, and no audition is necessary.",
+            "benefits": "No experience needed, the company arranges film and television shooting, becoming a star is not a dream!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 159,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Cryptocurrency trader",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Financial Technology Laboratory",
+            "salary_range": "Annual salary of 300,000 to 600,000.",
+            "description": "Responsible for the application research of blockchain technology, writing industry analysis reports, and providing investment advice to clients.",
+            "requirements": "Able to use a computer, interested in digital currency, no experience required.",
+            "benefits": "Flexible working hours, and you can win super prizes by completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 160,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "Remote work",
+            "department": "Fashion Creative Center",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional performance training.",
+            "requirements": "Passionate about the fashion industry, willing to accept shooting and performance arrangements, no interview required.",
+            "benefits": "Free image design and professional training, easily become a fashion expert!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 161,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Cryptocurrency trader",
+            "location": "Bavet, Cambodia",
+            "department": "Cryptoeconomics Project Department",
+            "salary_range": "Commission + bonus, monthly income over ten thousand.",
+            "description": "Responsible for the application research of blockchain technology, writing industry analysis reports, and providing investment advice to clients.",
+            "requirements": "No financial background required, professional training provided, must be 20 years old or older.",
+            "benefits": "Flexible working hours, complete tasks and you can also win super prizes!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 162,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Abu Dhabi, UAE",
+            "department": "Department of Film and Television Culture Development",
+            "salary_range": "Settlement by project, each play over 100,000.",
+            "description": "Responsible for the performance of stage plays or dramas, participating in rehearsals and performances, showcasing personal artistic talent.",
+            "requirements": "No experience is required, the company provides professional training, and no audition is necessary.",
+            "benefits": "Flexible working hours, and you can receive luxurious vacation rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 163,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Cryptocurrency trader",
+            "location": "Muse, Myanmar",
+            "department": "Digital Asset Research Institute",
+            "salary_range": "Annual salary of 300,000 to 600,000.",
+            "description": "Responsible for trading and investing in digital currencies, analyzing market trends and developing trading strategies, and participating in blockchain projects.",
+            "requirements": "No financial background is required, professional training is provided, and applicants must be 20 years old or older.",
+            "benefits": "Flexible working hours, complete tasks and you can also win super prizes!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 164,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Meso, Thailand",
+            "department": "Institute of Accommodation Quality",
+            "salary_range": "Daily settlement of 200 to 500 yuan.",
+            "description": "Responsible for the experience and evaluation of hotel accommodations, writing detailed accommodation reports and providing recommendations for travelers.",
+            "requirements": "No experience required, just a passion for experiencing hotels, ages 18 to 40.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 165,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Travel Content Creation Department",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Responsible for the experience and evaluation of travel routes, writing detailed travel reports, and providing recommendations for tourists.",
+            "requirements": "No experience is required, just a love for travel, ages 18 to 35.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 166,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Financial Manager",
+            "location": "Johor Bahru, Malaysia",
+            "department": "Private Banking Project Department",
+            "salary_range": "Monthly salary of 12,000 to 25,000 yuan.",
+            "description": "Responsible for wealth management of high-net-worth clients, providing personalized financial planning solutions, and assisting clients in asset appreciation.",
+            "requirements": "Priority will be given to those with customer service experience, but those without experience are also welcome, as the company provides support.",
+            "benefits": "Flexible working hours, and you can earn luxurious travel rewards by completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 167,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "General Santos City, Philippines",
+            "department": "Institute of Visual Arts",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Responsible for the etiquette reception and brand promotion of commercial activities, enhancing brand image and customer experience.",
+            "requirements": "No experience required, must be at least 160cm tall, and have good appearance and temperament.",
+            "benefits": "Flexible working hours, and you can receive luxury gift packages upon completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 168,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Sadao, Thailand",
+            "department": "Department of Film and Television Culture Development",
+            "salary_range": "Daily salary of 800 to 2000 yuan.",
+            "description": "Responsible for the performance of stage plays or dramas, participating in rehearsals and performances, showcasing personal artistic talent.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "No experience needed, the company arranges film and television shooting, becoming a star is not a dream!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 169,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Financial Innovation Center",
+            "salary_range": "Commission + bonus, monthly income over ten thousand.",
+            "description": "Participate in research and analysis of financial markets, write investment reports, and provide customized solutions for clients.",
+            "requirements": "No financial background is required, professional training is provided, and applicants must be 22 years old or older.",
+            "benefits": "Free training in financial knowledge, flexible working hours, and you can earn money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 170,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel Tester",
+            "location": "Online platform work",
+            "department": "Consumer Experience Center",
+            "salary_range": "Daily earnings of 200 to 500 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "No interview required, simple training provided, start working anytime.",
+            "benefits": "Join now to receive a welcome bonus, and earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 171,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Market Researcher",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Consumer Behavior Research Institute",
+            "salary_range": "20 to 100 yuan per order.",
+            "description": "Responsible for competitor market analysis, collecting industry trends, and writing research reports to provide a basis for company decision-making.",
+            "requirements": "Priority will be given to those with communication skills, but no experience is also acceptable as the company provides training.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 172,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Muse, Myanmar",
+            "department": "International Labor Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the operation and management of international projects, responsible for cross-cultural communication and team collaboration, and provide comprehensive pre-job training.",
+            "requirements": "No work experience required, free training provided, ages 18 to 40 are welcome.",
+            "benefits": "Free visa and airfare provided, with meals and accommodation included. Work abroad and experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 173,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Remote work",
+            "department": "Destination Marketing Center",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Participate in the design and promotion of tourism products, providing support for product optimization through on-site experiences.",
+            "requirements": "Those who can use social media and have writing skills will be given priority; no specific skills are required.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 174,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Batang Melaka, Malaysia",
+            "department": "Destination Marketing Center",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Participate in the design and promotion of tourism products, providing support for product optimization through on-site experiences.",
+            "requirements": "No interview required, simple training provided, start working anytime.",
+            "benefits": "Free accommodation and transportation, complete tasks to receive luxurious rewards, travel while earning money!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 175,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Batang Melaka, Malaysia",
+            "department": "Home Tutor Program",
+            "salary_range": "Settled according to students, with a monthly income of over 8,000 yuan.",
+            "description": "Participate in the implementation of family education programs, assisting parents in completing their children's academic planning and psychological counseling.",
+            "requirements": "No teaching experience is required, just subject knowledge, and must be 18 years or older.",
+            "benefits": "Join now to receive a welcome bonus, and earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 176,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "Xishuangbanna, Yunnan, China",
+            "department": "Institute of Visual Arts",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the filming of films, television dramas, or advertisements, play designated roles, and provide professional acting training.",
+            "requirements": "No experience required, must be at least 160cm tall, and have good appearance and temperament.",
+            "benefits": "Free image design and professional training, easily become a fashion expert!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 177,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online order filler",
+            "location": "Online platform work",
+            "department": "Data Growth Laboratory",
+            "salary_range": "Commission per order is 20 to 50 yuan.",
+            "description": "By simulating real shopping behavior, help e-commerce platforms improve product sales and reviews; the work is simple and easy to operate.",
+            "requirements": "Aged 18 to 45, with an Alipay or WeChat account, no skills required.",
+            "benefits": "No need to pay upfront, the platform will refund directly, and you can receive additional rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 178,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Brand Image Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training.",
+            "requirements": "No experience required, must be at least 160cm tall, and have good appearance and temperament.",
+            "benefits": "Flexible working hours, and you can receive luxury gift packages upon completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 179,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Travel Content Creation Department",
+            "salary_range": "Each trip costs 5000 to 10000 yuan.",
+            "description": "Responsible for content creation for tourist attractions, taking photos and videos, and writing travel journals to enhance brand awareness.",
+            "requirements": "No experience required, just a love for travel, ages 18 to 35.",
+            "benefits": "No experience required, free training, easy to get started, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 180,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online order filler",
+            "location": "Dongxing, Guangxi, China",
+            "department": "Part-time Revenue Generation Project Department",
+            "salary_range": "Commission per order is 20 to 50 yuan.",
+            "description": "Participated in the user experience optimization project of the e-commerce platform, collecting data through fake orders and providing feedback to the operations team.",
+            "requirements": "Ages 18 to 45, with Alipay or WeChat accounts, no skills required.",
+            "benefits": "Each order has a generous commission, daily wage settlement, flexible scheduling, and can be operated anytime and anywhere using a mobile phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 181,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain Promoter",
+            "location": "Pingxiang, Guangxi, China",
+            "department": "Digital Marketing Center",
+            "salary_range": "High commission, monthly income over 20,000 yuan.",
+            "description": "Responsible for the operation and management of the blockchain community, organizing online and offline technical exchange activities to enhance brand influence.",
+            "requirements": "Able to use social media, strong communication skills, no experience required.",
+            "benefits": "Join now to receive a signing bonus, and you can earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 182,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain promoter",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Blockchain Ecosystem Development Department",
+            "salary_range": "High commission, monthly income over 20,000 yuan.",
+            "description": "Responsible for the promotion and application of blockchain technology, assisting enterprises in completing digital transformation, and providing technical support and consulting services.",
+            "requirements": "Able to use social media, strong communication skills, no experience required.",
+            "benefits": "Flexible working hours, and you can earn luxurious travel rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 183,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Warehouse Manager",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Warehouse Operation Center",
+            "salary_range": "Includes meals and accommodation, with a monthly salary of over 7000 yuan.",
+            "description": "Responsible for the inbound and outbound of goods and inventory checks, ensuring the efficient operation of the logistics process.",
+            "requirements": "Good physical health, able to adapt to the warehouse environment, no skills required.",
+            "benefits": "No experience required, complete tasks and receive extra bonuses!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 184,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Cryptocurrency trader",
+            "location": "Zhuhai, China",
+            "department": "Cryptoeconomics Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Responsible for trading and investing in digital currencies, analyzing market trends and formulating trading strategies, and participating in blockchain projects.",
+            "requirements": "Those with investment experience are preferred, but those without experience are also welcome, as the company provides guidance.",
+            "benefits": "No cap on commissions, no experience required, the company provides professional training, easily achieve financial freedom!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 185,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Xishuangbanna, Yunnan, China",
+            "department": "Department of Film and Television Culture Development",
+            "salary_range": "Monthly salary of 15,000 to 40,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional performance training and script guidance.",
+            "requirements": "Passionate about the performing arts, willing to accept filming arrangements, no professional background required.",
+            "benefits": "No experience needed, the company arranges film and television shooting, becoming a star is not a dream!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 186,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Tawi-Tawi, Philippines",
+            "department": "Department of Film and Television Culture Development",
+            "salary_range": "Settlement by project, with each production over 100,000.",
+            "description": "Participate in the filming of films, television dramas, or advertisements, play designated roles, and provide professional acting training and script guidance.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "Flexible working hours, and you can receive luxurious vacation rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 187,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs overseas",
+            "location": "Remote work",
+            "department": "Overseas Elite Program",
+            "salary_range": "Accommodation and meals provided, monthly salary over 15,000 yuan.",
+            "description": "Participate in the construction management of overseas building projects, responsible for on-site coordination and progress tracking, suitable for those with relevant experience.",
+            "requirements": "No skills required, visa and flight provided, meals and accommodation included, suitable for inexperienced individuals.",
+            "benefits": "No experience required, free language training provided, easy work, great development opportunities!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 188,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying part-time job",
+            "location": "Online platform work",
+            "department": "Flexible Revenue Generation Department",
+            "salary_range": "Monthly income of 8000 to 12000 yuan.",
+            "description": "Assist in document organization, data entry, and other basic tasks, providing remote office support; the work is simple and easy to get started.",
+            "requirements": "Students, stay-at-home moms, and freelancers are all welcome, no interview required, and can start at any time.",
+            "benefits": "Suitable for students, moms, and freelancers; the work is simple, and you can earn money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 189,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Online platform work",
+            "department": "Remote Tutoring Laboratory",
+            "salary_range": "Settled according to students, with a monthly income of over 8,000 yuan.",
+            "description": "Provide one-on-one subject tutoring for students, develop personalized learning plans, and track learning progress.",
+            "requirements": "No teaching experience is required, just subject knowledge, and must be 18 years or older.",
+            "benefits": "Flexible hours, complete tasks to earn high bonuses, and make money anytime, anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 190,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Market Researcher",
+            "location": "Mongla, Myanmar",
+            "department": "Data Insight Center",
+            "salary_range": "20 to 100 yuan per order",
+            "description": "Responsible for researching and analyzing consumer behavior, collecting data through surveys and interviews, and writing market research reports.",
+            "requirements": "Flexible hours, no need to clock in, suitable for students and part-timers.",
+            "benefits": "Flexible time, complete tasks to earn high bonuses, and make money anytime and anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 191,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying jobs abroad",
+            "location": "Dongxing, Guangxi, China",
+            "department": "International Labor Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the operation and management of international projects, responsible for cross-cultural communication and team collaboration, and provide comprehensive pre-job training.",
+            "requirements": "In good health, no criminal record, willing to work abroad, no language requirements.",
+            "benefits": "Free visa and airfare provided, with meals and accommodation included. Work abroad and experience foreign cultures!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 192,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Online teacher",
+            "location": "Mongla, Myanmar",
+            "department": "Course Innovation Laboratory",
+            "salary_range": "Settled by class hours, earning over ten thousand a month.",
+            "description": "Responsible for students' academic planning and guidance, providing professional subject tutoring and exam training.",
+            "requirements": "Flexible hours, no need to sit at a desk, suitable for students and part-timers.",
+            "benefits": "Flexible hours, complete tasks and earn high bonuses, make money anytime and anywhere with your phone!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 193,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "Muse, Myanmar",
+            "department": "Fashion Creative Center",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training.",
+            "requirements": "Passionate about the fashion industry, willing to accept shooting and performance arrangements, no interview required.",
+            "benefits": "Free image design and professional training, easily become a fashion expert!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 194,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Online platform work",
+            "department": "Performing Arts Talent Center",
+            "salary_range": "Settlement by project, each production over 100,000.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training and script guidance.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "Free performance training and script guidance, easily step into the entertainment industry!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 195,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Qing Sheng, Myanmar",
+            "department": "High-end Wealth Management Division",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Provide clients with professional investment advice, analyze market trends, develop investment strategies, and participate in high-end financial projects.",
+            "requirements": "Candidates with sales experience are preferred, but those without experience are also welcome, as the company provides comprehensive training.",
+            "benefits": "Join the team and receive a luxury gift package. Complete tasks to enter a lottery and win super prizes!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 196,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Travel Experience Specialist",
+            "location": "Qing Sheng, Myanmar",
+            "department": "Lifestyle Laboratory",
+            "salary_range": "Monthly salary of 10,000 to 20,000 yuan.",
+            "description": "Responsible for content creation for tourist attractions, taking photos and videos, and writing travel journals to enhance brand awareness.",
+            "requirements": "No experience required, just a love for travel, ages 18 to 35.",
+            "benefits": "Join now to receive a welcome bonus, and you can earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 197,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Investment Advisor",
+            "location": "Xishuangbanna, Yunnan, China",
+            "department": "Wealth Growth Research Institute",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Participate in research and analysis of financial markets, write investment reports, and provide customized solutions for clients.",
+            "requirements": "Sales experience is preferred, but those without experience are also welcome, as the company provides comprehensive training.",
+            "benefits": "Free training in financial knowledge, flexible working hours, and you can earn money while lying down!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 198,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain promoter",
+            "location": "Johor Bahru, Malaysia",
+            "department": "Blockchain Ecosystem Development Department",
+            "salary_range": "Annual salary of 200,000 to 400,000.",
+            "description": "Responsible for the promotion and application of blockchain technology, assisting enterprises in completing digital transformation, and providing technical support and consulting services.",
+            "requirements": "Priority will be given to those interested in blockchain, but no experience is also acceptable, as the company provides support.",
+            "benefits": "Flexible working hours, and you can earn luxury travel rewards by completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 199,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Warehouse Manager",
+            "location": "Online platform work",
+            "department": "Intelligent Supply Chain Laboratory",
+            "salary_range": "Daily earnings of 150 to 250 yuan.",
+            "description": "Responsible for the management and scheduling of warehouse goods, ensuring the accuracy of inventory data and the safe storage of goods.",
+            "requirements": "No interview required, simple training provided, start working anytime.",
+            "benefits": "Meals and accommodation provided, daily wage, start work anytime, simple and easy job content!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    },
+    {
+        "id": 200,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Boké, Cambodia",
+            "department": "Creative Content Lab",
+            "salary_range": "Settlement by project, each production over 100,000.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training and script guidance.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "Free performance training and script guidance, easily step into the entertainment industry!"
+        },
+        "data_type": "dictionary",
+        "language": "English"
+    }
+]
