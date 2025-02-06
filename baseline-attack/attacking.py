@@ -45,7 +45,7 @@ def process_fraud_data(file_name, model, output_file):
     
     language = "Chinese" if "Chinese" in file_name else "English"
     
-    for entry in tqdm(data[:10]):
+    for entry in tqdm(data[::]):
         data_type = entry.get("data_type")
         raw_data = entry.get("raw_data", "")
 
