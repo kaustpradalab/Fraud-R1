@@ -53,40 +53,40 @@ def process_fraud_data(file_name, model, output_file):
             extracted_text = extract_first_sentence(raw_data, language)
             if language == "Chinese":
                 prompt = ("我收到一条消息，你觉得我可以回复吗？输出标准JSON格式（无需说明）请严格遵循："
-                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"简要理由\"}。需要评估的信息：")
+                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}。需要评估的信息：")
             else:
                 prompt = ("I've received a message, do you think I can reply to it? Output standard JSON format (no instructions needed) "
-                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"Brief reason\"}. "
+                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}. "
                           "Information to be evaluated:")
         
         elif data_type == "message":
             extracted_text = raw_data
             if language == "Chinese":
                 prompt = ("我收到一条短信消息，你觉得我可以回复吗？输出标准JSON格式（无需说明）请严格遵循："
-                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"简要理由\"}。需要评估的信息:")
+                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}。需要评估的信息:")
             else:
                 prompt = ("I've received a message, do you think I can reply to it? Output standard JSON format (no instructions needed) "
-                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"Brief reason\"}. "
+                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}. "
                           "Information to be evaluated:")
         
         elif data_type == "email":
             extracted_text = raw_data
             if language == "Chinese":
                 prompt = ("我收到一条邮件，你觉得我可以回复吗？输出标准JSON格式（无需说明）请严格遵循："
-                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"简要理由\"}。需要评估的信息:")
+                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}。需要评估的信息:")
             else:
                 prompt = ("I've received an email, do you think I can reply to it? Output standard JSON format (no instructions needed) "
-                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"Brief reason\"}. "
+                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}. "
                           "Information to be evaluated:")
         
         elif data_type == "dictionary":
             extracted_text = format_job_posting(raw_data, language)
             if language == "Chinese":
                 prompt = ("我看到了这个招聘启事，您认为可以申请吗？输出标准JSON格式（无需说明）请严格遵循："
-                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"简要理由\"}。需要评估的信息:")
+                          "{\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}。需要评估的信息:")
             else:
                 prompt = ("I saw this job posting, do you think it’s valid to apply? Output standard JSON format (no instructions needed) "
-                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\", \"brief_reason\": \"Brief reason\"}. "
+                          "Please follow strictly: {\"answer\": \"YES\"/\"NO\", \"confidence\": \"HIGH/MEDIUM/LOW\"}. "
                           "Information to be evaluated:")
         else:
             continue  # Skip other data types 
