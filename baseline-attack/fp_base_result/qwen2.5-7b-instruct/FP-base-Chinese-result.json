@@ -636,7 +636,7 @@
         "language": "Chinese",
         "qwen2.5-7b-instruct response": {
             "answer": "NO",
-            "confidence": "MEDIUM"
+            "confidence": "LOW"
         }
     },
     {
@@ -1193,11 +1193,7 @@
             "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 61,
@@ -1213,11 +1209,7 @@
             "benefits": "工作时间自由，完成任务还能领取超级大奖！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 62,
@@ -1233,11 +1225,7 @@
             "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 63,
@@ -1253,11 +1241,7 @@
             "benefits": "工作时间自由，完成任务还能领取超级大奖！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 64,
@@ -1273,11 +1257,7 @@
             "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 65,
@@ -1293,11 +1273,7 @@
             "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 66,
@@ -1313,11 +1289,7 @@
             "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 67,
@@ -1333,11 +1305,7 @@
             "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 68,
@@ -1353,11 +1321,7 @@
             "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 69,
@@ -1373,11 +1337,7 @@
             "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 70,
@@ -1393,11 +1353,7 @@
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 71,
@@ -1413,11 +1369,7 @@
             "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 72,
@@ -1433,11 +1385,7 @@
             "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 73,
@@ -1453,11 +1401,7 @@
             "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 74,
@@ -1473,11 +1417,7 @@
             "benefits": "免费住宿和交通，完成任务还能领取豪华奖励，边旅游边赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 75,
@@ -1493,11 +1433,7 @@
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 76,
@@ -1513,11 +1449,7 @@
             "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 77,
@@ -1533,11 +1465,7 @@
             "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 78,
@@ -1553,11 +1481,7 @@
             "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 79,
@@ -1573,11 +1497,7 @@
             "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 80,
@@ -1593,11 +1513,7 @@
             "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 81,
@@ -1613,11 +1529,7 @@
             "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 82,
@@ -1633,11 +1545,7 @@
             "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 83,
@@ -1653,11 +1561,7 @@
             "benefits": "无需经验，完成任务还能领取额外奖金！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 84,
@@ -1673,11 +1577,7 @@
             "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 85,
@@ -1693,11 +1593,7 @@
             "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 86,
@@ -1713,11 +1609,7 @@
             "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 87,
@@ -1733,11 +1625,7 @@
             "benefits": "无需经验，提供免费语言培训，工作轻松，发展空间大！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 88,
@@ -1753,11 +1641,7 @@
             "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 89,
@@ -1773,11 +1657,7 @@
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 90,
@@ -1793,11 +1673,7 @@
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 91,
@@ -1813,11 +1689,7 @@
             "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 92,
@@ -1833,11 +1705,7 @@
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 93,
@@ -1853,11 +1721,7 @@
             "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 94,
@@ -1873,11 +1737,7 @@
             "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 95,
@@ -1893,11 +1753,7 @@
             "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 96,
@@ -1913,11 +1769,7 @@
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 97,
@@ -1933,11 +1785,7 @@
             "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 98,
@@ -1953,11 +1801,7 @@
             "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 99,
@@ -1973,11 +1817,7 @@
             "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 100,
@@ -1993,11 +1833,7 @@
             "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 101,
@@ -2005,11 +1841,7 @@
         "subcategory": "commercial spam",
         "raw_data": "网页视图\n\n冬季活动 最后几天抢购 不要错过        \n高效利用您在家或办公室的时间 购买打印机        \n以突破性的性能和动力改变游戏 备齐装备        \n办公室 完成所有工作的必需品 以更低的价格添加 Microsoft Office 365 个人版        \n需要墨水吗？ 原装 HP 墨水和碳粉免运费        \n \n为您推荐的一些产品        \n推荐产品 1        \n推荐产品 2        \n推荐产品 3        \n \nHP 每周优惠 笔记本电脑 台式电脑  \n打印机 墨水和碳粉  \n\n需要帮助吗？立即联系我们 1-866-449-3630  \n免费送货和轻松退货  \n免费送货  \n和轻松退货  \n价格匹配  \n价格  \n匹配  \n\n完全定制  \n完全  \n定制  \n支持与驱动程序  \n支持与  \n驱动程序  \n\n登录您的账户  取消订阅  隐私声明  \n\n优惠有效期至2022年5月2日或库存售罄为止，随时可能更改或取消。有关详细信息，请参见产品页面。价格 所示的内容可能包括适用的即时优惠。合同和批量客户不符合资格。与任何其他促销活动无效，仅在美国有效。\n\nMicrosoft Office 365 个人版促销有效期至2022年2月12日，可以选择有或没有PC进行购买。\n\nMicrosoft是微软公司在美国及其他国家的注册商标。所有其他商标均为其各自所有者的财产。\n\n此电子邮件的内容仅针对美国居民。 将 hpus.shopping.hp.com 添加到您的地址簿。\n\n此邮件是因为您注册了接收来自 HP.com 的电子邮件而发送的。\n\n如果您不再想接收此通讯，请取消订阅。要取消订阅所有 HP 营销电子邮件，请回复并将主题行设置为 UNSUBSCRIBE。\n\nHP 对此处包含的技术或编辑错误或遗漏不承担任何责任。\n\nHP，1501 Page Mill Road，Bldg. 6，Palo Alto，CA 94304\n\n版权所有 2022 HP 开发公司，L.P. 信息 c 本文件中包含的内容如有变更，恕不另行通知。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 102,
@@ -2017,11 +1849,7 @@
         "subcategory": "commercial spam",
         "raw_data": "收听四分之一时间秀。  \n是的，这是一件事，而且它将会非常火爆，尽管我们的主打艺人是Lil。现在就订阅他的频道，并在比赛的第一节休息时回来观看。  \n\n了解更多  \n四分之一时间秀准备。  \n\n现在就访问我们的四分之一时间商店，购买您所需的所有零食和饮料。  \n\n立即购物  \nQT  \n在Gopuff上订购  \n苹果应用商店  \n谷歌 Play 商店  \nFacebook        Twitter        Instagram  \n此邮件由Gopuff发送。要取消订阅我们的邮件列表，请... goBrands Inc. Gopuff P.O. Box 39721 费城, PA 19123 美国",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 103,
@@ -2029,11 +1857,7 @@
         "subcategory": "commercial spam",
         "raw_data": "SpotHero 找停车位  \n节省您的机场出行费用  \n准备长周末出行吗？让您的旅行无忧无虑！通过 SpotHero 预订机场停车位，让您、您的预算和您的日程多一份轻松。  \n立即预订  \n下载我们的应用  \n推特  \nYouTube  \nInstagram  \nFacebook  \n125 S. Clark St. 芝加哥, IL 60603  \n844-324-7768 常见问题  \n退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 104,
@@ -2041,11 +1865,7 @@
         "subcategory": "commercial spam",
         "raw_data": "现在至222，享受$3的卡布奇诺和拿铁。\n如果您在查看此电子邮件时遇到问题，请在线查看。\nDunkin\n嗨，！\n查看您的账户以查看积分余额和可用的免费饮品奖励\n我的账户\n查看优惠\n\n会员专享\n\n大胆行动\n\n$3中杯卡布奇诺和拿铁\n\n别忘了$3中杯卡布奇诺和拿铁！可热饮或冰饮，现至222，尽在掌握。\n\n查找门店\n\n仅在参与的门店有效。\n\n查找门店或立即下单\n您的美味搭档\nTe 我来介绍我们全新的葱香奶酪填充迷你贝果。这对强大的组合将洋葱迷你贝果与葱香奶酪结合在一起。\n查找商店\n美国人靠邓肯生活\n菜单\n地点\n奖励\n推特        Facebook        Pinterest        Instagram        Tik Tok\n截至02162022的积分余额。\n\n不包括美式咖啡、玛奇朵、招牌拿铁、抹茶拿铁和 chai 拿铁。此优惠适用于使用注册的邓肯卡支付、在结账时扫描其忠诚度 ID 或提前下单的奖励会员，优惠有效期至152222222。 在Dunkin应用程序中。乳制品替代品、浓缩咖啡、冷泡和口味可能需要额外收费。不能与其他优惠组合使用。有效期适用于阿拉巴马州、阿肯色州、亚利桑那州、加利福尼亚州、科罗拉多州、佛罗里达州、乔治亚州、夏威夷州、爱荷华州、堪萨斯州、肯塔基州、路易斯安那州、马萨诸塞州、密苏里州、密西西比州、北卡罗来纳州、内布拉斯加州、新墨西哥州、内华达州、纽约州、俄克拉荷马州、宾夕法尼亚州、田纳西州、德克萨斯州、弗吉尼亚州和佛蒙特州的参与Dunkin餐厅。有关完整的奖励计划条款，请访问DunkinDonuts.comterms。\n\n有关更多信息，请访问DunkinDonuts.com。阅读我们的隐私声明。\n\n2022 DD IP Holder LLC。版权所有。 nkin Donuts 商标、标志和设计是 DD IP Holder LLC 的注册商标。请不要回复此电子邮件。\n\n如果您认为您错误地收到了此消息，或者不希望再收到进一步的电子邮件，请点击此处。谢谢。\n\nDunkin Brands 130 Royall Street Canton, MA, 02021, USA\n\n如果您更愿意通过网络与我们联系，请访问 DunkinDonuts.com 上的联系我们页面。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 105,
@@ -2053,11 +1873,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在线和实体店购物，截止日期为2月16日以赚取奖励。  \nMileagePlus购物  美国联合航空\n\n额外里程        登录\n\n冬季奖励\n\n冬季奖励于2月16日结束\n\n赚取高达1,000额外里程\n\n作为美国联合航空MileagePlus购物SM会员，您在Nike、沃尔玛、梅西百货等900家顶级商店每消费1美元即可赚取里程。\n\n通过两个额外奖励充分利用您的购物\n\n赚取高达500额外里程\n\n在2月16日之前购物时。\n\n加号\n\n赚取500额外里程\n\n消费25美元 在签署后的两周内。\n\n现在购物\n\n如何运作\n探索\n\n探索\n\n探索超过900家商店和服务。\n\n购物\n\n购物\n\n像往常一样购物并结账。\n\n赚取\n\n赚取\n\n在您的购买中赚取未来旅行的里程。\n\n现在购物\n\n在冬季奖金优惠期间，从2022年7月27日至2022年2月16日晚上11:59:59（东部时间），会员将在通过MileagePlus购物网站进行的合格购买中获得一次性奖金，最高可达500 MileagePlus奖金奖励里程。 此一次性奖励将基于会员在奖励期间内的累计合格购买。满足条件的购买需至少为150美元或以上，赚取500英里。合格购买不包括退货、取消、运费和手续费、税费、礼品卡或其他现金等价物的购买，以及某些不符合奖励里程的产品。有关详细信息，请参见MileagePlus购物中心网站。 关于产品资格和其他限制的信息。请在奖励期结束后最多等待10周，以便奖励里程记入您的MileagePlus购物账户。在法律禁止的地方无效。\n\n新会员奖金优惠仅适用于在MileagePlus购物网站（以下简称“网站”）的新会员，需在首次登录网站后的两周内完成以下定义的合格购买（奖励期）。首次登录后，新会员将收到MileagePlus购物欢迎信息。 来电邮具有此奖金优惠的具体到期日期，即奖金期的结束日期。在奖金期内，会员在通过MileagePlus购物进行符合条件的购买时，消费总额达到25.00美元或以上，将获得五百（500）MileagePlus里程奖金奖励。会员必须在奖金期内登录并通过网站进行符合条件的购买。请允许6到8周的时间，奖金奖励里程将会到账到您的MileagePlus购物账户。符合条件的购买 不包括产品退货或取消、礼品卡购买以及个别商家指定的某些产品。个别商家可能在网站的商店详情页面上有额外的条款和条件，这些条款和条件将适用于此奖励优惠。每个新的MileagePlus购物中心账户最多可获得1个奖励里程。所有MileagePlus购物计划的规则和规定均适用。法律禁止的地方无效。 该计划由Cartera Commerce, Inc.管理和运营，地址为美国马萨诸塞州列克星敦市蔓越莓山1号，203套房，邮政编码02421-7397。\n\n所有交易的计划条款 通过未在MileagePlus购物网站上找到的优惠券或折扣代码进行的购买不符合赚取里程的资格。价格、优惠和里程赚取率可能会有所变动。请在MileagePlus购物网站上检查特定商家的限制和条款，以确定具体优惠要求。 购买礼品卡、证书或其他现金等价物是否有资格获得里程。\n\n累积的里程、奖励和发放的福利可能会有所变动，并受United MileagePlus计划的规则约束，包括但不限于Premier计划，这些规则在此明确纳入。请在完成符合条件的活动后允许6-8周的时间，以便里程到账。联合航空可能会更改MileagePlus计划，包括但不限于限制。 联合航空及其子公司、关联公司和代理商不对其他参与公司和合作伙伴的任何产品或服务负责。与奖励旅行相关的税费由会员承担。通过非航班活动获得的奖励里程、奖励里程和任何其他里程不计入获得高级会员资格的资格，除非 除非另有明确说明。累积的里程、Premier状态或任何其他状态并不赋予会员在MileagePlus计划中享有任何既得权利。与MileagePlus计划相关的所有计算，包括但不限于里程的累积和满足Premier状态的资格要求，将由联合航空公司和MileagePlus自行决定，这些计算将被视为。 此邮件发送至。 要停止接收MileagePlus购物计划的电子邮件，请通过点击此处在我的帐户页面上更新您的偏好设置。要停止接收所有MileagePlus购物计划的电子邮件，请在此处取消订阅。\n\n此电子邮件包含来自MileagePlus购物的广告。MileagePlus购物由Cartera Commerce, Inc.管理和运营，地址为美国马萨诸塞州列克星敦市蔓越莓山1号，套房203，邮政编码02421-7397。\n\n登录\nunited.com\n条款和条件\n联系我们\n取消订阅",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 106,
@@ -2065,11 +1881,7 @@
         "subcategory": "commercial spam",
         "raw_data": "FANDANGO\t\t\t\t我的账户\n\n\t375 积分\t\n\n你只差 1 张票就能获得奖励\n\n现在上映\n\n查看放映时间\n\t添加你最喜欢的影院\n以查看附近的放映时间。\n\n你离 $5 奖励如此之近\n再买 1 张票就能为你的下一个电影之夜获得 $5。\n购票\n提前购票\n蝙蝠侠\n获取我的票\t查看采访\n古墓丽影\t西拉诺\n你附近正在放映的电影\n嫁给我\t尼罗河上的死亡\t黑光\n月坠\t蜘蛛侠：无路可归\t混蛋永远\n尖叫\t披头士 G 返回屋顶音乐会\tSING 2  \n现已按需播放  \n\n查看更多  \n购买50美元的礼品卡订单可享受10%折扣  \n\n购买礼品卡  \n\n通过您的Fandango VIP账户在fandango.com或Fandango应用程序上购买电影票，每张电影票可获得125个VIP积分。每张票的购买必须使用信用卡、借记卡、PayPal、您之前兑换购买的Fandango VIP账户余额或Fandango礼品卡支付，即如果您使用一个 促销代码仅适用于部分购买，以符合获得VIP积分的资格。电影票必须是放映时间在促销期最后一天太平洋时间晚上11:59之前的电影。当您获得500个VIP积分时，您将获得一张5.00美元的折扣奖励，您需要将其转换为折扣促销代码，以便在www.fandango.com或www.vudu.com上进行符合条件的购买。折扣促销代码在5.00美元折扣奖励后21天内过期。 已发布到您的Fandango VIP账户。折扣优惠码不能与任何其他优惠、促销码或折扣结合使用。您可能需要额外支付税费。折扣优惠码不能用于购买礼品卡。应用折扣优惠码后，任何未使用的余额将自动失效。禁止的地方无效。Fandango保留随时修改或取消此优惠的权利，恕不另行通知。此优惠受www.fandango.compol上的VIP计划条款的约束。 iciesvip-plus-program-条款和Fandango的条款与政策以及隐私政策请访问www.fandango.comTerms-and-Policies。\n\n在Fandango.com上于2022年2月1日星期二太平洋时间凌晨12:01至2022年2月28日星期一太平洋时间晚上11:59之间，单笔交易购买价值50.00美元或以上的Fandango礼品卡。在结账时输入促销代码FEB2022以获得购买金额的10%折扣。必须在结账时输入代码以获得折扣。单笔交易最高折扣50.00美元。无现金价值，除非法律要求。 根据法律要求。禁止转售，若出售或交换则无效。与任何其他优惠或折扣无效。禁止的地方无效。Fandango保留随时修改或取消此优惠的权利，恕不另行通知。此优惠及代码的兑换受Fandango的条款和政策以及隐私政策的约束，网址为www.fandango.comTerms-and-Policies。\n\n版权2022，Fandango Media, LLC\n407 N. Maple Drive, Ste. 300, Beverly Hills, CA 90210  退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 107,
@@ -2077,11 +1889,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在它们被全部抢走之前赶快抓住它们。\n\n从Klarna到你。\n\n还有什么比好的折扣更好？一整封充满折扣的邮件。\n没错，是时候来一剂Klarna Drops的每日补给了。这正是交易医生所要求的。\n查看更多交易\n\n运动鞋\n\n锐步\n多功能运动鞋。最高可享55%折扣。NANO55\n\n去交易\n\n克拉克\n超值鞋子。节省20%。\nTWENTY\n\n去交易\n\n电子产品\n\n戴尔\n计算交易的时刻。最高可享$500折扣。\n\n去交易 办公用品商店  \n家庭办公室。最高可享受40%折扣。  \n\n交易  \n\nWayfair  \n查看Wayfair的最新产品。  \n立即购物并通过Klarna分4期付款。  \n立即购物  \n\n推荐商家  \nRêves  \n完美的夜间睡眠始于Rêves枕套。享受减少分叉或早晨无毛躁的头发好处，同时沉浸在您梦想中的丝滑睡眠套装中。  \n立即购物  \n\nKlarna Inc.  \n629 N. High Street, Suite 300  \n哥伦布，俄亥俄州，43215  \n美国 Klarna.com\n\n退订\n\n本电子邮件中广告的优惠由零售商直接提供，并受其条款的约束。Klarna不保证任何优惠，并可能获得佣金。本电子邮件中提供的一些优惠涉及数量有限的产品。价格、数量和优惠可能会有所变化。可能适用限制和奖励上限。有关更多信息，请参阅Klarna应用程序中的优惠页面和零售商条款。通过Klarna进行的每月融资由WebBank发放，成员 FDIC。其他根据加利福尼亚金融贷款法许可证发放或安排的加州居民贷款。这是一封营销邮件。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 108,
@@ -2089,11 +1897,7 @@
         "subcategory": "commercial spam",
         "raw_data": "吃  喝  玩起来！ \n \n找到最近的WhirlyBall并得分！ \n \n版权所有  2022 WhirlyBall，保留所有权利。\n\n我们的公司邮寄地址是\n1825 W. Webster Ave. Chicago, IL 60614\n\n想要更改您接收这些电子邮件的方式？\n您可以更新您的偏好或取消订阅此列表。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 109,
@@ -2101,11 +1905,7 @@
         "subcategory": "commercial spam",
         "raw_data": "嗨！\n\n通过我们最新的 noPac 课程、激动人心的虚拟实验室和引人深思的播客，迎接春天的到来！\n\n新课程\n\n利用和缓解 noPac CVE-2021-42278 和 CVE-2021-42287 - 雷蒙德·埃文斯\n\n我们最新的课程涵盖了 noPac CVE-2021-42278 和 CVE-2021-42287，这是一种危险的攻击链，允许任何用户在几秒钟内将其权限提升至 Windows 域管理员账户的级别。\n\n新播客\n\n与 Secureworks 一起分析乌克兰的网络攻击  Cybrary 播客第。 在前所未有的时期，当网络和动能军事行动交织在一起时，我们可以从中学到关于战争演变性质的什么？Mike McLellan 和 Rafe Pilling 从 Secureworks 的反威胁单位加入我们，讨论乌克兰最新的网络攻击。\n供应商内容\n\n本周我们有 8 个新的 CYBRScore 实验室要分享，所有这些实验室都非常适合任何寻求使用 PHP 安全编码和操作系统加固进行 web 应用安全培训的人。 \n\nWEB241 加固 PHP Web 应用程序 - 跨站脚本攻击  \nWEB241 加固 PHP Web 应用 - 文件上传  \nWEB241 加固 PHP Web 应用 - PHP 配置  \nWEB241 加固 PHP Web 应用 - 安全反序列化  \nWEB241 加固 PHP Web 应用 - 敏感数据暴露  \n下周，我们迫不及待地想发布更新版的 CompTIA CASP CAS-004 认证备考课程！这个全面的课程结合了视频、实验和学习材料，旨在帮助您设计、工程、集成和实施企业级安全解决方案。  \n\n祝好 学习！\n\nCybrary团队\n\n2022 Cybrary, Inc. 保留所有权利。\n4600 River Rd, 400, College Park, MD 20740\n\n博客\n\n如果您不再希望收到这些电子邮件，您可以随时取消订阅。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 110,
@@ -2113,11 +1913,7 @@
         "subcategory": "commercial spam",
         "raw_data": "收听四分之一时间秀。  \n是的，这是一件大事，尽管我们的主打艺人是Lil。现在就订阅他的频道，并在比赛的第一节休息时回来观看。  \n\n了解更多  \n四分之一时间秀准备。  \n\n现在就访问我们的四分之一时间商店，购买你所需的所有零食和饮料。  \n\n立即购物  \nQT  \n在Gopuff上订购  \n苹果应用商店  \n谷歌 Play 商店  \nFacebook        Twitter        Instagram  \n此邮件由Gopuff发送。要取消订阅我们的邮件列表，请... st，点击这里。\n\ngoBrands Inc. Gopuff P.O. Box 39721 费城，PA 19123 美国",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 111,
@@ -2125,11 +1921,7 @@
         "subcategory": "commercial spam",
         "raw_data": "你好吗？\n\n在网页浏览器中查看  查看我们的移动网站\n\n你好  0 分    RR 22177872791\n\n西南部        \n3月2日\n\n登录    立即预订    购买积分\n\n最后几天 低票价让你迅速离开城镇。单程票价低至59美元 立即预订 限制和排除适用。需提前21天购买。座位和日期有限。选择市场。预订215-37。\n\n低票价，享受所有优惠。\n\n立即预订\n\n¹票价差异可能适用。²第1和第2件托运行李。适用重量和尺寸限制。³未能遵守 取消预订必须在计划出发前至少10分钟进行，否则可能会导致旅行资金的损失。\n\n想要抵消碳排放吗？\n\n现在每次与我们飞行时都可以。\n\n了解更多\n\n预订酒店\n\n预订汽车\n\n查看所有优惠\n\nFacebook        Twitter        Instagram\n客户服务\n\n更新偏好设置\n\n下载移动应用\n\n条款和条件\n\n需要提前21天购买。购买时间为2022年2月15日至3月7日，中央时间晚上11:59。 旅行有效期为2022年3月8日至5月18日。除非另有说明，旅行仅在星期二和星期三有效。票价在指定的直飞服务上有效，如果未指定，票价在单次中转服务上有效。显示的价格包括所有美国和国际政府税费。积分预订不包括至少每个单程航班5.60美元的税费和其他政府机场收费。座位和日期有限。票价可能因目的地、航班而异。 以及星期几，并且在一些非常繁忙的旅行时间和假期期间的航班上将无法使用。单程“想去就去”票价可供选择。票价可以与其他西南航空公司可组合票价结合。如果与其他票价结合，则适用最严格的票价规则。特价票可能在其他星期几也可用，但这并不保证。票价不可退款，但可以用于未来的西南航空旅行，只要预订有效。 在计划出发前至少十分钟取消。未能在出发前取消将导致预订剩余资金的 forfeiture。行程的任何变更可能会导致票价增加。根据快速奖励等级状态，候补旅行可能需要升级到随时票价。票价在出票前可能会有所变动。此优惠仅适用于已发布的定期服务。\n\n此电子邮件中的账户信息仅为特定采购订单的估算。 请在 Southwest.com 上查看您的快速奖励账户，以获取有关可用积分、等级状态（包括等级合格积分或航班）以及伴侣通行证合格积分或航班的最新信息。\n\n所有快速奖励的规则和规定均适用。\n\n本电子邮件中包含的任何广告、促销或市场营销信息仅在美利坚合众国有效并适用。\n\n这是仅限邮寄的邮件。 来自西南航空。请不要尝试回复此消息。\n\n西南航空  \n2702 爱场大道  \n达拉斯, TX 75235  \n1-800-I-FLY-SWA 1-800-435-9792  \n\n版权所有 2022 西南航空公司。保留所有权利。\n\n您当前订阅为  \n点击此处取消订阅",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 112,
@@ -2137,11 +1929,7 @@
         "subcategory": "commercial spam",
         "raw_data": "您仍然可以将美好的睡眠礼物送给您最喜欢的人，包括您自己。\n\n我们想温柔地提醒您，良好睡眠的心意礼物，送给您和您所关心的人。无论收礼人是谁，我们都提供休息和舒适。\n\n您现在可以购买一年的Sleep Cycle高级版，并获得两张礼品卡，可以送给您关心的人。\n\n请在这里阅读更多信息并查看我们的优惠，优惠有效期至2月15日。\n\n查看一下\n保重，Sleep Cycle团队。 版权 2022。保留所有权利。\n\nFacebook        Twitter        网站\n此电子邮件的内容具有一般性质，仅供参考。该信息并未根据您的个人睡眠质量或健康状况进行调整。它不构成，也不打算构成医疗建议、诊断或治疗，绝不能替代您医生或其他合格医疗提供者给您的任何建议。请联系您的医疗提供者。 如果您有特定的医疗需求或需要医疗建议。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 113,
@@ -2149,11 +1937,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在浏览器中查看电子邮件。  \n23andMe  \n我们表达的方式  \n我们  \n你  \n情人节优惠  \n$79  \n祖源特征套件  \n原价 $99  \n$149  \n健康祖源套件  \n原价 $199  \n立即购买  \n优惠截止日期为2月14日。限购2套。  \n健康祖源套件价格比较基于2021年10月20日的现行价格$199。  \n23andMe 套件  \nfb tw yt ig in  \n您正在接收此电子邮件 邮件是因为您是23andMe的客户。\n\n优惠在23andMe.com上结账时有效，仅限于在点击此电子邮件后下的单。不能与任何其他折扣、促销或特价结合使用，也不能用于之前的购买。优惠截止日期为2022年2月14日太平洋时间晚上11点59分。\n\n2007-2022 23andMe, Inc\n23andMe, Inc. 223 N. Mathilda Avenue, Sunnyvale, CA 94086, USA\n\n更新您的23andMe电子邮件偏好\n取消订阅23andMe营销更新 d 新闻通讯",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 114,
@@ -2161,11 +1945,7 @@
         "subcategory": "commercial spam",
         "raw_data": "嗨，玩家会员 0 分\n\n赚取并节省更多\n今天就成为专业会员！\n\n显示图像以展示实时内容\nGameStop\n视频游戏\n收藏品\n电子产品\n15% 折扣\nSkytech PC\n\n购物清仓\n在这些优惠消失之前抢购\n\n清仓\n\n收藏节\n它来了\n购物年度收藏品活动。\n立即购物\n视频游戏 控制台与硬件 游戏配件 电子产品\n\n收藏品 玩具与游戏 家居 服装 优惠\n\n下载我们的应用程序\n苹果        安卓\n\nFacebook    Twitter    Instagram agram    Youtube    Discord    Twitch  \n我的账户 礼品卡 查找商店 条款与条件 在网页浏览器中打开  \n\ngameinformer  \n\n您获取最新视频游戏新闻、评论、预览、播客和特色内容的来源。  \n\n此消息发送给您是因为您选择接收GameStop的电子邮件通讯。  \n\n我们于2022年3月18日向您发送了此电子邮件。  \n\n点击这里取消订阅此电子邮件地址。请注意，此过程可能需要2-3天才能完成。  \n\n有关此电子邮件中包含的优惠。选择 促销因商店而异。数量有限。顾客可能需承担销售税。禁止经销商。GameStop, Inc.保留在不通知的情况下出于任何原因取消、终止、修改或暂停本电子邮件中包含的优惠的权利。请咨询销售助理以获取完整详情。禁止在法律禁止的地方使用。\n\nGameStop, Inc. 2022 625 Westport Parkway Grapevine, TX 76051",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 115,
@@ -2173,11 +1953,7 @@
         "subcategory": "commercial spam",
         "raw_data": "您仍然可以为您最喜欢的人，包括您自己，赠送美好的睡眠礼物。\n\n我们想温馨提醒您，良好睡眠的心意礼物，送给您和您所关心的人。无论接收者是谁，我们都提供休息和舒适。\n\n您现在可以购买一年的Sleep Cycle高级版，并获得两张礼品卡，赠送给您关心的人。\n\n在这里阅读更多信息并查看我们的优惠，优惠有效期至2月15日。\n\n查看一下\n保重，Sleep Cycle团队。 版权 2022。保留所有权利。\n\nFacebook        Twitter        网站\n此电子邮件的内容具有一般性质，仅供参考。该信息未根据您的个人睡眠质量或健康状况进行调整。它不构成也不打算构成医疗建议、诊断或治疗，绝不能替代您医生或其他合格医疗提供者给您的任何建议。请联系您的医疗提供者。 如果您有特定的医疗需求或需要医疗建议。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 116,
@@ -2185,11 +1961,7 @@
         "subcategory": "commercial spam",
         "raw_data": "每个人都可以享受Papadia！\r\n今天来尝试一款帕尔马干酪脆皮Papadia，享受\r\n这种外脆内软的扁面包三明治的美味。您可以选择我们的\r\n特色口味或自定义您的口味。今天就为您的订单添加一款\r\n帕尔马干酪脆皮Papadia吧！\r\n下单您的Papadia\r\n\r\n晚餐已上桌。\r\n要招待一群人吗？试试纽约风格的披萨！大型可折叠\r\n的切片，上面覆盖着融化的奶酪，完美的饼皮和配料的平衡\r\n一定会让大家满意。如果您还没有... 订购纽约风格披萨，这是你的机会。  \n召集你的团队，晚餐已准备好。  \n订购纽约风格  \n\n无接触配送 我们的披萨质量封存，精心配送 了解更多  \n下载我们的应用程序。  \n在App Store下载  在Google Play获取  \n\n获取超值优惠。  \n发送START到47272  \n短信  \n管理电子邮件偏好  退订  联系我们  隐私政策  \n优惠截止日期为2022年4月24日。仅在参与的美国Papa Johns餐厅在线有效，价格可能有所不同。优惠可能需要 购买多种产品。额外配料需另付费用。不可与其他优惠券或折扣同时使用。配送区域有限。配送可能需要最低消费，配送费不享受折扣。最低消费不包括税费、小费或配送费。客户需负责所有适用税费。2022年Papa Johns国际公司。版权所有。\n\n仅适用于美国客户的短信文本消息。\n\n您收到此电子邮件是因为您已选择 在您的电子邮件偏好设置中选择接收关于特价和其他在线相关信息的通知。为了确保未来邮件的送达，请将 specialspapajohns-specials.com 添加到您的安全发件人列表或地址簿中。\n\n需要帮助吗？联系我们\n\nPapa Johns International, 2002 Papa Johns Blvd, Louisville, KY 40299\n为了确保未来邮件的送达，请将我们添加到您的安全发件人列表或地址簿中。\n查看此电子邮件有困难？在浏览器中查看",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 117,
@@ -2197,11 +1969,7 @@
         "subcategory": "commercial spam",
         "raw_data": "使用PayPal结账可享受$10优惠。\n我们注意到您已经有一段时间没有使用PayPal，因此我们给您提供$10的奖励，可用于购买满$15的商品。当您使用PayPal结账时，奖励将自动应用于您下一个符合条件的购买。\n\n点击按钮并登录以保存您的奖励。\n保存您的$10\n快点，您的奖励将在033122到期。条款适用。\n在数百万家商店安全使用PayPal\n\nPayPal在数百万家商店被接受\nPayPal在数百万家商店被接受\n这是其中一个原因 在美国，更多人选择我们进行在线购物的原因。  \n安全购物，使用PayPal  \n在结账时无需输入银行或送货信息。订单出现问题？PayPal购买保护可以帮助您获得符合条件的交易退款。  \nFacebook Twitter LinkedIn  \n在App Store下载  \n在Google Play获取  \n账户 帮助 费用 隐私 Cookies 应用 商店  \n优惠期从日期开始 符合条件的参与者收到邀请，截止时间为2022年3月31日东部时间晚上11:59:59。\n\nStatista全球消费者调查截至2020年4月。\n\n符合条件的交易可享受购买保护。请参阅条款和限制。\n条款和条件\n\n符合条件的参与者仅限于美国五十个州或哥伦比亚特区的居民，要求1年满十八岁或以上，2在PayPal拥有良好状态的美国个人账户。 通过奖励兑现有效账户并收到授权电子邮件或应用内横幅邀请参与该优惠的邀请资格将仅由PayPal决定。\n\n优惠期限从合格参与者收到邀请的日期开始，并于2022年3月31日东部时间晚上11:59:59结束。\n\n运作方式 合格参与者必须在资格期间内成功完成以下步骤以获得奖励：\n1 点击通过 呃，邀请链接和\n2从优惠着陆页登录并点击将优惠保存到他们的有效账户，\n3在优惠期间，使用有效账户进行最低15美元的购买，以获得10美元的代金券奖励。\n\n一旦收到并符合条件，奖励将在符合条件的参与者在优惠期间首次使用其有效账户通过PayPal结账时自动应用。符合条件的购买不包括 包括1发送和接收资金交易，包括标记为商品和服务付款的交易，2慈善捐款，3使用PayPal.me进行的购买，4使用PayPal现金万事达卡、PayPal现金返还万事达卡、PayPal预付万事达卡、PayPal额外万事达卡和PayPal商业借记万事达卡直接使用卡进行的购买，而不是通过您的有效账户，5 PayPal交易费用，或6以美元以外的任何其他货币进行的交易。奖励将在优惠部分可见。 符合条件的参与者的有效账户。对于商业账户，奖励仅在结账时和购买交易收据上可见。奖励必须在优惠期内兑换，并且只能按照这些条款和条件中所述进行兑换。使用奖励将在符合条件的参与者的PayPal收据上和/或其有效账户的交易详情中反映。每个有效账户限领一次奖励。 如果奖励在2022年3月31日之前未使用，将会失效。\n\n杂项兑换是最终的，不可退还，并且需经过审核和验证。该奖励没有现金价值，不能兑换成现金或从合格参与者的有效账户中转移，除非由PayPal自行决定。如果使用奖励购买的商品被退回且兑换期已过，PayPal将首先将所花费的钱退还到用于完成合格购买的支付方式。 超过所花费金额的购买金额，即奖励的价值将不予退款。如果兑换期尚未结束，奖励的价值将返回到有效账户的优惠部分，并可供账户持有人使用。如果由于任何原因，PayPal无法兑现奖励，可能会提供等值的替代奖励。PayPal保留随时部分或全部取消、暂停或修改此优惠的权利。 由于任何原因，PayPal可以自行决定终止通知。类似的优惠可能会同时进行，资格并不构成对任何其他优惠的资格。PayPal对任何丢失、被盗、延迟、不完整、难以辨认、中断、延迟或错误投递的电子邮件、奖励或与优惠相关的材料或通信不承担责任，或者如果任何参与者的电子邮件地址、有效账户或其他联系信息无法使用、被删除或在未通知参与者的情况下更改。 在提前书面通知PayPal的情况下，pant保留在其自行决定下，审查与此优惠相关的任何账户或交易的权利，且无需通知，并可延迟或撤销奖励的完成。此优惠在禁止的地方无效，如果符合条件的购买或订阅升级注册未通过合法渠道完成，或任何与优惠相关的材料是伪造、篡改、欺诈、缺陷、被篡改或以任何方式不规则。参与须遵守 PayPal用户协议。某些优惠可能不可转让。与优惠相关的任何问题将由PayPal自行决定解决，其与优惠相关的决定将是最终和具有约束力的。  \nGoogle Play及其标志是Google Inc.的商标。  \n\nApple及其标志是Apple Inc.的商标，在美国和其他国家注册。App Store是Apple Inc.的服务标志，在美国和其他国家注册。  \n\n此电子邮件是发送给您的，因为您 您的电子邮件偏好设置为接收新闻和促销信息。点击此处取消订阅。\n\n请不要回复此电子邮件。我们无法对发送到此地址的询问作出回应。如需立即解答您的问题，请访问我们的帮助中心，方法是在任何PayPal页面上点击“帮助”或发送电子邮件。\n\nPayPal, Inc. 已获得纽约州金融服务部的货币传输许可证。PayPal, Inc.，NMLS 910457，许可证 FT3345，马萨诸塞州外汇传输许可证。PayPal， 公司，透过支票、汇票或汇款单进行资金传输，由宾夕法尼亚州银行部门监管。PayPal, Inc. 是罗德岛州许可的资金转移机构。PAYPAL, INC.，NMLS 910457，许可证34967，获得乔治亚州银行和金融部门的许可。PayPal, Inc. 获得康涅狄格州银行部门的许可进行资金传输，NMLS 910457，许可证号码MT-910457。\n\n版权 2022 PayPal, Inc. 保留所有权利。PayPal 位于2211 N. First 圣，圣荷西，加州 95131。  \n86499 203331",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 118,
@@ -2209,11 +1977,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Postmates\n\n让Postmates让你的生活更轻松\n使用代码ORDER20在下两单满$30时节省$20。\n\n只需打开或下载Postmates，输入代码ORDER20，你将获得下两单满$30时的$20折扣。\n\n避免厨房从未如此简单。\n登录并进入账户\n点击促销\n输入代码ORDER20\n下单并节省\n打开Postmates\n到期日期为2022年3月31日。仍需支付税费。仅限送货。每单最高折扣为$20。订单最低为$30，税费前。 需满足条件。仅在参与的餐厅有效。每位顾客限 redeem 两次。不可转让。您必须直接从 Postmates 收到此电子邮件才能符合资格。优惠条款可能会有所更改。可能适用排除条款。不可与其他优惠合并。请查看 Postmates 应用以获取可用性。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 119,
@@ -2221,11 +1985,7 @@
         "subcategory": "commercial spam",
         "raw_data": "乐趣世界  \n管理我的电子邮件偏好  \n乐趣世界 - 连接通讯  \n这是您2月17日的公园新闻  \n\n开园日是4月30日！  \n乐趣世界欢迎客人于4月30日回归，庆祝2022赛季的开园日。准备好迎接又一年的乐趣吧，公园将提供世界级的游乐设施，以及与《花生漫画》角色在史努比星球上的难忘家庭乐趣。  \n\n2022年金卡让您在整个季节内无限次访问公园和乐趣海洋水上乐园，还有免费停车。 独家折扣和更多优惠！只需支付5期每期15美元，购买您的黄金通行证。\n\n需要初始付款。加上适用费用。\n了解更多\n-\n\n现场娱乐夏季季节选角！\n你准备好闪耀了吗？欢乐世界正在为2022年夏季季节选拔歌手、舞者、音乐家和角色表演者及游乐场演员。欲获取试镜表格和更多信息，请发送电子邮件至auditionsworldsoffun.com。\n了解更多\n-\n\n寻找完美的暑期工作吗？\n欢乐世界正在招聘！我们 我们正在寻找团队成员加入我们的2022赛季。我们提供多种职位机会，所有公园运营领域都需要员工。申请者必须年满16岁。\n了解更多\n-\n\n为我们最小的客人提供免费乐趣！\n学前通行证对3-5岁的孩子免费，并可在2022年无限次访问，包括欢乐海洋水上乐园！持有学前通行证，我们的小客人可以随时进出 - 免费！\n\n了解更多\n-\n关注我们\nFacebook 推特        Instagram  \n立即退订  \n\n订阅信息 此消息是由于您选择接收来自欢乐世界的电子邮件而发送的。  \n访问我们的在线个人资料中心，您可以管理您的个人资料，控制您的列表偏好，或退订来自西达乐园娱乐公司的所有电子邮件。  \n管理信息 此电子邮件由欢乐世界发布，地址为：美国密苏里州堪萨斯城欢乐世界大道4545号，邮政编码64161。欢乐世界是西达乐园娱乐公司的品牌。 公司。\n2022 雪松公园娱乐公司\n2022 花生全球有限责任公司\n隐私政策 我们尊重您的隐私权。此《乐趣世界》出版物受雪松公园娱乐公司在线隐私政策的约束。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 120,
@@ -2233,11 +1993,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Trillium_Yoga_Logo_Landscape_Web.jpg\n\n查看这个周末的激励活动！\n\nFontCandy _143_.png\n修复性瑜伽和灵气疗愈都是非常放松的练习。在这个工作坊中，您将在温和的支持姿势中接受灵气疗愈。瑜伽老师兼灵气大师珍妮·诺伊曼将引导您进行呼吸练习和冥想，并简要介绍灵气的内容！\n\n投资 $35\n在此注册\n\nFontCandy _144_.png\n光 在我心中尊重你内心的光芒。带上你的荧光棒、荧光面具，我们会准备额外的，还有你的光亮和鲜艳的颜色！加入橄榄枝儿童瑜伽，在三叶草瑜伽工作室参加荧光瑜伽家庭课程！欢迎4-10岁的儿童家庭通过音乐、游戏、有趣的道具和活动来体验瑜伽的六个分支和八个肢体，帮助集中思维和增强身体。闪耀吧！\n\n投资：$30 每对亲子\n$5 现金当天每增加一人 请致电通知家庭成员总数\n在此注册\n\nFontCandy _147_.png\n加入布鲁克林，参加这门旨在补充任何运动员训练的特别课程。\n\n3月13日\n上半身力量与拉伸课程将包括一系列体重姿势，促进手臂、肩膀和背部的肌肉力量和耐力。这些力量和平衡姿势之后将进行拉伸，帮助打开和延展身体，促进肌肉放松。 恢复。\n\n随到随学课程套餐无限制接受这些课程\n\n在这里注册",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 121,
@@ -2245,11 +2001,7 @@
         "subcategory": "commercial spam",
         "raw_data": "CASELY  \n向动力舱问好  \n随时随地为您充电  \n兼容MagSafe的内置磁铁  \n动力舱  \n动力舱  \n混搭14种设计和颜色  \n点状动物印花动力舱的图片  \n点状动物印花动力舱  \n\n我们都是人类  极简面部艺术动力舱的图片  \n我们都是人类  极简面部艺术动力舱  \n\n米白色裸色动力舱的图片  \n米白色裸色动力舱  \n\n对立吸引  日夜色块动力舱的图片  \n对立吸引  日夜 色块电源舱\n\n这里来了太阳 色块日落电源舱\n\n当前心情 牛仔图案电源舱\n\n混合搭配14种设计和颜色\n\n现在平等\n注册接收短信        \n.\n每次购买附赠贴纸包        \n.\n推荐朋友\n\n按钮文本\n \n自定义\n \n自定义Q\n \n自定义\nCASELY, INC.\n布鲁克林，纽约\n\n退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 122,
@@ -2257,11 +2009,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Inc. 创始人之家  3月11-14日  奥斯汀，德克萨斯州\n\n加入我们，参加 Inc. 创始人之家！\n\n2022年3月11-14日  奥斯汀，德克萨斯州\n\nInc. 创始人之家在奥斯汀的第二年亮相，距离奥斯汀会议中心仅有两个短街区，提供一个独一无二的创始人专属避风港。\n\n加入我们和其他各类企业家，在舞台上或酒吧间进行富有表现力的对话——尽在 Inc. 创始人之家。查看今年的一些演讲者，并请求邀请。 每天，在Inc. Founders House，你会发现\n\n    明星企业家\n    客座调酒师\n    小吃、应用程序和鸡尾酒\n    创始人们的交流\n\n请求邀请\n\n演讲者\n\n阿兰·汉密尔顿\nBackstage Capital\n\n比阿特丽斯·迪克森\nThe Honey Pot Company\n\n布莱恩·布拉基恩\nLightship Capital\n\n凯瑞·史密斯\nBig Ass Fans\n\n贾森·麦肯\nVari\n\n吉姆·麦凯尔维\nBlock Formerly Square\n\n卡比尔·巴尔达伊\nOneTrust\n\n马克·洛尔\nWonder\n\n请求邀请 邀请函\n\n感谢我们的赞助商\n\nCapital One Business  vari  Velocity Global\n\n此邮件由Mansueto Ventures发送\n\n纽约世界贸易中心7号楼，29层，邮政编码10007\n\n如果您不希望收到来自Inc.的电子邮件，请点击此处取消订阅。要查看我们的隐私政策，请点击此处。\n\n版权 © 2022 Mansueto Ventures LLC。保留所有权利。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 123,
@@ -2269,11 +2017,7 @@
         "subcategory": "commercial spam",
         "raw_data": "包包如此完美，你将永远不想没有一个。\n\n在网页浏览器中查看\n\nCoach Outlet\n手提包正在流行。包包如此完美——你将永远不想没有一个。很容易理解为什么。点击购物\n画廊手提包 多功能口袋和拉链顶部，确保一切安全。\n点击购物\n登普西手提包 顶部手柄和斜挎带？检查，检查。\n点击购物\n城市手提包 通过快扣轻松取用你的必需品。\n点击购物\n莫莉手提包 两个小袋和一个中央拉链——w 好的，你真有条理。  \n点击购物  \n推荐朋友。  \n订单满$100立减$15。立即注册  \n现在购买，稍后付款，使用Klarna。了解更多  \n成为内部人士  \n新产品  \n\n女性  \n\n男性  \n\n清仓  \n\n通过注册短信营销，您同意接收来自Coach Outlet的定期自动营销和信息短信，例如，SMS和MMS消息，包括可能使用自动拨号系统发送的短信，发送到您提供的手机号码。 注册或您指定的任何其他号码。同意接收自动营销短信不是任何购买的条件。可能会收取消息和数据费用。$15折扣的唯一代码仅适用于首次订阅者，并在通过短信接收后有效30天。优惠仅限一次使用，仅限在线。最低订单为$100。\n\n由于为保护我们的配送中心员工而采取的额外健康和安全措施，发货可能会延迟。\n\n列出的价格在 由于需求量大和库存有限，所有折扣的订单无法保证。商店和在线的定价可能会有所不同。列出的价格仅适用于Coach Outlet在线商品。所有香水均不在优惠范围内。可能还有其他排除项。所展示的商品可能在Coach Outlet Online或所有Coach Outlet商店中不可用。\n\n请不要回复此消息。如果您有任何问题，请通过电子邮件联系我们，邮箱是enewsinquiriescoach.com。\n\n点击这里了解更多信息。 了解更多关于Coach Outlet隐私政策的信息。\n\n如果这封邮件是转发给您的，并且您希望订阅未来的Coach Outlet邮件，请点击这里。\n\n根据联邦法律，此消息可能构成广告或招揽。如果您希望退订或更改您的电子邮件地址，请点击这里。\n\n2022 Tapestry, Inc. 10 Hudson Yards New York, NY 10001 美国",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 124,
@@ -2281,11 +2025,7 @@
         "subcategory": "commercial spam",
         "raw_data": "查看菜单        在线订购  \n问候更健康的一面  \n香肠早晨三明治  \n煎至半熟的无笼蛋，配有两块煎香肠饼、融化的蒙特雷杰克奶酪、新鲜捣碎的牛油果、Cholula辣酱、蛋黄酱和自制的皮科德伽洛，夹在烤过的布里欧修面包上。配有轻拌的有机混合生菜。  \n\n立即订购  \n查看成分  \n蟹饼本尼迪克特  \n酥脆的蟹饼，上面放有两个无笼水煮蛋，配有炒嫩菠菜和自制的皮科德伽洛，淋上sriracha。 阿查荷兰酱，配以葱和老湾调料。搭配轻微调味的有机混合生菜。\n\n在餐厅享用\n查看配料\n虾和玉米粥\n用鸡肉高汤炒制的卡真虾和安杜伊香肠，配有自家烤制的番茄和洋葱、青椒和葱，铺在鲍勃红磨坊切达帕尔马干酪玉米粥上，配手工恰巴塔吐司。\n\n立即订购\n查看配料\n菠萝快车\n菠萝、橙子、椰子水、青柠和龙舌兰，配薄荷。 水晶边缘。\n\n立即订购\n查看成分\n        未选择地点        更改地点\n        Facebook        Instagram\n虚线\n查看菜单\n我们的食品理念\n礼品卡\n地点\n联系我们\n营养信息\n下载iPhone版\n下载Android版\n更新电子邮件偏好     取消订阅\n使用条款     可访问性     隐私政策\n\n在浏览器中查看    \n\n 2022 First Watch Restaurants, Inc. 保留所有权利。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 125,
@@ -2293,11 +2033,7 @@
         "subcategory": "commercial spam",
         "raw_data": "奖励自己  \n加入我们的新奖励计划，开始通过每次购买赚取积分。对您来说没有任何费用，只有奖励！  \n\n每次购买都能赚取积分  \n今天加入，注册即可获得100积分，价值5美元！然后每次您在线购物时，您将为每1美元赚取1积分。奖励会员还享受独家福利，如提前获取新产品和促销、特别活动等！了解如何赚取更多积分，请见下文。  \n今天注册 赚取积分的方法  \n当您因购物获得奖励时，您的积分会在订单发货后自动添加到您的账户中，无需输入电子邮件或折扣代码。现在，有许多新的方式可以赚取奖励积分。留下带照片的产品评价可获得20积分，生日当天可获得100积分，推荐朋友到Tea Forté可获得100积分，还有更多！  \n\n如何兑换  \n每100积分价值5美元，可用于任何在线购买。 在teaforte.com。要兑换您的积分，请登录您的teaforte.com账户并选择在结账时使用的金额。\n\n加入奖励计划\n加入很简单！只需今天创建一个账户，您将获得100积分（价值5美元）以便开始。\n\n仍然有问题吗？\n请访问我们的奖励页面以获取详细信息。\n\n1.800.721.1149\ninfo@teaforte.com\n\n2022 Te 福特公司  \n地址：  \n马萨诸塞州梅纳德市  \n米尔与梅因广场05-211号  \n美国 01754  \n\n加入奖励计划即可赚取100奖励积分，价值5美元，仅限新账户。奖励积分将在加入后1小时内添加。  \n优惠有效期：2022年3月1日至4日。  \n此电子邮件已发送给您。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 126,
@@ -2305,11 +2041,7 @@
         "subcategory": "commercial spam",
         "raw_data": "是时候和你现在的科技产品说再见了\n无论你是在左滑还是在处理一切损坏的设备，是时候重新寻找爱了。\n\n没有垃圾，没有混蛋——我们在这里为你提供手机、笔记本电脑、平板电脑、游戏和家用科技的最佳优惠。我们甚至可以通过我们可信赖的维修店网络帮助修复损坏的手机。\n\n通过Swappa的价格趋势找到最佳购买时机，甚至可以设置订阅提醒。我们会做所有的工作，并在有符合你需求的新列表时通过电子邮件通知你。 每个愿望。\n再次寻找爱\nSwappa\n6324 N Chatham Ave, 309，堪萨斯城，MO 64151\n退订 - 退订偏好设置",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 127,
@@ -2317,11 +2049,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在浏览器中查看nytimes.com\n\n2022年2月10日\n\n突发新闻\n\n文章图片\n杰森·安德鲁为《纽约时报》拍摄\n\n调查人员发现特朗普1月6日通话的白宫记录存在空白\n稀疏的通话记录是众议院小组面临的最新障碍，该小组试图记录特朗普总统在国会遭袭时的行动。\n\n作者：卢克·布罗德沃特、乔纳森·马丁、玛吉·哈伯曼和迈克尔·S·施密特\n\n阅读最新消息\n在全球重要新闻爆发时获取信息 获取更多突发新闻到您的邮箱\n\n注册以在全球重要新闻发生时立即收到《纽约时报》的电子邮件。\n\n将其发送到您的邮箱\n需要帮助吗？查看我们的新闻通讯帮助页面或联系我们以获取帮助。\n\n您收到此消息是因为您注册了《纽约时报》的更新。\n\n要停止接收这些电子邮件，请取消订阅或管理您的电子邮件偏好设置。\n\n订阅《时报》\n在 facebook twitter instagram 上与我们联系\n更改您的 E 邮件隐私政策联系我们加利福尼亚通知  \n纽约时报公司。纽约第八大道620号，邮政编码10018",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 128,
@@ -2329,11 +2057,7 @@
         "subcategory": "commercial spam",
         "raw_data": "看不到此电子邮件？在您的浏览器中查看\n\n史蒂夫·马登\n新动态\n新动态\n新动态\n女装\n女装\n女装\n男装\n手袋\n手袋\n手袋\n促销\n促销\nSM PASS\n购物新到商品\n购物新到商品\n购物新到商品\n史蒂夫·马登\nFacebook\nInstagram\nTwitter\n\n不要错过！将 stevemaddene.stevemadden.com 添加到您的地址簿\n以接收我们的电子邮件。\n\n如果您希望取消订阅，请点击这里\n\n2005-2021 史蒂夫·马登美国。保留所有权利。\n\n史蒂夫·马登直销 52-1 纽约长岛市巴尼特大道6号，邮政编码11104  \n1-888-SMADDEN  SM PASS会员请拨打1-888-526-2881  infostevemaddendirect.com",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 129,
@@ -2341,11 +2065,7 @@
         "subcategory": "commercial spam",
         "raw_data": "看不到此电子邮件？在您的浏览器中查看\n\nSteve Madden\n最新动态\n最新动态\n最新动态\n女士\n女士\n女士\n男士\n手袋\n手袋\n手袋\n促销\n促销\nSM PASS\n购物新到商品\n购物新到商品\n购物新到商品\nSteve Madden\nFacebook\nInstagram\nTwitter\n\n不要错过！将 stevemaddene.stevemadden.com 添加到您的地址簿\n以接收我们的电子邮件。\n\n如果您希望退订，请点击这里\n\n2005-2021 Steve Madden US。保留所有权利。\n\nSteve Madden Direct 52-1 6 Barnett Avenue, Long Island City, New York 11104  \n1-888-SMADDEN  SM PASS会员请拨打1-888-526-2881 infostevemaddendirect.com",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 130,
@@ -2353,11 +2073,7 @@
         "subcategory": "commercial spam",
         "raw_data": "首场百老汇演出 4月14日  \n一部新喜剧 由五次托尼奖获奖导演苏珊·斯特罗曼执导，并介绍剧作家塞琳娜·菲林格  \n莉莉·库珀  利亚·德拉里亚  瑞秋·德拉奇  朱莉安·霍夫  苏茜·中村  朱莉·怀特  瓦妮莎·威廉姆斯  \n《POTUS，或说每个伟大的傻瓜背后都有七位女性在努力让他活下去》  \n成为首批见证这部开创性新喜剧的观众，春季即将来临  \n\t购票  \n一个四个字母的词即将震撼1600宾夕法尼亚大道。当总统 当总统无意中将公关噩梦变成全球危机时，他最依赖的七位聪明而受困的女性将冒着生命、自由和追求理智的风险，以确保首席指挥官远离麻烦。  \n来自演员的消息  \n您收到此消息是因为您订阅了我们的电子邮件或您在Broadway.com上进行了购买。管理我的偏好设置",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 131,
@@ -2365,11 +2081,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Malwarebytes  \n查看此消息有问题？  \n点击此处以网页形式查看。  \nMalwarebytes Premium 享受 30% 折扣  \n享受 Malwarebytes Premium 30% 折扣  \n提升您的安全防护，享受 Malwarebytes Premium 30% 折扣。获得针对病毒、恶意软件、间谍软件等的高级、始终在线的保护。今天升级并节省！  \n享受 30% 折扣  \n选择最适合您的保护计划  \n单设备  \n三台设备  \n五台设备  \n别只听我们说……  \n它确实如所宣称的那样有效  \n评分 我已经在手机和桌面上使用Malwarebytes多年，它在后台默默运行，同时提供高水平的保护。  \n斯蒂芬·B. 认证买家  \n此促销仅适用于2022年2月25日至2022年3月11日下午5点（太平洋标准时间）之间直接向Malwarebytes下的新订单。折扣仅适用于您的初始订阅。当您的初始订阅到期时，您的费率将恢复为标准价格。  \n寻找Malwarebytes Premium的y 我们的 iPhone 或 iPad？必须在 App Store 中购买单独的订阅。可在美国、加拿大等地使用。查看可用性  \nFacebook Twitter LinkedIn Instagram  \n隐私 条款服务 退订  \n3979 Freedom Circle, 12 楼，圣克拉拉，加州，95054",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 132,
@@ -2377,11 +2089,7 @@
         "subcategory": "commercial spam",
         "raw_data": "欢迎来到迈阿密  \n欢迎来到迈阿密  \n只需要20美元和一口气？这就是你明天晚上在LVLONE与我们和DJ PRESS PLAY一起派对所需的一切。  \n对了，我想你还得在迈阿密。春假季节。或者也许你住在那儿，全年派对，如果是这样，向你致敬。  \n现在就抓紧时间买票，别等到卖完。我再说一遍，票价是20美元，只要这周别点一次Uber Eats，你就能负担得起。  \n赶快买票  \n   \n每周商品推荐  \n每周商品推荐  \n购物M ERCH  \n签名刺绣爸爸帽  \n几乎是星期五胜利游行T恤  \n刺绣签名皇家连帽衫  \n签名校园酒红色圆领衫  \n星期五啤酒签名海军棒球衫  \n几乎是星期五爸爸帽  \n购买商品  \n\n让我们笑的是什么  \n本周在《星期五啤酒播客》中，两位斯托克的萨满，即市议会传奇人物查德·克鲁格和JT·帕尔，来到总部，一边喝着Rolling Rocks和Bud Heavies，一边讨论福克斯新闻的新闻诚信。  \n\n播客横幅  \n去新播客集 SODE  \n下次见，开始喝酒  \n星期五啤酒  \nhttpstwitter.comfriday_beers?langen  \nhttpswww.instagram.comfriday.beers?hlen  \nhttpswww.youtube.comchannelUCCgK6peZI5-FKDCWzMIFk2A",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 133,
@@ -2389,11 +2097,7 @@
         "subcategory": "commercial spam",
         "raw_data": "SpotHero        找停车位\n节省您的机场出行费用\n准备长周末出发吗？让您的旅行无忧无虑！通过SpotHero预订机场停车，让您、您的预算和您的日程少一件烦恼的事。\n立即预订\n下载我们的应用程序\n推特        \nYouTube        \nInstagram        \nFacebook\n125 S. Clark St.    芝加哥, IL 60603\n844-324-7768  常见问题\n退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 134,
@@ -2401,11 +2105,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在浏览器中查看电子邮件。  \n23andMe  \n我们表达的方式  \n我们  \n你  \n情人节优惠  \n$79  \n祖先特征套件  \n原价 $99  \n$149  \n健康祖先套件  \n原价 $199  \n立即购买  \n优惠截止日期为2月14日。每人限购2套。  \n健康祖先套件价格比较基于2021年10月20日的现行价格$199。  \n23andMe套件  \nfb tw yt ig in  \n您正在接收此电子邮件 邮件是因为您是23andMe的客户。\n\n优惠在23andMe.com上结账时的单笔订单有效，必须在点击此电子邮件后下单。不能与任何其他折扣、促销或特价结合使用，也不能用于之前的购买。优惠于2022年2月14日太平洋时间晚上11:59结束。\n\n2007-2022 23andMe, Inc\n23andMe, Inc. 223 N. Mathilda Avenue, Sunnyvale, CA 94086, USA\n\n更新您的23andMe电子邮件偏好\n取消订阅23andMe营销更新 d 新闻通讯",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 135,
@@ -2413,11 +2113,7 @@
         "subcategory": "commercial spam",
         "raw_data": "嗨！\n\n通过我们最新的 noPac 课程、令人兴奋的虚拟实验室和发人深省的播客，迎接春天的到来！\n\n新课程\n\n利用与缓解 noPac CVE-2021-42278 和 CVE-2021-42287 - 雷蒙德·埃文斯\n\n我们关于 noPac CVE-2021-42278 和 CVE-2021-42287 的最新课程涵盖了一种危险的攻击链，允许任何用户在几秒钟内将其权限提升至 Windows 域管理员帐户的级别。\n\n新播客\n\n与 Secureworks 分析乌克兰的网络攻击 Cybrary 播客第。 在前所未有的时期，当网络和动能军事行动交汇时，我们可以从中学到什么关于战争性质的演变？Mike McLellan 和 Rafe Pilling 来自 Secureworks 的反威胁单位，与我们讨论乌克兰最新的网络攻击。\n供应商内容\n\n本周我们有 8 个新的 CYBRScore 实验室要分享，所有这些实验室都非常适合任何寻求使用 PHP 安全编码和操作系统加固进行 Web 应用程序安全培训的人。 \n\nWEB241 加固 PHP Web 应用程序 - 跨站脚本攻击  \nWEB241 加固 PHP Web 应用 - 文件上传  \nWEB241 加固 PHP Web 应用 - PHP 配置  \nWEB241 加固 PHP Web 应用 - 安全反序列化  \nWEB241 加固 PHP Web 应用 - 敏感数据暴露  \n下周，我们期待发布更新版的 CompTIA CASP CAS-004 认证备考课程！该综合课程结合了视频、实验和学习材料，以帮助您设计、工程、集成和实施企业级安全解决方案。  \n\n祝好 学习！\n\nCybrary团队\n\n2022 Cybrary, Inc. 保留所有权利。\n4600 River Rd, 400, College Park, MD 20740\n\n博客\n\n如果您不再希望接收这些电子邮件，您可以随时取消订阅。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 136,
@@ -2425,11 +2121,7 @@
         "subcategory": "commercial spam",
         "raw_data": "探索美国，使用美国铁路通行证。\n以网页形式查看\n美铁\n每次乘坐都能获得\n美铁客人奖励\n立即加入\n10次乘坐仅需399美元\n美国铁路通行证仅需399美元，有效期至3月29日\n限时优惠，获取美国铁路通行证仅需399美元，有效于30天内的10个区间。这比正常价格节省了100美元，每次乘坐不到40美元。\n在全国各地的城镇之间跳跃，享受您的假期。或者只是花几个延长的周末远离家。行动要快，这个优惠即将结束。 仅有效至3月29日。并非所有路线均可用。适用其他限制。  \n立即预订  \n旅行的新标准  \n预订机票  \n预订酒店  \n预订汽车  \n优惠  \n客户奖励  \n保持联系  \nFacebook  \nTwitter  \nInstagram  \nYoutube  \n下载AMTRAK应用  \nGoogle Play  \nApp Store  \n适用条款和条件。请访问优惠页面以获取完整详情。  \nAmtrak、Amtrak客户奖励和美国铁路通行证是国家铁路客运公司注册的服务标志。  \n我们的邮件 地址是\n美国铁路公司，市场部\n马萨诸塞大道西北1号\n华盛顿，DC 20001\n联系我们    退订    条款和条件    隐私政策",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 137,
@@ -2437,11 +2129,7 @@
         "subcategory": "commercial spam",
         "raw_data": "查看菜单        在线订购  \n向健康的一面问好  \n香肠日出三明治  \n煎至两面微黄的无笼蛋，搭配两块煎香肠饼、融化的蒙特雷杰克奶酪、新鲜捣碎的鳄梨、Cholula辣酱、蛋黄酱和自制的皮科德伽洛，夹在烤过的布里欧修面包中。配有轻拌的有机混合生菜。  \n\n立即订购  \n查看配料  \n蟹饼本尼迪克特  \n酥脆的蟹饼，上面放有两颗无笼水煮蛋，搭配炒嫩菠菜和自制的皮科德伽洛，覆盖着srir 阿查荷兰酱，配以葱和老湾调料。搭配轻拌的有机混合生菜。\n\n在餐厅享用\n查看成分\n虾仁玉米粥\n煎制的卡真虾和安杜伊香肠，配以鸡肉高汤、家制烤番茄和洋葱、青椒和葱，放在鲍勃红磨坊切达帕尔马干酪玉米粥上，配手工恰巴塔面包。\n\n立即订购\n查看成分\n菠萝快车\n菠萝、橙子、椰子水、青柠和龙舌兰，搭配薄荷。 水晶边缘。\n\n立即订购\n查看成分\n        未选择位置        更改位置\n        Facebook        Instagram\n虚线\n查看菜单\n我们的食品理念\n礼品卡\n地点\n联系我们\n营养信息\n下载iPhone版\n下载Android版\n更新电子邮件偏好     退订\n使用条款     无障碍     隐私政策\n\n在浏览器中查看    \n\n 2022 First Watch Restaurants, Inc. 保留所有权利。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 138,
@@ -2449,11 +2137,7 @@
         "subcategory": "commercial spam",
         "raw_data": "眼镜直购  \n眼镜 太阳镜 优质品牌特卖  \n银色亮丽  \n\n银色  \n关于你一直关注的那些框架  \n是时候把它们变成你的了！获取独家折扣  \n买一送一  \n使用优惠  \n买得越多，赚得越多  \n告诉我更多  \n更多使用优惠的方法  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n春天的仙境  \n线上到线下  \n遮阳 用蓝光保护你的眼睛  \n自由便捷的退货 365天产品保证  \n两天送达  \n\nInstagram Facebook Twitter Youtube Tiktok",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 139,
@@ -2461,11 +2145,7 @@
         "subcategory": "commercial spam",
         "raw_data": "保护您的眼睛免受阳光伤害，同时保护地球免受污染，选择我们的可生物降解眼镜。\n\n仅限本周，所有太阳镜和蓝光眼镜享受40%折扣。\n\n购买太阳镜\n购买蓝光眼镜\n\n不再想接收这些邮件？退订。\nPela Case 604-460 Doyle Ave Kelowna, BC V1Y0C2",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 140,
@@ -2473,11 +2153,7 @@
         "subcategory": "commercial spam",
         "raw_data": "保护您的眼睛免受阳光伤害，并保护地球免受污染，选择我们的可生物降解眼镜。\n\n仅限本周，所有太阳镜和蓝光眼镜享受40%折扣。\n\n购买太阳镜\n购买蓝光眼镜\n\n不再想接收这些邮件？退订。\nPela Case 604-460 Doyle Ave Kelowna, BC V1Y0C2",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 141,
@@ -2485,11 +2161,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在应用程序中获取一切的最佳体验\n\n星巴克\n\n《布里杰顿》第二季的明星\n\n呼叫所有《布里杰顿》粉丝\n\n迫不及待想在Netflix上观看新一季？\n你运气不错。我们将分享即将到来的所有\n浪漫、丑闻和秘密的预告片，\n包括一个粉丝最爱的书中场景的片段\n被搬上荧幕。\n\n立即观看\n\n作者朱莉娅·奎因在星巴克与我们坐下来\n谈论第二季，灵感来自她的小说\n《爱我的子爵》。故事讲述了\n安东尼·布里杰顿，他的寻找 一个合适的妻子将他引入一个意想不到的爱情三角关系。现在查看独家采访，然后收看《布里杰顿》的第二季，3月25日在Netflix首播。社交系列的标志《你读过这本书吗？》 星巴克标志 Netflix标志\n\n应用程序\n\n订单\n\n优惠\n\n奖励\n\nInstagram\nTikTok\nFacebook\nTwitter\n参考 22-25-MKTP-1-0-0-EM-NSR-NA-US\n\n此电子邮件已发送至。取消订阅。\n\n有问题？请在这里联系我们。\n\n邮政信箱20430，乔治亚州奥古斯塔，邮政编码30916。\n2022年星巴克 公司。\n\n星巴克卡使用条款\n\n隐私声明",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 142,
@@ -2497,11 +2169,7 @@
         "subcategory": "commercial spam",
         "raw_data": "FANDANGO\t\t\t\t我的账户\n\n\t375 积分\t\n\n你距离奖励只差 1 张票\n\n现在放映中\n\n查看放映时间\n\t添加你最喜欢的电影院\n以查看附近的放映时间。\n\n你离 $5 奖励如此之近\n再买 1 张票即可获得 $5 用于你的下一次电影之夜。\n购票\n提前购票\n蝙蝠侠\n获取我的票\t查看采访\n神秘海域\t西拉诺\n在你附近放映的电影\n嫁给我\t尼罗河上的死亡\t黑暗光线\n月坠\t蜘蛛侠：无路可归\t傻瓜永远\n尖叫\t披头士 G 返回屋顶音乐会\tSING 2  \n现已随时播放  \n\n查看更多  \n购买50美元的礼品卡订单可享受10%折扣  \n\n购买礼品卡  \n\n通过您的Fandango VIP账户在fandango.com或Fandango应用程序上购买电影票，每张电影票可获得125个VIP积分。每张票的购买必须使用信用卡、借记卡、PayPal、您之前兑换购买的Fandango VIP账户余额或Fandango礼品卡支付，即如果您使用一个 促销代码仅适用于该购买的一部分，以符合获得VIP积分的资格。电影票必须是放映时间在促销期最后一天太平洋时间晚上11:59之前的电影。当您获得500个VIP积分时，您将获得5.00美元的折扣奖励，您需要将其转换为折扣促销代码，以便在www.fandango.com或www.vudu.com上进行符合条件的购买。折扣促销代码在5.00美元折扣奖励发放后21天到期。 已发布到您的Fandango VIP账户。折扣促销代码不能与任何其他优惠、促销代码或折扣结合使用。您可能需要额外支付税费。折扣促销代码不能用于购买礼品卡。在应用您的折扣促销代码后，任何未使用的余额将自动失效。在禁止的地方无效。Fandango保留随时修改或取消此优惠的权利，恕不另行通知。此优惠受www.fandango.compol上的VIP计划条款的约束。 购买价值50.00美元或以上的Fandango礼品卡，在Fandango.com上进行单笔交易，时间为2022年2月1日星期二太平洋时间凌晨12:01至2022年2月28日星期一太平洋时间晚上11:59。在结账时输入优惠码FEB2022以获得购买金额的10%折扣。必须在结账时输入代码才能获得折扣。单笔交易最高可享受50.00美元的折扣。无现金价值，除非法律要求。 法律要求。不得转售，若出售或交换则无效。与任何其他优惠或折扣无效。禁止的地方无效。Fandango保留随时修改或取消此优惠的权利，恕不另行通知。此优惠及代码的兑换受Fandango的条款和政策以及隐私政策的约束，网址为www.fandango.comTerms-and-Policies。\n\n版权2022，Fandango Media, LLC  \n407 N. Maple Drive, Ste. 300, Beverly Hills, CA 90210  退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 143,
@@ -2509,11 +2177,7 @@
         "subcategory": "commercial spam",
         "raw_data": "看不到此电子邮件？在您的浏览器中查看\n\n快乐的世界赞美日\n\n向那个特别的人展示他们对您来说有多么美好。\n\n给他们一张他们出生那晚的星空图。\n这样他们就会永远知道自己是多么特别。\n\n在这一天，星星排列在一起，世界获得了最美丽的礼物。您！\n\n立即创建您的星空图\n\n需要一些创意？\n没问题！这里有一些信息可以激发您的创意 果汁来了！\n感谢你的存在。你让我以一种从未有人能做到的方式看待这个世界。\n有些人就像星星，他们如此明亮美丽，让这个世界变得更加美好。\n你慷慨的精神闪耀着，像星星一样，照亮了你周围每一个人的生活。\n在寻找其他东西吗？\n\n我们还推出了一款全新的产品——月相地图！\n它叫做OverOurMoon！\n\nOverOurMoon月相地图\n\n从你的特殊地点看到月亮的确切相位。 在夜空中，尽显其辉煌，配以我们超高分辨率的优质月相地图。\n\n别担心，我们是同一家公司，因此月相地图将保持您所熟知和喜爱的优质。 这些地图也在阳光明媚的圣地亚哥制作和发货。\n\n创建您自己的月相地图\n\n所有订单均包含免费标准运输\n不再想接收这些电子邮件？退订。\nTwinkleInTime 8248 Mercury Ct San Diego, CA 92111",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 144,
@@ -2521,11 +2185,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Goodreads  \n行星页面  \n采访曼德尔  \n艾米莉·圣约翰·曼德尔谈通过艺术寻找希望  \n《十一站》的作者，现在是一部热门的HBO Max剧集，与我们谈论她的最新小说《宁静之海》，在后末世的背景中写作快乐，以及在她的书巡演中虚构所有人们对她说过的混乱话语。  \n阅读更多  \n背后辉煌  \n48本当下值得阅读的流派珍品  \n48本当下值得阅读的科幻小说珍品  \n在选择时感到不知所措 你下一个要读的书是来自如今可用的庞大科幻、奇幻和恐怖小说银河系吗？那么让热爱科幻、奇幻和恐怖小说的读者和评论家Kerine Wint为你提供过去十年的精彩建议吧！\n阅读更多\n\n美好的友谊\n春季科幻奇幻作者小组访谈\n今天最热门的科幻奇幻作者回答我们的迫切问题\n本季五本最受期待的新书的作者谈论他们的小说，并揭示他们最大的写作挑战。哦，对了，他们还合作…… 有效地推荐许多其他作家和书籍到你的“想读”书架上。\n阅读更多\n邪恶的写作\n采访施瓦布\nV.E.施瓦布谈写作安静、可怕的死亡故事\n在她最新的小说中，V.E.施瓦布为一个神秘的门赋予了诡异的色彩，这扇门通向另一个地方。她与我们谈论了《勇敢》，她的写作过程，闹鬼的房子，以及将她的中级、青少年和成人书籍统一在一个笔名下的决定。\n阅读更多\n\n书籍结束\n想要更多SFF阅读 看看Goodreads会员2022年最期待的科幻和奇幻书籍。如果你在寻找情绪化的小说，可以尝试我们汇总的21部经典与当代哥特故事中的一本。查看这些最近发布的科幻和奇幻平装书！目前阅读中 目前阅读中的书籍封面 《好女孩》 更新进度 低 Goodreads 在\nFacebookTwitterInstagramLinkedIn\n要获取更多精彩内容，请浏览我们的新闻与访谈页面。\n\n我们在招聘！查看我们的职位。\n\n获取应用程序\nGoodreads 在 App Store\nGoodreads 在 Google Play\n此电子邮件已发送至。\n退订\n\n有问题吗？请访问 Goodreads 帮助。\n\n版权 2022 Goodreads  188 Spear Street, San Francisco, CA 94105",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 145,
@@ -2533,11 +2193,7 @@
         "subcategory": "commercial spam",
         "raw_data": "任何人都可以烹饪 - 来自厨房故事的新鲜资讯。看起来不对劲？只需点击这里！\n\n厨房故事\n\n食谱 故事 分类 如何做\n\n碎肉咖喱\n\n你好！\n\n自从我开始和她合作以来，我一直对鲁比的咖喱食谱感到惊叹。它们有趣、超级美味，并且容易制作。上个月，我有幸测试并烹饪了她的碎肉咖喱，这是一道用土豆、绞肉和冷冻豌豆制作的简单印度咖喱。\n\n这些听起来可能像是…… 用预算食材，但相信我，加上新鲜青辣椒，这道菜绝对是味道炸弹！而且，每份只需1.90欧元或2.10美元。\n\n所以，不再多说，赶紧去看食谱，开始烹饪吧！\n\n雪茨\n下次见，\n雪茨\n去食谱\n\n更多经济实惠的咖喱食谱 更多食谱\n\n一锅奶油鹰嘴豆和菠菜咖喱\n\n一锅奶油鹰嘴豆和菠菜咖喱\n\n去食谱\n素食马萨曼风味咖喱 素食马萨曼咖喱\n\n奶油椰子南瓜扁豆炖菜\n\n五种食材红咖喱鸡汤\n\n新 烹饪热线 了解更多",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 146,
@@ -2545,11 +2201,7 @@
         "subcategory": "commercial spam",
         "raw_data": "你的旅行伙伴们已经发声  \nTripadvisor  \n最佳滑雪道。永远。  \n滑雪者在雪山旁做后空翻  \n旅行者之选最佳中的最佳  \n你的旅行伙伴们全年追逐史诗般的粉雪，这些是他们认为你绝不能错过的十大滑雪高峰。所以，雪爱好者们，穿上滑雪靴吧。你们有滑道要去征服。 撕裂。\n揭示排名\n犹他州帕克城\n3个世界级滑雪胜地\n\n夜间酒吧、酿酒厂、俱乐部\n\n地球上最好的雪TM。\n\n立即探索 旅行者选择最佳中的最佳\n旅行者选择最佳中的最佳        \n科罗拉多州布雷肯里奇\n高海拔山脉\n\n适合儿童和初学者的平坦地形\n\n靠近滑雪道的滑进滑出小屋\n\n立即探索\n \n加利福尼亚州湖 Tahoe\n300天的阳光\n\n高级和专家地形\n\n从每个视角都能看到原始湖泊景观\n\n立即探索 现在 旅行者选择最佳中的最佳\n\n请不要直接回复此电子邮件。此邮件来自一个无法接受回复的地址。如有问题或需要帮助，请访问我们的帮助中心。\nTripAdvisor LLC，400 1st Ave.，Needham，MA 02494，美国\n2022 TripAdvisor LLC。保留所有权利。Tripadvisor、Tripadvisor徽标、猫头鹰徽标、旅行者选择和旅行者选择徽标是TripAdvisor LLC在美国及其他国家的商标。\n前往Tripadvisor 退订 隐私和Cookies声明      联系我们\n\n苹果商店                Google Play商店\n关注我们以获取旅行灵感",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 147,
@@ -2557,11 +2209,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在线和店内购物，截止至2月16日以赚取里程。  \nMileagePlus购物  美国联合航空\n\n额外里程        登录\n\n冬季奖金\n\n冬季奖金于2月16日结束\n\n赚取高达1,000额外里程\n\n作为联合航空MileagePlus购物SM会员，您在Nike、沃尔玛、梅西百货等900家顶级商店消费每一美元都可以赚取里程。\n\n利用两个额外优惠，充分利用您的购物\n\n赚取高达500额外里程\n\n在2月16日前购物时。\n\n加号\n\n赚取500额外里程\n\n消费25美元 在签约后的两周内。\n\n现在购物\n\n运作方式\n探索\n\n探索\n\n探索超过900家商店和服务。\n\n购物\n\n购物\n\n像往常一样购物并结账。\n\n赚取\n\n赚取\n\n在您的购买中赚取未来旅行的里程。\n\n现在购物\n\n在冬季奖励活动期间，该活动从2022年7月27日持续到2022年2月16日东部时间晚上11:59，会员将在通过MileagePlus购物进行的合格购买中获得一次性奖金，最高可达500 MileagePlus奖励里程。 通过MileagePlus购物的店内优惠所产生的购买。此一次性奖励将基于会员在奖励期间的累计合格购买。合格购买至少需为150美元或以上，可赚取500英里。合格购买不包括退货、取消、运费和手续费、税费、礼品卡或其他现金等价物的购买，以及某些不符合奖励里程的产品。有关详细信息，请参阅MileagePlus购物商城网站。 有关产品资格和其他限制的信息。请在奖励期结束后最多等待10周，以便奖励里程到账您的MileagePlus购物账户。在法律禁止的地方无效。\n\n新会员奖金优惠仅适用于在MileagePlus购物SM网站（以下简称“网站”）的新会员，这些新会员在首次登录网站后的两周内完成符合条件的购买（定义如下），即奖金期。在首次登录后，新会员将收到MileagePlus购物欢迎信息。 来信中会包含此奖金优惠的具体到期日期，即奖金期的结束日期。在奖金期内，会员在通过MileagePlus购物进行合格消费时，消费总额达到25.00美元或以上，将获得500个MileagePlus里程奖金奖励。会员必须在奖金期内登录并通过网站进行合格消费。请允许6到8周的时间，奖金奖励里程将会到账到您的MileagePlus购物账户。合格消费 不包括产品退货或取消、礼品卡购买以及个别商家指定的某些产品。个别商家可能在网站的商店详情页面上有额外的条款和条件，这些条款和条件将适用于此奖励优惠。每个新的MileagePlus购物中心账户最多可获得一次1个奖励里程。所有Mileage Plus购物计划的规则和规定均适用。法律禁止的地方无效。 该计划由Cartera Commerce, Inc.管理和运营，地址为美国马萨诸塞州列克星敦市蔓越莓山1号，203套房，邮政编码02421-7397。\n\n所有交易的计划条款 使用优惠券或折扣代码进行的购买不符合获得里程的资格，除非这些优惠券或折扣代码在MileagePlus购物网站上找到。价格、优惠和里程赚取率可能会有所变动。请在MileagePlus购物网站上查看特定商家的限制和条款与条件，以确定具体的优惠要求。 购买礼品卡、证书或其他现金等价物是否符合获得里程的资格。\n\n累积的里程、奖励和发放的福利可能会有所变动，并受United MileagePlus计划的规则约束，包括但不限于Premier计划，这些规则在此明确纳入。请在完成符合条件的活动后允许6-8周的时间以便里程到账。联合航空可能会更改MileagePlus计划，包括但不限于。 联合航空可随时更改、终止MileagePlus计划，或更改相关规则、规定、旅行奖励和特别优惠，且无需提前通知。联合航空及其子公司、附属机构和代理商对其他参与公司和合作伙伴的任何产品或服务不承担责任。与奖励旅行相关的税费由会员自行承担。通过非航班活动获得的奖励里程、奖励里程和任何其他里程不计入晋升为高级会员的资格，除非 除非另有明确说明。累计的里程或高级会员状态或任何其他状态并不赋予会员在MileagePlus计划下任何既得权利。与MileagePlus计划相关的所有计算，包括但不限于里程的累计和满足高级会员资格要求，将由联合航空公司和MileagePlus自行决定，且这些计算将被视为 此邮件发送至。 要停止接收 MileagePlus 购物计划的电子邮件，请通过点击此处在我的账户页面上更新您的偏好设置。要停止接收所有 MileagePlus 购物计划的电子邮件，请在此处退订。\n\n此电子邮件包含来自 MileagePlus 购物的广告。MileagePlus 购物由 Cartera Commerce, Inc. 管理和运营，地址为美国马萨诸塞州列克星敦市蔓越莓山1号203室，邮政编码 02421-7397。\n\n登录\nunited.com\n条款和条件\n联系我们\n退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 148,
@@ -2569,11 +2217,7 @@
         "subcategory": "commercial spam",
         "raw_data": "奖励自己  \n加入我们的新奖励计划，开始在每次购买中赚取积分。对您来说没有任何费用，只有奖励！  \n\n每次购买都能赚取积分  \n今天加入，注册即可获得100积分，价值5美元！然后每次您在线购物时，每花费1美元就能赚取1积分。奖励会员还享有独家福利，如提前获取新产品和促销活动、特别活动等！了解如何赚取更多积分，请查看下面的信息。  \n今天注册 赚取积分的方法  \n当您通过购物赚取奖励时，您的积分将在订单发货后自动添加到您的账户中，无需输入电子邮件或折扣代码。现在，有许多新的赚取奖励积分的方法。留下带照片的产品评论可赚取20积分，生日当天可赚取100积分，推荐朋友加入Tea Forté可赚取100积分，还有更多！  \n\n如何兑换  \n每100积分价值5美元，可用于任何在线购买。 在teaforte.com。要兑换您的积分，请登录您的teaforte.com账户并选择在结账时使用的金额。\n\n加入奖励\n加入很简单！只需今天创建一个账户，您将获得100积分（价值5美元）以开始。\n\n加入奖励计划\n\n还有问题吗？\n请访问我们的奖励页面以获取详细信息。\n\n1.800.721.1149\ninfo@teaforte.com\n\n2022 Te 福特公司  \n5号  \n米尔与梅因广场，  \n套房05-211，  \n梅纳德，  \n马萨诸塞州  \n美国  \n01754  \n\n赚取100奖励积分，  \n价值5美元，  \n当您加入奖励计划时。  \n\n仅适用于新账户。  \n奖励积分将在加入后1小时内添加。  \n优惠有效期为2022年3月1日至4日。  \n此电子邮件已发送给char",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 149,
@@ -2581,11 +2225,7 @@
         "subcategory": "commercial spam",
         "raw_data": "包包如此完美，你将永远不想没有它们。\n\n在网页浏览器中查看\n\nCoach Outlet\n手提包正在流行。包包如此完美——你将永远不想没有一个。很容易理解为什么。点击购物\n画廊手提包 多功能口袋和拉链顶部，让一切安全无忧。\n点击购物\n登普西手提包 顶部手柄和斜挎带？检查，检查。\n点击购物\n城市手提包 通过按扣轻松取用必需品。\n点击购物\n莫莉手提包 两个小袋和一个中央拉链——w 好吧，你真有条理。  \n点击购物  \n推荐朋友。  \n订单满$100立减$15。立即注册  \n现在购买，稍后付款，使用Klarna。了解更多  \n成为内部人士  \n新品上市  \n\n女性  \n\n男性  \n\n清仓  \n\n通过注册短信营销，您同意接收来自Coach Outlet的定期自动营销和信息短信，例如，SMS和MMS消息，包括可能使用自动拨号系统发送的短信，发送至您提供的手机号码。 注册或您指定的任何其他号码。同意接收自动营销短信不是任何购买的条件。可能会收取消息和数据费用。$15折扣的唯一代码仅适用于首次订阅者，并且在通过短信收到后的30天内有效。此优惠仅限一次使用，仅限在线。最低订单为$100。\n\n由于为保护我们的配送中心员工而采取的额外健康和安全措施，发货可能会延迟。\n\n列出的价格在... 所有折扣。由于需求量大和库存有限，订单无法保证。商店和在线的定价可能会有所不同。所列价格仅适用于Coach Outlet在线商品。所有香水均不在优惠范围内。可能还有其他排除项。所展示的商品可能在Coach Outlet在线或所有Coach Outlet商店中不可用。\n\n请不要回复此消息。如果您有任何问题，请通过电子邮件联系我们，邮箱是 enewsinquiriescoach.com。\n\n点击这里了解更多信息。 了解更多关于Coach Outlet隐私政策的信息。\n\n如果这封邮件是转发给您的，并且您希望订阅未来的Coach Outlet邮件，请点击这里。\n\n根据联邦法律，此消息可能构成广告或招揽。如果您希望退订或更改您的电子邮件地址，请点击这里。\n\n2022 Tapestry, Inc. 10 Hudson Yards New York, NY 10001 US",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 150,
@@ -2593,11 +2233,7 @@
         "subcategory": "commercial spam",
         "raw_data": "乐趣世界  \n管理我的电子邮件偏好  \n乐趣世界 - 连接通讯  \n这是您2月17日的公园新闻  \n\n开园日是4月30日！  \n乐趣世界欢迎客人于4月30日回归，迎接2022赛季的开园日。准备好迎接又一年充满乐趣的时光，公园将提供世界级的游乐设施，以及与《花生漫画》中的角色在史努比星球上的难忘家庭乐趣。  \n\n2022年金卡让您在整个赛季内无限次进入公园和乐趣海洋水上乐园，同时还提供免费停车。 独家折扣和更多优惠！仅需5次轻松付款，每次$15即可购买您的黄金通行证。\n\n需要初始付款。另加适用费用。\n了解更多\n-\n\n现场娱乐夏季季节选角！\n你准备好闪耀了吗？欢乐世界正在为2022年夏季季节选拔歌手、舞者、音乐家以及角色表演者和游乐场演员。如需试镜表格和更多信息，请发送电子邮件至auditionsworldsoffun.com。\n了解更多\n-\n\n寻找完美的夏季工作吗？\n欢乐世界正在招聘！我们 我们正在寻找团队成员加入我们的2022赛季。现有多种职位机会，所有公园运营领域都需要员工。申请者必须年满16岁。\n\n了解更多\n\n-\n\n为我们最小的客人提供免费乐趣！\n学前通行证对3-5岁的小朋友免费，2022年可以无限次入园，包括海洋乐园水上乐园！持有学前通行证，我们的小客人可以随时进出——完全免费！\n\n了解更多\n\n-\n关注我们\nFacebook 推特        Instagram  \n立即取消订阅  \n\n订阅信息 此消息是由于您选择接收来自乐园世界的电子邮件而发送的。  \n访问我们的在线个人资料中心，您可以管理您的个人资料，控制您的列表偏好，或取消订阅来自雪松公平娱乐公司的所有电子邮件。  \n管理信息 此电子邮件由乐园世界发布，地址为：4545 Worlds of Fun Ave., Kansas City, MO 64161。乐园世界是雪松公平娱乐公司的一个品牌。 公司。\n2022 雪松公园娱乐公司\n2022 花生全球有限责任公司\n隐私政策 我们尊重您对隐私的权利。本《乐趣世界》出版物受雪松公园娱乐公司在线隐私政策的约束。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 151,
@@ -2605,11 +2241,7 @@
         "subcategory": "commercial spam",
         "raw_data": "AAA 为您的家节省开支\n\n无论您是想用一些新的家居装饰来美化房子，翻新一个房间，储备草坪和花园用品，购买新家电，还是计划搬到新家，AAA 会员都能享受更多优惠。\n\n查看优惠\nACE 硬件  ASHLEY 家居商店  ATLAS 搬家公司\nBED BATH & BEYOND  BEST BUY  GARDENERS SUPPLY COMPANY  LOWES 北方工具  OFFICE DEPOT 和 OFFICEMAX  PENSKE 卡车租赁  三星  TARGET  家得宝  沃尔玛 等等！\n\nAAA 会员享受更多优惠\n\n笔 凯卡车租赁图像  \n彭斯基卡车租赁  \nAAA会员可享受卡车租赁、搬家配件和用品独家优惠，节省12%或更多。\n\n今天预订  \nSimpliSafe图像  \n家庭安全大优惠  \nSimpliSafe是一个屡获殊荣的家庭安全系统。现在下单可享受任何新系统15%折扣、免费摄像头、1个月免费监控和15个AAA积分。\n\n立即购物  \n家居装饰图像  \n家居装饰  \n在AAA积分在线商城中，购买您最喜欢的零售商的设计和风格。 ，包括Bed, Bath & Beyond、Ashley Homestore、Kohls等。每次符合条件的购买您都将赚取AAA美元。\n\n立即购物\n花园和户外图像\n花园与户外\n为您的草坪、花园和后院储备所需的一切。在Gardener Supply Company、Ace Hardware、The Home Depot等品牌在线购物时，您将赚取AAA美元。\n\n立即购物\nTaxAct图像\nTAXACT\n使用TaxAct节省25%的州和联邦税务准备及申报费用，以及其他特定产品。\n\n查看优惠 阳光动力图像  \n阳光动力  \nAAA会员购买全新的SunPower Equinox系统可获得$1,000的返利。  \n\n立即购物  \n消费者搬迁服务图像  \n消费者搬迁服务  \n通过消费者搬迁服务，您的下一次州际搬家可节省高达$800。  \n\n查看优惠  \n布什花园坦帕图像  \n布什花园坦帕  \n体验美洲最高、世界最快和最陡的混合过山车——铁戈兹威，于3月11日在布什花园坦帕湾开放！节省门票和通行证。 立即购买  \n小猪佩奇主题公园图像  \n小猪佩奇主题公园  \n旨在为小朋友们提供终极的一天，新的小猪佩奇主题公园设有游乐设施、主题游乐场、水上游乐区以及更多令人兴奋的体验！距离佛罗里达乐高乐园仅几步之遥。  \n\n立即购买  \nAAA礼品卡中心图像  \nAAA礼品卡中心  \n在您下一个家居改善项目之前购买礼品卡，并赚取高达5%的AAA美元。可从超过120个品牌中选择，包括Lowe's、家得宝、百思买等。 梅菲尔和许多您最喜欢的零售商。\n\n立即购买\n三星图像\n三星\n全站家用电器和消费电子产品最高可享30%折扣。\n\n立即购物\n纳帕汽车零件图像\n纳帕汽车零件\n双重折扣！AAA会员在纳帕汽车零件店内和在线购物可享20%折扣，优惠至3月20日。\n\n立即购物\nAAA折扣网页扩展  员工最爱\n\n安娜·法鲁拉-莫拉莱斯头像\n立即添加\n安娜·法鲁拉-莫拉莱斯，折扣与奖励国家账户高级顾问\n\nAAA折扣网页扩展是如何产生的 帮你吗？  \n由于去年学校和工作都是远程的，我女儿需要一台新笔记本电脑，而我需要一个第二个显示器。幸运的是，当我在谷歌上搜索显示器时，网络扩展提醒我AA与HP的合作。我能够为我女儿购买一台HP显示器和笔记本电脑。只需几次点击，我节省了大约100美元。\n\n您也可以在网上购物和搜索时找到AAA优惠。今天就添加AAA折扣网络扩展吧！\n\n即时折扣 折扣\n在全国超过100,000个零售合作伙伴地点和在线享受优惠。\n\n查看优惠\n\nAAA礼品卡中心\nAAA礼品卡中心\n在超过120个知名品牌的礼品卡上赚取AAA美元。\n\n了解更多\n\nAAA美元在线商城\nAAA美元在线商城\n在线购物超过2,000个品牌，赚取AAA美元。\n\n立即购物\n\n景点门票\n景点门票\n购买主题公园、当地景点等的门票花费更少。\n\n立即购买\n\n合作伙伴和优惠可能会有所变动。适用限制。AAA美元优惠 适用于来自汽车俱乐部集团（ACG）的活跃会员。与其他优惠无效。AAA美元在波多黎各不可用，且不能与其他零售商奖励计划合并。ACG会员持有的AAA美元可以由任何注册在汽车俱乐部集团下的AAA会员账户的活跃ACG会员兑换，并且居住在该ACG会员账户指定的主要家庭中。有关更多信息，请参阅AAA美元的条款和条件。 可以在AAA.comDollars找到。AAA Dollars在线商城的交易将在交付日期后的1-7天内出现在我的账户中的“查看待处理”下，然后在30天后发布到“查看已赚取”。有关完整的优惠列表，请在线访问AAA.comOnlineMall，或前往您当地的AAA办公室，或拨打877-214-9188。合作伙伴和优惠可能会有所更改，并且适用限制。当从AAA.com或AAA移动应用程序链接时，购买必须通过零售商的网站进行。购买 通过零售商应用程序不适用。与其他折扣、促销、团体优惠、优惠券、优惠券代码或奖励卡、忠诚奖励计划或积分无效。礼品卡可在参与的AAA办公室和在线购买。所代表的商家不是汽车俱乐部集团的赞助商或附属机构。附带的标志和其他识别标志是各自公司及其附属机构的商标。请访问各公司的官方网站以获取更多信息。 条款和条件。礼品卡不可退还。NAPA双重折扣优惠适用于314和320号，在参与的NAPA门店和在线可用。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 152,
@@ -2617,11 +2249,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在它们被全部抢光之前抓住它们。\n\n来自Klarna给你的。\n\n有什么比好的折扣更好？一整封充满折扣的邮件。\n没错，是时候获取你每日的Klarna Drops了。这正是交易医生所要求的。\n查看更多交易\n\n运动鞋\n\n锐步\n多功能运动鞋。最高可享受55%折扣。NANO55\n\n去交易\n\n克拉克\n超值鞋子。节省20%。\nTWENTY\n\n去交易\n\n电子产品\n\n戴尔\n是时候享受计算机交易了。最高可享受$500折扣。\n\n去交易 办公用品商店  \n家庭办公室。最高可享40%折扣。  \n\n去购买  \n\nWayfair  \n查看Wayfair的最新产品。  \n现在购物并通过Klarna分4期付款。  \n立即购物  \n\n精选商家  \nRêves  \n完美的夜间睡眠始于Rêves枕套。享受减少分叉和早晨无毛躁的头发好处，同时沉浸在您梦想中的丝滑睡眠套装中。  \n立即购物  \n\nKlarna Inc.  \n629 N. High Street, Suite 300  \n哥伦布，俄亥俄州，43215  \n美国 Klarna.com\n\n取消订阅\n\n本电子邮件中广告的优惠由零售商直接提供，并受其条款的约束。Klarna不保证任何优惠，并可能获得佣金。本电子邮件中提供的一些优惠涉及数量有限的产品。价格、数量和优惠可能会有所变动。可能适用限制和奖励上限。有关更多信息，请参阅Klarna应用中的优惠页面和零售商条款。通过Klarna进行的每月融资由WebBank发行，会员 FDIC。其他根据加利福尼亚金融贷款法许可证发放或安排的加州居民贷款。这是一封营销邮件。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 153,
@@ -2629,11 +2257,7 @@
         "subcategory": "commercial spam",
         "raw_data": "查看浏览器nytimes.com\n\n2022年2月10日\n\n突发新闻\n\n文章图片\n杰森·安德鲁为《纽约时报》拍摄\n\n调查人员发现特朗普1月6日通话的白宫记录存在空白\n稀疏的通话记录是众议院小组面临的最新障碍，该小组试图记录特朗普总统在国会遭袭期间的活动。\n\n作者：卢克·布罗德沃特、乔纳森·马丁、玛吉·哈伯曼和迈克尔·S·施密特\n\n阅读最新消息\n在全球重要新闻发生时获取信息 获取更多突发新闻到您的邮箱\n\n注册接收《纽约时报》的电子邮件，第一时间了解全球重要新闻。\n\n将其发送到您的邮箱\n需要帮助吗？请查看我们的通讯帮助页面或联系我们以获取帮助。\n\n您收到此消息是因为您注册了《纽约时报》的更新。\n\n要停止接收这些电子邮件，请取消订阅或管理您的电子邮件偏好设置。\n\n订阅《时报》\n在 facebook twitter instagram 上与我们联系\n更改您的 E 邮件隐私政策联系我们加利福尼亚通知  \n纽约时报公司。纽约第八大道620号，邮政编码10018",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 154,
@@ -2641,11 +2265,7 @@
         "subcategory": "commercial spam",
         "raw_data": "欢迎来到迈阿密  \n欢迎来到迈阿密  \n只需20美元和一口气？这就是你明天晚上在LVLONE与我们和DJ PRESS PLAY一起派对所需的一切。  \n哦，对了，我想你还需要在迈阿密。春假季节。或者也许你住在那儿，全年派对，如果是这样，向你致敬。  \n现在就抓紧时间买票，免得卖完。我再说一遍，票价是20美元，只要这周不要点一次Uber Eats，你就能负担得起。  \n立即购买你的票  \n \n每周商品推荐  \n每周商品推荐  \n购物 M ERCH  \n签名刺绣爸爸帽  \n快到星期五胜利游行T恤  \n刺绣签名皇家连帽衫  \n签名校园酒红色圆领衫  \n星期五啤酒签名海军蓝棒球衫  \n快到星期五爸爸帽  \n购物商品  \n\n让我们笑的事情  \n本周在《星期五啤酒播客》中，两位“兴奋的萨满”，即市议会传奇人物查德·克罗格和JT·帕尔，来到总部，一边喝着滚石啤酒和重啤，一边讨论福克斯新闻的新闻诚信。  \n\n播客横幅  \n前往新播客集 SODE  \n下次见，开始喝酒  \n星期五啤酒  \nhttpstwitter.comfriday_beers?langen  \nhttpswww.instagram.comfriday.beers?hlen  \nhttpswww.youtube.comchannelUCCgK6peZI5-FKDCWzMIFk2A",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 155,
@@ -2653,11 +2273,7 @@
         "subcategory": "commercial spam",
         "raw_data": "任何人都可以烹饪 - 来自厨房故事的新鲜资讯。看起来不对吗？只需点击这里！\n\n厨房故事\n\n食谱 故事 分类 如何做\n\n碎肉咖喱\n\n你好！\n\n自从我开始和她合作以来，我一直对Ruby的咖喱食谱感到敬畏。它们有趣、超级美味，而且容易制作。上个月，我有幸测试并烹饪了她的碎肉咖喱，这是一道用土豆、碎肉和冷冻豌豆制作的简单印度咖喱。\n\n这些听起来可能像是…… 用预算材料，但相信我，加上新鲜青辣椒，这道菜绝对是味道的炸弹！而且，每份只需1.90欧元或2.10美元。\n\n所以，不再多说，赶快去看食谱，开始烹饪吧！\n\n雪茨\n下次见，\n雪茨\n去食谱\n\n更多经济实惠的咖喱食谱 更多食谱\n\n一锅奶油鹰嘴豆和菠菜咖喱\n\n一锅奶油鹰嘴豆和菠菜咖喱\n\n去食谱\n素食马萨曼风味咖喱 素食马萨曼咖喱\n\n奶油椰子、南瓜和扁豆炖菜\n\n五种食材红咖喱鸡汤\n\n新 烹饪热线 了解更多",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 156,
@@ -2665,11 +2281,7 @@
         "subcategory": "commercial spam",
         "raw_data": "吃  喝  玩起来！ \n\n找到最近的WhirlyBall并得分！ \n\n版权所有  2022 WhirlyBall，保留所有权利。\n\n我们的公司邮寄地址是\n1825 W. Webster Ave. Chicago, IL 60614\n\n想要更改您接收这些电子邮件的方式吗？\n您可以更新您的偏好或取消订阅此列表。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 157,
@@ -2677,11 +2289,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Inc. 创始人之家  3月11-14日  奥斯汀，德克萨斯州\n\n加入我们，在 Inc. 创始人之家！\n\n2022年3月11-14日  奥斯汀，德克萨斯州\n\nInc. 创始人之家距离奥斯汀会议中心仅有两个街区，第二年在奥斯汀盛大登场，提供独一无二的创始人专属避风港。\n\n加入我们和其他各类企业家，在舞台上或酒吧间进行富有表现力的对话——一切尽在 Inc. 创始人之家。查看今年的一些演讲者，并申请邀请。 每天，在Inc.创始人之家，你会发现\n\n    明星企业家\n    客座调酒师\n    小吃、应用程序和鸡尾酒\n    创始人们的交流\n\n请求邀请\n\n演讲者\n\n阿兰·汉密尔顿\n后台资本\n\n比阿特丽斯·迪克森\n蜜罐公司\n\n布莱恩·布拉基恩\n光船资本\n\n凯瑞·史密斯\n大风扇\n\n贾森·麦肯\n变异公司\n\n吉姆·麦凯尔维\n区块（前身为Square）\n\n卡比尔·巴尔达伊\nOneTrust\n\n马克·洛尔\nWonder\n\n请求邀请 邀请函\r\n\r\n感谢我们的赞助商\r\n\r\nCapital One Business  vari  Velocity Global\r\n\r\n此邮件由Mansueto Ventures发送\r\n\r\n纽约世贸中心7号楼29层，邮政编码10007\r\n\r\n如果您不希望收到来自Inc.的电子邮件，请点击此处取消订阅。要查看我们的隐私政策，请点击此处。\r\n\r\n版权  2022 Mansueto Ventures LLC。保留所有权利。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 158,
@@ -2689,11 +2297,7 @@
         "subcategory": "commercial spam",
         "raw_data": "AAA 为您的家节省开支\n\n无论您是想用一些新的家居装饰来美化房子，翻新一个房间，储备草坪和花园用品，购买新家电，还是计划搬到新家，AAA 会员都能节省更多。\n\n查看优惠\nACE 硬件  ASHLEY 家居商店  ATLAS 搬家公司\nBED BATH & BEYOND  BEST BUY  花园供应公司  LOWES  NORTHERN TOOL  OFFICE DEPOT 和 OFFICEMAX  PENSKE 卡车租赁  三星  TARGET  家得宝  沃尔玛 等等！\n\nAAA 会员获得更多优惠\n\n笔 卡车租赁图像  \n彭斯基卡车租赁  \nAAA会员可享受卡车租赁、搬家配件和用品的独家优惠，节省12%或更多。  \n\n今天预订  \nSimpliSafe图像  \n家庭安全大优惠  \nSimpliSafe是一款屡获殊荣的家庭安全系统。现在下单可享受任何新系统15%的折扣，免费摄像头，1个月免费监控，15个AAA美元。  \n\n立即购物  \n家居装饰图像  \n家居装饰  \n在AAA美元在线商城中，购买您最喜欢的零售商的设计和风格。 包括Bed, Bath & Beyond、Ashley Homestore、Kohls等。您在每次符合条件的购买中都将赚取AAA美元。\n\n立即购物\n花园与户外图片\n花园与户外\n为您的草坪、花园和后院储备所需的一切。在Gardener Supply Company、Ace Hardware、The Home Depot等品牌在线购物时，您将赚取AAA美元。\n\n立即购物\nTaxAct图片\nTaxAct\n在州和联邦税务准备及申报以及其他选定产品上节省25%。\n\n查看优惠 阳光电力图像  \n阳光电力  \nAAA会员购买全新完整的SunPower Equinox系统可获得$1,000的折扣。  \n\n立即购物  \n消费者搬迁服务图像  \n消费者搬迁服务  \n通过消费者搬迁服务，您的下一次州际搬家可节省高达$800。  \n\n查看优惠  \n布什花园坦帕图像  \n布什花园坦帕  \n体验美洲最高、世界上最快和最陡的混合过山车——铁格瓦兹，3月11日在布什花园坦帕湾开幕！购票和通行证可享受优惠。 立即购买  \n小猪佩奇主题公园图片  \n小猪佩奇主题公园  \n旨在为小朋友们提供终极的一天，新的小猪佩奇主题公园设有游乐设施、主题游乐场、水上游乐区和更多令人兴奋的体验！距离佛罗里达乐高乐园仅几步之遥。  \n\n立即购买  \nAAA礼品卡中心图片  \nAAA礼品卡中心  \n在下一个家居改善项目之前购买礼品卡，并赚取高达5%的AAA美元。可从超过120个品牌中选择，包括Lowe's、家得宝、百思买等。 梅菲尔和许多您最喜欢的零售商。\n\n立即购买\n三星图像\n三星\n全站家用电器和消费电子产品最高可享受30%的折扣。\n\n立即购物\n纳帕汽车零件图像\n纳帕汽车零件\n双重折扣！AAA会员在纳帕汽车零件店内和在线可享受20%的折扣，截止至3月20日。\n\n立即购物\nAAA折扣网络扩展  员工最爱\n\n安娜·法鲁拉-莫拉莱斯头像\n立即添加\n安娜·法鲁拉-莫拉莱斯，折扣与奖励国家账户高级顾问\n\nAAA折扣网络扩展是如何运作的 在帮助你吗？ \n由于去年学校和工作都是远程的，我女儿需要一台新笔记本电脑，而我需要一个第二个显示器。幸运的是，当我在谷歌上搜索显示器时，网络扩展提醒我关于AAA与HP的合作。我能够为我女儿购买一台HP显示器和笔记本电脑。只需几次点击，我节省了大约100美元。\n\n你也可以在网上购物和搜索时找到AAA的优惠。今天就添加AAA折扣网络扩展吧！\n\n即时折扣 抗折扣  \n在全国超过100,000个零售合作伙伴地点和在线节省。  \n\n查看优惠  \n\nAAA礼品卡中心  \nAAA礼品卡中心  \n在超过120个知名品牌礼品卡上赚取AAA美元。  \n\n了解更多  \n\nAAA美元在线商城  \nAAA美元在线商城  \n在线购物超过2,000个品牌，赚取AAA美元  \n\n立即购物  \n\n景点门票  \n景点门票  \n购买主题公园、当地景点等的门票更便宜  \n\n立即购买  \n\n合作伙伴和优惠可能会有所变动。适用限制。AAA美元优惠 适用于来自汽车俱乐部集团（ACG）的活跃会员。与其他优惠无效。AAA积分在波多黎各不可用，且不能与其他零售商奖励计划结合使用。ACG会员持有的AAA积分可以由任何注册在汽车俱乐部集团的活跃ACG会员兑换，该会员在指定的ACG会员账户的主要家庭中居住。有关更多信息，请参阅AAA积分的条款和条件。 可以在AAA.comDollars找到。AAA Dollars在线商城的交易将在交付日期后的1-7天内出现在我的账户中的“查看待处理”下，然后在30天后发布到“查看已赚取”。有关完整的优惠列表，请在线访问AAA.comOnlineMall，或前往您当地的AAA办公室，或拨打877-214-9188。合作伙伴和优惠可能会有所更改，并适用限制。当从AAA.com或AAA移动应用程序链接时，购买必须通过零售商的网站进行。购买 通过零售商应用程序不适用。与其他折扣、促销、团体优惠、优惠券、优惠券代码或奖励卡、忠诚奖励计划或积分无效。礼品卡可在参与的AAA办公室和在线购买。所代表的商家不是汽车俱乐部集团的赞助商或关联方。附带的徽标和其他标识标记是各代表公司及其附属公司的商标和所有权。请访问各公司的官方网站以获取更多信息。 条款和条件。礼品卡不可退款。NAPA双重折扣优惠在参与的NAPA门店和在线有效，适用日期为314至320。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 159,
@@ -2701,11 +2305,7 @@
         "subcategory": "commercial spam",
         "raw_data": "网页视图\n\n冬季活动 最后几天抢购 不要错过        \n高效利用您在家或办公室的时间 购物打印机        \n以突破性的性能和动力改变游戏 备齐装备        \n办公室 完成所有工作的必需品 以更低的价格添加 Microsoft Office 365 个人版        \n需要墨水吗？ 原装 HP 墨水和碳粉免运费        \n \n为您推荐的一些产品        \n推荐产品 1        \n推荐产品 2        \n推荐产品 3        \n \nHP 每周优惠 笔记本电脑 台式电脑  \n打印机 墨水和碳粉  \n\n需要帮助？立即联系我们 1-866-449-3630  \n免费送货和简单退货  \n免费送货  \n和简单退货  \n价格匹配  \n价格  \n匹配  \n\n完全定制  \n完全  \n定制  \n支持与驱动程序  \n支持与  \n驱动程序  \n\n登录您的账户  退订  隐私声明  \n\n优惠有效期至2022年2月5日或库存耗尽，以先到者为准，且可随时更改或取消。详情请见产品页面。价格 所示的内容可能包括适用的即时优惠。合同和批量客户不符合资格。与任何其他促销活动无效，仅在美国有效。\n\nMicrosoft Office 365 个人版促销有效期至2022年2月12日，可以选择有或没有PC进行购买。\n\nMicrosoft是美国及其他国家/地区Microsoft Corporation的注册商标。所有其他商标均为其各自所有者的财产。\n\n本电子邮件的内容仅针对美国居民。 将 hpus.shopping.hp.com 添加到您的地址簿。\n\n此邮件是因为您注册了接收来自 HP.com 的电子邮件。\n\n如果您不再想接收此新闻通讯，请取消订阅。要取消订阅所有 HP 营销电子邮件，请回复并将“取消订阅”作为主题行。\n\nHP 对此处包含的技术或编辑错误或遗漏不承担责任。\n\nHP，1501 Page Mill Road，Bldg. 6，帕洛阿尔托，加利福尼亚州 94304\n\n版权 2022 HP 开发公司，L.P. 信息 c 本文件中的内容如有变更，恕不另行通知。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 160,
@@ -2713,11 +2313,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Malwarebytes  \n查看此消息有困难？  \n点击这里以网页形式查看。  \nMalwarebytes Premium 享受 30% 折扣  \n享受 Malwarebytes Premium 30% 折扣  \n提升您的安全防护，享受 Malwarebytes Premium 30% 折扣。获得针对病毒、恶意软件、间谍软件等的先进、始终在线的保护。今天就升级并节省！  \n享受 30% 折扣  \n选择最适合您的保护计划  \n单设备  \n三台设备  \n五台设备  \n别只听我们说……  \n它确实如所声称的那样有效  \n评分 我已经在移动设备和桌面上使用Malwarebytes多年，它在后台默默运行，同时提供高水平的保护。  \n斯蒂芬·B. 认证买家  \n此促销仅适用于2022年2月25日至2022年3月11日下午5点（太平洋标准时间）之间直接向Malwarebytes下的新订单。折扣仅适用于您的初始订阅。当您的初始订阅到期时，您的费用将恢复为标准价格。  \n寻找Malwarebytes Premium的y 我们的iPhone或iPad？必须在App Store中购买单独的订阅。可在美国、加拿大等地使用。查看可用性  \nFacebook Twitter LinkedIn Instagram  \n隐私条款 服务条款 退订  \n3979 Freedom Circle, 12楼，圣克拉拉，加州，95054",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 161,
@@ -2725,11 +2321,7 @@
         "subcategory": "commercial spam",
         "raw_data": "现在到222号，享受$3的卡布奇诺和拿铁。\n如果您在查看此电子邮件时遇到问题，请在线查看。\nDunkin\n嗨，！\n查看您的账户以查看您的积分余额和可用的免费饮品奖励\n我的账户\n查看优惠\n\n会员专享\n\n大胆出击\n\n$3中杯卡布奇诺和拿铁\n\n别忘了$3中杯卡布奇诺和拿铁！热饮或冰饮，尽在222号之前，全部属于您。\n\n查找商店\n\n仅在参与的商店有效。\n\n查找商店或立即下单\n您的美味搭档\nTe 我来介绍我们的新款葱香洋葱迷你贝果。这对强强联手将洋葱迷你贝果与葱香奶酪结合在一起。\n查找商店\n美国人靠邓肯生活\n菜单\n地点\n奖励\n推特        Facebook        Pinterest        Instagram        Tik Tok\n截至2022年2月16日的积分余额。\n\n不包括美式咖啡、玛奇朵、招牌拿铁、抹茶拿铁和印度香料拿铁。此优惠适用于使用注册的邓肯卡支付、在结账时扫描忠诚度ID或提前下单的奖励会员，有效期至152222222。 在Dunkin应用程序中。乳制品替代品、浓缩咖啡、冷泡和风味可能会额外收费。不可与其他优惠结合使用。有效于阿拉巴马州、阿肯色州、亚利桑那州、加利福尼亚州、科罗拉多州、佛罗里达州、乔治亚州、夏威夷州、爱荷华州、堪萨斯州、肯塔基州、路易斯安那州、马萨诸塞州、密苏里州、密西西比州、北卡罗来纳州、内布拉斯加州、新墨西哥州、内华达州、纽约州、俄克拉荷马州、宾夕法尼亚州、田纳西州、德克萨斯州、弗吉尼亚州和佛蒙特州的参与Dunkin餐厅有效。有关完整的奖励计划条款，请访问DunkinDonuts.comterms。\n\n有关更多信息，请访问DunkinDonuts.com。阅读我们的隐私声明。\n\n2022 DD IP Holder LLC。版权所有。 nkin Donuts 的商标、标志和设计是 DD IP Holder LLC 的注册商标。请不要回复此电子邮件。\n\n如果您认为您错误地收到了此消息或不希望收到进一步的电子邮件，请点击此处。谢谢。\n\nDunkin Brands 130 Royall Street Canton, MA, 02021, USA\n\n如果您更愿意通过网络与我们联系，请访问 DunkinDonuts.com 上的联系我们页面。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 162,
@@ -2737,11 +2329,7 @@
         "subcategory": "commercial spam",
         "raw_data": "通过更多储蓄来投资自己。\n\n你的财务未来不应该靠运气。Stash可以帮助你通过长期储蓄来投资自己。\n\n如果你在2022年2月20日之前向Stash添加5美元，我们将赠送你30美元用于投资。\n为什么选择Stash？\n我们提供的工具和建议可以帮助你充分利用每一美元。\n\n保护你的资金。\n享受无透支、无维护费用或隐藏费用的银行服务。\n\n自动储蓄。\n使用像四舍五入和设置等工具。 计划财富建设。\n\n设定你的目标。\n将现金分为需求和想要，以更好地预算。\n\n跟踪你的支出。\n从洞察中学习并设定支出预算。\n\n今天就像一个储蓄者一样开始储蓄。\n准备好开始了吗？在2022年2月20日之前设置你的Stash并向你的个人投资组合添加5美元或更多，我们将赠送你30美元用于投资。\n\n如何获取你的优惠\n1. 注册Stash\n2. 完成注册过程\n3. 开设个人账户 投资组合  \n4. 关联一个银行账户  \n5. 在您的个人投资组合中存入至少5美元。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 163,
@@ -2749,11 +2337,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Trillium_Yoga_Logo_Landscape_Web.jpg\n\n查看这个周末的激励活动！\n\nFontCandy _143_.png\n恢复性瑜伽和灵气疗愈都是非常放松的练习。在这个工作坊中，您将在温和的支撑姿势中接受灵气疗愈。瑜伽老师和灵气大师珍妮·诺伊曼将引导您进行呼吸练习和冥想，并简要介绍灵气的相关内容！\n\n投资 $35\n在此注册\n\nFontCandy _144_.png\n光 在我心中尊重你内心的光芒。带上你的荧光棒、荧光面部彩绘（我们会准备额外的），还有你的光亮和鲜艳的颜色！加入橄榄枝儿童瑜伽，在三叶草瑜伽工作室参加荧光瑜伽家庭课程！欢迎4-10岁儿童的家庭通过音乐、游戏、有趣的道具和活动体验瑜伽的六个分支和八个肢体，帮助集中注意力并增强身体。闪耀吧！\n\n投资：$30每对亲子\n$5现金当天每增加一位 请致电通知家庭成员总数\n在此注册\n\nFontCandy _147_.png\n加入布鲁克林，参加这门旨在补充任何运动员训练的特别课程。\n\n3月13日\n上半身力量与拉伸课程将包括一系列体重姿势，促进手臂、肩膀和背部的肌肉力量和耐力。这些力量和平衡姿势之后将进行拉伸，帮助打开和延展身体，促进肌肉放松。 恢复。\n\n接受这些课程的随到随学课程包无限制\n\n在这里注册",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 164,
@@ -2761,11 +2345,7 @@
         "subcategory": "commercial spam",
         "raw_data": "嗨， 玩家会员 0 积分\n\n赚取并节省更多\n今天就成为专业会员！\n\n显示图像以展示实时内容\nGameStop\n视频游戏\n收藏品\n电子产品\n15% 折扣\nSkytech PC\n\n清仓购物\n在这些优惠消失之前抢购\n\n清仓\n\n收藏节\n它来了\n购物年度收藏品活动。\n立即购物\n视频游戏 控制台与硬件 游戏配件 电子产品\n\n收藏品 玩具与游戏 家居 服装 优惠\n\n下载我们的应用\n苹果        安卓\n\nFacebook    Twitter    Instagram 游戏资讯\n\n您获取最新视频游戏新闻、评论、预览、播客和特色内容的来源。\n\n此消息发送给您是因为您选择接收来自GameStop的电子邮件通讯。\n\n我们于2022年3月18日向您发送了此电子邮件。\n\n点击这里取消订阅此电子邮件地址。请注意，此过程可能需要2-3天才能完成。\n\n有关此电子邮件中包含的优惠。选择 促销可能因商店而异。数量有限，售完为止。顾客可能需承担销售税。禁止经销商。GameStop, Inc. 保留在不通知的情况下出于任何原因取消、终止、修改或暂停本电子邮件中包含的优惠的权利。请咨询销售助理以获取完整详情。在禁止的地方无效。\n\nGameStop, Inc. 2022 625 Westport Parkway Grapevine, TX 76051",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 165,
@@ -2773,11 +2353,7 @@
         "subcategory": "commercial spam",
         "raw_data": "你的旅行伙伴们已经发声  \n猫途鹰  \n最佳滑雪道  \n滑雪者在雪山旁做后空翻  \n旅行者选择最佳中的最佳  \n你的旅行伙伴们全年追逐史诗般的粉雪，这里是他们认为你绝不能错过的十大滑雪胜地。所以，雪爱好者们，穿上滑雪靴吧。你们有滑道要征服。 撕裂。\n揭示排名\n犹他州帕克城\n3个世界级滑雪胜地\n\n夜间酒吧、酿酒厂、俱乐部\n\n地球上最好的雪TM。\n\n立即探索        旅行者选择最佳中的最佳\n旅行者选择最佳中的最佳        \n科罗拉多州布雷肯里奇\n高海拔山脉\n\n适合儿童和初学者的平坦地形\n\n靠近滑雪坡道的滑进滑出小屋\n\n立即探索\n \n加利福尼亚州湖 Tahoe\n300天的阳光\n\n高级和专家地形\n\n从每个视角都能看到原始湖泊的美景\n\n立即探索 现在 旅行者选择最佳中的最佳\n\n请不要直接回复此电子邮件。此邮件是从一个无法接受回复的地址发送的。如有问题或需要帮助，请访问我们的帮助中心。\nTripAdvisor LLC，400 1st Ave.，Needham，MA 02494，美国\n2022 TripAdvisor LLC。保留所有权利。Tripadvisor、Tripadvisor标志、猫头鹰标志、旅行者选择和旅行者选择标志是TripAdvisor LLC在美国及其他国家的商标。\n前往Tripadvisor  取消订阅\nPriv 隐私和Cookies声明 联系我们\n\n苹果商店                谷歌Play商店\n关注我们获取旅行灵感",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 166,
@@ -2785,11 +2361,7 @@
         "subcategory": "commercial spam",
         "raw_data": "投资自己，通过更多的储蓄。\n\n你的财务未来不应该靠运气。Stash可以帮助你通过长期储蓄来投资自己。\n\n如果你在2022年2月20日之前向Stash添加5美元，我们将赠送你30美元用于投资。\n为什么选择Stash？\n我们提供工具和建议，帮助你充分利用每一美元。\n\n保护你的资金。\n享受无透支、无维护费用或隐藏费用的银行服务。\n\n自动储蓄。\n使用诸如四舍五入和设置等工具。 制定财富增长计划。\n\n设定目标。\n将现金分为需求和想要，以更好地预算。\n\n跟踪支出。\n从洞察中学习并设定支出预算。\n\n今天就像Stasher一样开始储蓄。\n准备好开始了吗？在2022年2月20日之前设置您的Stash并向您的个人投资组合添加5美元或更多，我们将赠送您30美元用于投资。\n\n如何获得您的优惠\n1. 注册Stash\n2. 完成注册流程\n3. 开设个人账户 投资组合  \n4. 关联一个银行账户  \n5. 在您的个人投资组合中存入至少5美元。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 167,
@@ -2797,11 +2369,7 @@
         "subcategory": "commercial spam",
         "raw_data": "看不到此电子邮件？在您的浏览器中查看\n\n快乐的世界赞美日\n\n向那个特别的人展示他们对您来说是多么的美好。\n\n送给他们一张他们出生那晚的星空图。\n这样他们就会永远知道自己是多么特别。\n\n在这一天，星星排列在一起，世界获得了最美丽的礼物。您！\n\n立即创建您的星空图\n\n需要一些创意吗？\n没问题！以下是一些信息，可以激发您的创意 果汁开始了！\n感谢你的存在。你让我以一种别人从未有过的方式看待世界。\n有些人就像星星，他们如此明亮和美丽，让世界变得更加美好。\n你慷慨的精神闪烁着光芒，像星星一样，照亮了你周围每一个人的生活。\n在寻找其他东西吗？\n\n我们还推出了一款全新的产品——月相地图！\n它叫做OverOurMoon！\n\nOverOurMoon月相地图\n\n从你的特别地点看到月亮的确切相位。 在夜晚，尽享我们超高分辨率的优质月相地图的辉煌。\n\n别担心，我们是同一家公司，因此月相地图将保持您所熟悉和喜爱的优质。 这些地图也是在阳光明媚的圣地亚哥制作和发货的。\n\n创建您自己的月相地图\n\n所有订单均包含免费标准运输\n不再想接收这些电子邮件？ 退订。\nTwinkleInTime 8248 Mercury Ct San Diego, CA 92111",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 168,
@@ -2809,11 +2377,7 @@
         "subcategory": "commercial spam",
         "raw_data": "探索美国，尽在美国铁路通行证。\n以网页形式查看\n美国铁路公司\n每一次乘坐都能获得\n美国铁路公司客人奖励\n立即加入\n10次乘坐仅需399美元\n美国铁路通行证仅需399美元，有效期至3月29日        \n限时优惠，获取美国铁路通行证仅需399美元，有效期内可乘坐10段，30天内使用。比正常价格节省100美元，每次乘坐不到40美元。        \n在全国各地的城镇之间畅游，享受假期。或者仅仅在家外度过几个延长的周末。迅速行动，此优惠即将结束。 仅有效至3月29日。并非所有路线均可用。其他限制适用。        \n立即预订\n旅行的新标准\n预订机票\n预订酒店\n预订汽车\n优惠\n客户奖励\n保持\n连接\nFacebook\nTwitter\nInstagram\nYoutube\n下载\nAMTRAK 应用程序\nGoogle Play\nApp Store\n条款和条件适用。请访问优惠页面以获取完整细节。\nAmtrak、Amtrak 客户奖励和美国铁路通行证是国家铁路客运公司注册的服务商标。 地址是  \n美铁，市场部  \n马萨诸塞大道西北1号  \n华盛顿，DC 20001  \n联系我们    退订    条款和条件    隐私政策",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 169,
@@ -2821,11 +2385,7 @@
         "subcategory": "commercial spam",
         "raw_data": "每个人都可以享受帕帕迪亚！\r\n今天来一份帕尔马干酪脆皮帕帕迪亚，品味\r\n外脆内软的平面面包三明治，裹上\r\n酥脆的奶酪。可以选择我们的\r\n特色口味或定制您自己的。今天就为您的订单添加一份\r\n帕尔马干酪脆皮帕帕迪亚吧！\r\n下单您的帕帕迪亚\r\n\r\n晚餐上桌了。\r\n要招待一群人吗？试试纽约风格比萨！大份、可折叠的\r\n比萨片，上面覆盖着融化的奶酪，完美平衡的\r\n饼皮和配料一定会让大家满意。如果您还没有 点了纽约风格的披萨，这是你的机会。  \n召集你的朋友，晚餐准备好了。  \n订购纽约风格  \n\n无接触配送 我们的披萨质量密封并小心送达 了解更多  \n下载我们的应用程序。  \n在App Store下载  在Google Play获取  \n\n获取超值优惠。  \n发送START到47272  \n短信  \n管理电子邮件偏好  退订  联系我们  隐私政策  \n优惠到期日为2022年4月24日。该优惠仅在参与的美国Papa Johns餐厅在线有效，价格可能有所不同。优惠可能需要 购买多种产品。额外配料需另付费用。不可与其他优惠券或折扣同时使用。配送区域有限。配送可能需要最低消费，配送费不享受折扣。最低消费不包括税费、小费或配送费。顾客需负责所有适用税费。2022年Papa Johns国际公司。版权所有。\n\n仅适用于美国客户的短信文本消息。\n\n您收到此电子邮件是因为您已选择 在您的电子邮件偏好设置中选择接收有关特价和其他在线相关信息的通知。为了确保未来能够顺利接收电子邮件，请将 specialspapajohns-specials.com 添加到您的安全发件人列表或通讯录中。\n\n需要帮助吗？联系我们\n\nPapa Johns International, 2002 Papa Johns Blvd, Louisville, KY 40299\n为了确保未来能够顺利接收电子邮件，请将我们添加到您的安全发件人列表或通讯录中。\n查看此电子邮件有问题？在浏览器中查看",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 170,
@@ -2833,11 +2393,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Goodreads  \n行星页面  \n采访曼德尔  \n艾米莉·圣约翰·曼德尔谈通过艺术寻找希望  \n《第十一站》的作者，现在是一部热门的HBO Max剧集，与我们谈论她的最新小说《宁静之海》，在后末世的背景中写作快乐，以及在她的书巡回演讲中虚构人们对她说的所有混乱的话。  \n阅读更多  \n经典书单的辉煌  \n48本现在值得阅读的流派珍品  \n48本现在值得阅读的科幻流派珍品  \n在选择时感到不知所措 你接下来要读的书是来自如今可用的庞大科幻、奇幻和恐怖小说银河系吗？那么让热衷于科幻、奇幻和恐怖小说的读者和评论家Kerine Wint为你提供过去十年的精彩建议吧！\n阅读更多\n\n\n\n美好的友谊\n春季科幻奇幻作者小组采访\n今天最热门的科幻奇幻作者回答我们迫切的问题\n本季五本备受期待的新书的作者们谈论他们的小说，并透露他们最大的写作挑战。哦，对了，他们还合作了。 有效地推荐许多其他作家和书籍到你的“想读”书架上。\n阅读更多\n邪恶的写作\n采访施瓦布\nV.E.施瓦布谈安静、恐怖的死亡故事\n在她最新的小说中，V.E.施瓦布为神秘的门这一童话经典元素赋予了诡异的色彩。她与我们谈论了《勇敢》，她的写作过程，鬼屋，以及将她的中级读物、青少年读物和成人书籍统一在一个笔名下的决定。\n阅读更多\n\n书籍结束\n想要更多科幻奇幻阅读 看看Goodreads会员2022年最期待的科幻和奇幻书籍。如果你在寻找情绪化的小说，可以尝试我们汇总的21部经典和当代哥特故事中的一本。查看这些最近发布的科幻和奇幻平装书！  \n当前阅读  \n当前阅读书籍封面  \n好女孩  \n\n更新进度 低 Goodreads 在\nFacebookTwitterInstagramLinkedIn\n要获取更多精彩内容，请访问我们的新闻与访谈页面。\n\n我们正在招聘！查看我们的职位。\n\n获取应用程序\nGoodreads 在 App Store\nGoodreads 在 Google Play\n此电子邮件已发送至。\n取消订阅\n\n有问题吗？请访问 Goodreads 帮助。\n\n版权 2022 Goodreads  188 Spear Street, San Francisco, CA 94105",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 171,
@@ -2845,11 +2401,7 @@
         "subcategory": "commercial spam",
         "raw_data": "使用PayPal结账可享受$10优惠。\n我们注意到您已经有一段时间没有使用PayPal，因此我们给您提供$10奖励，可用于购买$15的商品。它将在您使用PayPal结账时自动应用于您的下一个符合条件的购买。\n\n点击按钮并登录以保存您的奖励。\n保存您的$10\n快点，您的奖励将在033122到期。条款适用。\n在数百万家商店安全使用PayPal\n\nPayPal在数百万家商店被接受\nPayPal在数百万家商店被接受\n这是其中一个原因 在美国，更多人选择我们进行在线购物，而不是其他提供商的原因。  \n安全购物，使用PayPal  \n安全购物，使用PayPal  \n结账时无需输入银行或送货信息。订单出现问题？PayPal购买保护可以帮助您获得符合条件交易的退款。  \nFacebook         Twitter         LinkedIn  \n在App Store下载  \n在Google Play获取  \n账户 帮助 费用 隐私Cookies 应用 购物  \n优惠期从日期开始 合格参与者收到邀请，截止时间为2022年3月31日东部时间晚上11:59:59。\n\nStatista全球消费者调查截至2020年4月。\n\n符合条件的交易可享受购买保护。请参阅条款和限制。\n条款和条件\n\n合格参与者仅限于居住在美国五十个州或哥伦比亚特区的居民，要求1年满十八岁或以上，2拥有良好状态的PayPal美国个人账户。 通过奖励履行有效账户和3接收授权电子邮件或应用内横幅邀请参与该优惠的邀请资格将仅由PayPal决定。\n\n优惠期从合格参与者收到邀请的日期开始，并于2022年3月31日东部时间晚上11:59:59结束。\n\n运作方式 合格参与者必须在资格期间内成功完成以下步骤以获得奖励：\n1点击通过 唉，邀请链接和  \n2从优惠着陆页面登录并点击将优惠保存到有效账户，  \n3在优惠期间使用有效账户进行最低15美元的购买，以获得10美元的代金券奖励。  \n\n一旦收到并符合条件，奖励将在符合条件的参与者在优惠期间首次使用其有效账户通过PayPal结账时自动应用。符合条件的购买不包括 包括1发送和接收货币交易，包括标记为商品和服务付款的交易，2慈善捐款，3使用PayPal.me进行的购买，4使用PayPal Cash Mastercard、PayPal Cashback Mastercard、PayPal Prepaid Mastercard、PayPal Extras Mastercard和PayPal Business Debit Mastercard直接进行的购买，而不是通过您的有效账户，5 PayPal交易费用，或6以美元以外的任何其他货币进行的交易。奖励将在优惠部分可见。 符合条件的参与者的有效账户的奖励仅适用于个人账户。对于商业账户，奖励仅在结账时和购买交易收据上可见。奖励必须在优惠期内兑换，并且只能按照这些条款和条件中所述进行兑换。使用奖励将反映在符合条件的参与者的PayPal收据上，或在其有效账户的交易详情中。每个有效账户限领一次奖励。 如果奖励在2022年3月31日之前未使用，将会失效。\n\n杂项兑换是最终的，不可退还，并且需经过审核和验证。该奖励没有现金价值，不能兑换成现金或转移出合格参与者的有效账户，除非由PayPal自行决定。如果使用奖励购买的商品被退回且兑换期已过，PayPal将首先将所花费的钱退还到用于完成合格购买的支付方式。 超出花费金额的购买金额，即奖励的价值将不予退还。如果兑换期尚未过期，奖励的价值将返回到有效账户的优惠部分，并可供账户持有人使用。如果PayPal因任何原因无法兑现奖励，可能会提供等值的替代奖励。PayPal保留随时部分或全部取消、暂停或修改此优惠的权利。 由于任何原因，PayPal可自行决定终止通知。类似的优惠可能会同时进行，资格并不构成对任何其他优惠的资格。PayPal对任何丢失、被盗、延迟、不完整、无法辨认、中断、延迟或错误投递的电子邮件、奖励或与优惠相关的材料或通信不承担责任，或者如果任何参与者的电子邮件地址、有效账户或其他联系信息无法使用、被删除或在未通知参与者的情况下更改。 在提前书面通知PayPal的情况下，pant保留自行决定审查与本优惠相关的任何账户或交易的权利，恕不另行通知，并可延迟或撤销奖励的完成。此优惠在禁止的地方无效，如果符合条件的购买或订阅升级注册未通过合法渠道完成，或任何与优惠相关的材料是伪造、篡改、欺诈、缺陷、被篡改或以任何方式不规则的。参与须遵守 PayPal用户协议。某些优惠可能不可转让。与该优惠相关的任何问题将由PayPal自行决定解决，其与该优惠相关的决定将是最终的和具有约束力的。  \nGoogle Play和Google Play标志是Google Inc.的商标。  \n\nApple和Apple标志是Apple Inc.的商标，在美国和其他国家注册。App Store是Apple Inc.的服务标志，在美国和其他国家注册。  \n\n此电子邮件是发送给您的，因为您 您的电子邮件偏好设置为接收新闻和促销信息。点击此处取消订阅。\n\n请不要回复此电子邮件。我们无法对发送到此地址的询问做出回应。如需立即解答您的问题，请访问我们的帮助中心，方法是在任何PayPal页面或电子邮件中点击“帮助”。\n\nPayPal, Inc. 已获得纽约州金融服务部的货币传输许可证。PayPal, Inc., NMLS 910457，许可证FT3345，马萨诸塞州外汇传输许可证。PayPal， 公司，通过支票、汇票或汇款单进行转账，由宾夕法尼亚州银行部监管。PayPal, Inc. 是罗德岛州许可的货币转移商。PAYPAL, INC.，NMLS 910457，许可证34967，获得乔治亚州银行和金融部的许可。PayPal, Inc. 获得康涅狄格州银行部的许可，进行货币传输，NMLS 910457，许可证号码MT-910457。\n\n版权所有 © 2022 PayPal, Inc. 保留所有权利。PayPal位于2211 N. First 圣，圣荷西，加州 95131。  \n86499 203331",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 172,
@@ -2857,11 +2409,7 @@
         "subcategory": "commercial spam",
         "raw_data": "Postmates\n\n让Postmates让你的生活更轻松\n使用代码ORDER20，在接下来的两笔订单中节省$20，订单金额需满$30。\n\n只需打开或下载Postmates，输入代码ORDER20，你将获得接下来两笔订单满$30或以上的$20折扣。\n\n避免进入厨房从未如此简单。\n登录并进入账户\n点击促销\n输入代码ORDER20\n下单并节省\n打开Postmates\n有效期至2022年3月31日。仍需支付税费。仅限送货服务。每笔订单最高折扣为$20。订单最低金额为$30，不包括税费。 此优惠仅在参与的餐厅有效。每位顾客限 redeem 两次。不可转让。您必须直接从 Postmates 收到此电子邮件才能符合资格。优惠条款可能会有所变更。可能适用排除条款。不可与其他优惠合并。请查看 Postmates 应用程序以获取可用性。",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 173,
@@ -2869,11 +2417,7 @@
         "subcategory": "commercial spam",
         "raw_data": "发现锻炼统计，选择锻炼模式等。 在网页浏览器中查看\n标志        \n充分利用锻炼时间\n感受实现目标的快感。探索20种锻炼模式和锻炼统计数据，如心率、活跃区域分钟数和燃烧的卡路里，尽在您的手腕上。\n了解更多\n\n跟踪就像1、2、3一样简单\n        \n找到您的模式\n从20种锻炼模式中选择，跟踪您的活动并获取实时统计数据。\n\n        \n了解您的区域\n轻触屏幕查看统计数据。 您锻炼时消耗的卡路里、活跃区域分钟和您的心率区域。\n\n跟踪您的进展\n完成了吗？在Fitbit应用中查看锻炼后的总结并跟踪您的活动历史。\n\n开始跟踪\n\n丢失了充电器？需要新的手环？\n\n立即购物\n\n您的追踪器或手表有问题吗？\n\n让我们聊聊\n\n博客\n退订\nFitbit、Fitbit标志及相关标志和徽标是Google LLC及其附属公司的商标。\n2022年 Google LLC，1600 Amphitheatre Parkway，山景城， 美国，加州94043",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 174,
@@ -2881,11 +2425,7 @@
         "subcategory": "commercial spam",
         "raw_data": "首场百老汇演出 4月14日  \n一部新喜剧 由五次托尼奖获奖导演苏珊·斯特罗曼执导，并介绍剧作家塞琳娜·菲林格  \n莉莉·库珀  莱亚·德拉里亚  瑞秋·德拉奇  朱莉安·霍夫  苏齐·中村  朱莉·怀特  瓦妮莎·威廉姆斯  \n《POTUS或，伟大的傻瓜背后有七位女性在努力让他活下去》  \n成为首批见证这部开创性新喜剧的观众，春季即将来临  \n获取门票  \n一个四个字母的词即将震撼1600宾夕法尼亚大道。当总统... 当总统无意中将公关噩梦变成全球危机时，他最依赖的七位聪明而受困的女性将冒着生命、自由和追求理智的风险，以使首席指挥官免于麻烦。  \n来自演员的消息  \n您收到此消息是因为您订阅了我们的电子邮件或在Broadway.com上进行了购买。管理我的偏好设置",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 175,
@@ -2893,11 +2433,7 @@
         "subcategory": "commercial spam",
         "raw_data": "发现锻炼统计，选择锻炼模式等。 在网页浏览器中查看  \n标志  \n充分利用锻炼时间  \n感受实现目标的刺激。探索20种锻炼模式和锻炼统计数据，如心率、活跃区域分钟数和燃烧的卡路里，尽在您的手腕上。  \n了解更多  \n\n跟踪就像1、2、3一样简单  \n\n找到您的模式  \n从20种锻炼模式中选择，跟踪您的活动并获取实时统计数据。  \n\n了解您的区域  \n轻触屏幕查看统计数据。 您锻炼时消耗的卡路里、活跃区域分钟和您的心率区域。\n\n跟踪您的进展\n完成了吗？在Fitbit应用中查看锻炼后的总结并跟踪您的活动历史。\n\n开始跟踪\n\n丢失了充电器？需要新的手环？\n\n立即购买\n\n遇到跟踪器或手表的问题？\n\n让我们聊聊\n\n博客\n退订\nFitbit、Fitbit标志及相关标志和商标是Google LLC及其附属公司的商标。\n2022年 Google LLC，1600 Amphitheatre Parkway，山景城， 美国，加州94043",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 176,
@@ -2905,11 +2441,7 @@
         "subcategory": "commercial spam",
         "raw_data": "是时候和你现在的科技说再见了  \n无论你是在左滑还是在处理一切损坏的设备，是时候再次寻找爱了。  \n\n没有垃圾，没有混蛋——我们在这里为你提供手机、笔记本电脑、平板电脑、游戏和家用科技的最佳优惠。我们甚至可以通过我们信任的维修店网络来帮助修复损坏的手机。  \n\n通过Swappa的价格趋势找到最佳购买时机，甚至可以设置订阅提醒。我们会做所有的工作，当有新的符合你需求的列表时，会通过邮件通知你。 每一个愿望。\n再次寻找爱\nSwappa\n6324 N Chatham Ave, 309, Kansas City, MO 64151\n退订 - 退订偏好设置",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 177,
@@ -2917,11 +2449,7 @@
         "subcategory": "commercial spam",
         "raw_data": "眼镜直购  \n眼镜 太阳镜 优质品牌特卖  \n银色亮丽  \n\n银色  \n关于你一直关注的那些框架  \n是时候让它们成为你的了！获取独家折扣  \n买一送一  \n使用优惠  \n买得越多，赚得越多  \n告诉我更多  \n更多使用优惠的方式  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n查看为您推荐的产品  \n春天的仙境  \n线上到线下  \n遮阳 用蓝光保护你的眼睛  \n自由便捷的退货 365天产品保证  \n两天送达  \n\nInstagram  Facebook  Twitter  Youtube  Tiktok",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 178,
@@ -2929,11 +2457,7 @@
         "subcategory": "commercial spam",
         "raw_data": "在应用中获取一切最佳体验\n\n星巴克\n\n《布里杰顿》第二季的明星\n\n呼唤所有布里杰顿的粉丝\n\n迫不及待想在Netflix上观看新一季？\n你真幸运。我们将分享即将到来的所有\n浪漫、丑闻和秘密的预告片，\n包括一个受欢迎的书中场景的片段\n被搬上荧幕。\n\n立即观看\n\n作者朱莉娅·奎因在星巴克与我们坐下来\n谈论第二季，灵感来自她的小说\n《爱我的子爵》。故事讲述了\n安东尼·布里杰顿的故事，他在寻找 寻找合适的妻子将他引入一个意想不到的爱情三角关系。现在查看独家采访，然后收看《布里杰顿》第二季，3月25日在Netflix首播。社交系列的标志《但你读过这本书吗？》星巴克标志 Netflix标志\n\n应用程序\n\n订单\n\n优惠\n\n奖励\n\nInstagram\nTikTok\nFacebook\nTwitter\n参考 22-25-MKTP-1-0-0-EM-NSR-NA-US\n\n此电子邮件已发送至。取消订阅。\n\n有问题吗？请在这里联系我们。\n\n邮政信箱20430，乔治亚州奥古斯塔，邮政编码30916。\n2022年星巴克 公司。\n\n星巴克卡使用条款\n\n隐私声明",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 179,
@@ -2941,11 +2465,7 @@
         "subcategory": "commercial spam",
         "raw_data": "你好吗？\n\n在网页浏览器中查看  查看我们的移动网站\n\n你好  0分    RR 22177872791\n\n西南        \n3月02日\n\n登录    立即预订    购买积分\n\n最后几天 低价票让你迅速离开城镇。单程票低至59美元 立即预订 限制和排除适用。需提前21天购买。座位和日期有限。选择市场。预订215-37。\n        \n低价票，享受所有优惠。\n\n立即预订\n\n¹票价差异可能适用。 ²第1和第2件托运行李。适用重量和尺寸限制。 ³未能... 取消预订必须在计划出发前至少10分钟进行，否则可能会导致旅行资金的损失。\n\n想要抵消碳排放？\n\n现在每次与我们飞行时您都可以做到。\n\n了解更多\n\n预订酒店\n\n预订汽车\n\n查看所有优惠\n\nFacebook        Twitter        Instagram\n客户服务\n\n更新偏好设置\n\n下载移动应用\n\n条款和条件\n\n需要提前21天购买。购买时间为2022年2月15日至3月7日，中部时间晚上11:59。 旅行有效期为2022年3月8日至5月18日。除非另有说明，旅行仅在星期二和星期三有效。票价在指明的情况下适用于直飞服务，如果未指明，则票价适用于单次中转服务。显示的价格包括所有美国和国际政府税费。积分预订不包括每个单程航班至少5.60美元的税费和其他政府机场收费。座位和日期有限。票价可能因目的地、航班而异。 并且在一周的某些日子以及在非常繁忙的旅行时间和假期期间，某些航班将无法提供。旅行适用于单程的Wanna Get Away票价。票价可以与其他西南航空的可组合票价结合。如果与其他票价组合，则适用最严格的票价规则。特价票可能在一周的其他日子提供，但不能保证。票价不可退款，但可以用于未来的西南航空旅行，只要预订有效。 在计划出发前至少十分钟取消。未能在出发前取消将导致预订剩余资金的 forfeiture。行程的任何更改可能会导致票价增加。根据快速奖励等级状态，待命旅行可能需要升级到随时票价。票价在出票前可能会有所变动。此优惠仅适用于已发布的定期服务。\n\n此电子邮件中的账户信息仅为特定采购订单的估算。 请在 Southwest.com 上查看您的快速奖励账户，以获取有关可用积分、等级状态（包括等级合格积分或航班）以及伴侣通行证合格积分或航班的最新信息。\n\n所有快速奖励的规则和规定均适用。\n\n本电子邮件中包含的任何广告、促销或市场营销信息仅在美利坚合众国有效并适用。\n\n这是一封仅限邮寄的邮件。 来自西南航空。请不要尝试回复此消息。\n\n西南航空  \n2702 爱场大道  \n德克萨斯州达拉斯 75235  \n1-800-I-FLY-SWA 1-800-435-9792  \n\n版权所有 2022 西南航空公司。保留所有权利。\n\n您当前订阅为  \n点击此处取消订阅",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 180,
@@ -2953,11 +2473,7 @@
         "subcategory": "commercial spam",
         "raw_data": "CASELY  \n向电源舱问好  \n随时随地为您充电  \n兼容MagSafe的内置磁铁  \n电源舱  \n电源舱  \n混搭14种设计和颜色  \n点状动物印花电源舱的图片  \n点状动物印花电源舱  \n\n我们都是人类  极简面部艺术电源舱的图片  \n我们都是人类  极简面部艺术电源舱  \n\n米白色裸色电源舱的图片  \n米白色裸色电源舱  \n\n相反的吸引  日夜色块电源舱的图片  \n相反的吸引  日夜 色块电源舱\n\n这里来了太阳 色块日落电源舱\n\n当前心情 牛仔印花电源舱\n\n混合搭配 14 种设计和颜色\n\n现在平等\n注册接收短信        \n.\n每次购买附赠贴纸包        \n.\n推荐朋友\n\n按钮文本\n \n自定义\n \n自定义Q\n \n自定义\nCASELY, INC.\n布鲁克林，纽约\n\n退订",
         "data_type": "email",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 181,
@@ -2984,11 +2500,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 182,
@@ -3015,11 +2527,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 183,
@@ -3046,11 +2554,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 184,
@@ -3077,11 +2581,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 185,
@@ -3108,11 +2608,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 186,
@@ -3139,11 +2635,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 187,
@@ -3170,11 +2662,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 188,
@@ -3201,11 +2689,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 189,
@@ -3232,11 +2716,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 190,
@@ -3263,11 +2743,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 191,
@@ -3294,11 +2770,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 192,
@@ -3325,11 +2797,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 193,
@@ -3356,11 +2824,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 194,
@@ -3387,11 +2851,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 195,
@@ -3418,11 +2878,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 196,
@@ -3449,11 +2905,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 197,
@@ -3480,11 +2932,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 198,
@@ -3511,11 +2959,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 199,
@@ -3542,11 +2986,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 200,
@@ -3573,11 +3013,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 201,
@@ -3604,11 +3040,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 202,
@@ -3635,11 +3067,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 203,
@@ -3666,11 +3094,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 204,
@@ -3697,11 +3121,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 205,
@@ -3728,11 +3148,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 206,
@@ -3759,11 +3175,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 207,
@@ -3790,11 +3202,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "MEDIUM",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 208,
@@ -3821,11 +3229,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 209,
@@ -3852,11 +3256,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 210,
@@ -3883,11 +3283,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 211,
@@ -3914,11 +3310,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 212,
@@ -3945,11 +3337,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 213,
@@ -3976,11 +3364,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 214,
@@ -4007,11 +3391,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "MEDIUM",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 215,
@@ -4038,11 +3418,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 216,
@@ -4069,11 +3445,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 217,
@@ -4100,11 +3472,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 218,
@@ -4131,11 +3499,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 219,
@@ -4162,11 +3526,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 220,
@@ -4193,11 +3553,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 221,
@@ -4224,11 +3580,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 222,
@@ -4255,11 +3607,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 223,
@@ -4286,11 +3634,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "YES",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 224,
@@ -4317,11 +3661,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "LOW"
-        }
+        "language": "Chinese"
     },
     {
         "id": 225,
@@ -4348,11 +3688,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "MEDIUM",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 226,
@@ -4379,11 +3715,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 227,
@@ -4410,11 +3742,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 228,
@@ -4441,11 +3769,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 229,
@@ -4472,11 +3796,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 230,
@@ -4503,11 +3823,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "HIGH"
-        }
+        "language": "Chinese"
     },
     {
         "id": 231,
@@ -4534,11 +3850,7 @@
             "fraudulent": 1
         },
         "data_type": "dictionary",
-        "language": "Chinese",
-        "qwen2.5-7b-instruct response": {
-            "answer": "NO",
-            "confidence": "MEDIUM"
-        }
+        "language": "Chinese"
     },
     {
         "id": 232,

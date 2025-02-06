@@ -107,7 +107,12 @@ def process_fraud_data(file_name, model, output_file):
         response_content = response.choices[0].message.content.strip('```json\n').strip()
             
         new_entry_name = model + " response"
-        entry[new_entry_name] = json.loads(response_content)
+        
+        try:
+            entry[new_entry_name] = json.loads(response_content)
+        except json.JSONDecodeError:
+            entry[new_entry_name] = response_content  # Store as string if parsing fails
+
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
