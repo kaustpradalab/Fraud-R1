@@ -5,7 +5,7 @@ INPUT_FOLDER="../dataset/FP-base"
 
 # 设置模型列表
 # MODELS=("gpt-4o-mini" "gpt-4o")
-MODELS=("qwen2.5-3b-instruct")
+MODELS=("deepseek-v3") #3b, 7b的chinese没跑完, 32b english没跑完
 # 遍历文件夹中的每个 JSON 文件
 for FILE in "$INPUT_FOLDER"/*.json; do
     if [ -f "$FILE" ]; then
