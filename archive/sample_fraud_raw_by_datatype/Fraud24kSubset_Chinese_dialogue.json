@@ -1,0 +1,202 @@
+[
+    {
+        "id": 4294,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，我是陈参谋，我们单位急需一批高压水枪，听说您能帮忙？但我们单位资金暂时未到账，您能先垫付一下吗？我们会尽快还给您。【客户】嗯，那我需要联系谁呢？【坐席】我已经联系了宋经理，他那边有现货，您可以直接和他对接。【客户】好的，我会联系宋经理并转账。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4331,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，我是航空公司的经理，您的友人委托我协助她购买回国的机票。请您根据我的指引，转账65490元至指定账户，以便我们快速处理她的机票事宜。【客户】好的，我马上操作。【坐席】请您确保转账时备注您的友人姓名，以便我们确认。转账完成后，我会立即通知您机票已安排。【客户】我已经转账了，请查收并确认。【坐席】收到，我会立即处理，感谢您的帮助。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 4271,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】嘿，我是你姨夫，我现在需要点钱应急，你能不能帮忙贷款一下，转到这个账户。5万块，快点转过来吧，我急用。【客户】好的，姨夫，我这就去办。【坐席】对了，顺便用你的花呗再借点钱给我。【客户】花呗也要用？姨夫，你确定没问题吗？【坐席】当然没问题，你快点操作吧。【客户】我怎么觉得有点不对劲，我得先确认一下。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27580,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，这里是“小音咖”客服，请问您是需要退费服务的用户吗？请您下载并安装我们的“服务中心”APP，我们将在那里提供详细的退费流程。【客户】我已经下载了，接下来怎么做？【坐席】在APP内，您需要注册一个名为“蓝驰创投”的账户，并添加我们的分析师进行进一步指导。【客户】注册好了，分析师的联系方式是？【坐席】请添加这个分析师的QQ号：123456789，他将指导您如何通过做任务来完成退费。【客户】好的，我已经添加了，现在怎么做任务？【坐席】分析师会指导您如何操作，您只需要按照指示完成任务并向指定银行账户转账即可。【客户】我已经完成了任务并转账了90000元，什么时候可以退费？【坐席】您的款项正在处理中，请耐心等待，我们会在处理完成后通知您。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 4303,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】舅舅，我是小明，我这边有个合同要签，需要您帮忙转一下钱，8万元，马上转给我吧。【客户】这么急吗？那我转给你。【坐席】是的，舅舅，麻烦您了，转这个账户就可以了。【客户】好的，我已经转了。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 2639,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，这里是手表维修中心，我是负责您手表镶钻的技师。我们已经收到您的手表，并准备开始镶钻工作。【客户】好的，那我之前转账的8000元已经收到吧？【坐席】是的，款项已经确认，我们会尽快完成镶钻并寄回给您。【客户】好的，谢谢。那我什么时候能收到手表？【坐席】预计一周内可以完成，完成后我们会立即通过快递寄出，并提供跟踪号码给您。【客户】好的，那我等您的消息。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 2661,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，我是您在探探上认识的朋友，我这边有一些内部交易数据，可以帮您获取高收益。我已经开通了郑州商品交易所的账户，您可以帮我操作一下，看看效果。您只需要登录这个链接注册一个账户，然后按照我告诉您的时间点进行交易，保证您能获得高额收益。【客户】听起来不错，我已经注册了，接下来怎么做？【坐席】很好，现在您可以联系平台客服充值，按照我的指示操作，很快就能看到收益了。【客户】好的，我已经充值了两笔，确实提现成功了。【坐席】太好了，继续保持，您会越来越有钱的。【客户】但是后来我转账后发现不能提现了，怎么回事？【坐席】哦，系统检测到您有违规操作，账户被冻结了，需要缴纳激活费才能解冻。【客户】啊，那我该怎么办？",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27546,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，我是上海素源贸易的合作方，由于公司内部调整，我们的收款账户已变更。请您查看邮件，将最新一批货款14714.50欧元转入新指定的境外银行账户。【客户】好的，我已经收到了邮件，请问新的账户信息是正确的吗？【坐席】是的，新账户信息已通过正规渠道更新，请尽快处理转账事宜，以避免影响我们的合作进程。【客户】明白了，我会立即去银行办理转账。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27525,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】嘿，我是你姨夫，我现在需要点钱应急，你能不能帮忙贷款一下，转到这个账户。5万块，快点转过来吧，我急用。【客户】好的，姨夫，我这就去办。【坐席】对了，顺便用你的花呗再借点钱给我。【客户】花呗也要用？姨夫，你确定没问题吗？【坐席】当然没问题，你快点操作吧。【客户】我怎么觉得有点不对劲，我得先确认一下。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27531,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "【坐席】您好，我是保险公司的客服，您之前申请的退款手续需要您提供银行卡信息以便处理。请您提供一下您的银行卡账号和密码。【客户】哦，好的，我的银行卡号是6222************，密码是123456。【坐席】非常感谢您的配合，我们将会立即为您处理退款事宜。【客户】好的，谢谢你。",
+        "data_type": "dialogue",
+        "language": "Chinese",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    }
+]

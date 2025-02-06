@@ -1,0 +1,392 @@
+[
+    {
+        "id": 4419,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 5805,
+            "title": "Administrative AssistantOffice Assistant",
+            "location": "US, ,",
+            "department": "AdminClerical",
+            "salary_range": "35000-50000",
+            "company_profile": null,
+            "description": "The Name of the company is APEX Investment Group. APEX Investment Group is a privately held, U.S.-based company that combines more than 50 years of American expertise in real estate development, architectural design and engineering skill.Position FocusThe AdministrativeOffice Assistant employs functional accounting expertise to process essential financial record keeping and provides tactical support to human resources and office operations.",
+            "requirements": "RoleAs a member of the office administration team, the Administrative Assistant performs essential office operations, accounting and bookkeeping functions ensuring accurate and timely payables and receivables. The Administrative Assistant also provides administrative support to the HR and daily operations.Primary Responsibilities Review, log and prepare invoicing for service receivables. Review, log and prepare for payment vendor payables. Perform monthly bank reconciliations. Entering sales and client contract information into accounting system. Preparing vendor payment checks. Receiving and processing client payments, and preparing deposits. Owning office supply inventory, auditing and ordering all supplies. Answer multi line phone calls. Call clients to follow up on services. Assist CEO with administrative functions including but not limited to filing, reporting, new hire processing, and simple candidate recruiting functions.Accountabilities and Deliverables Accurate recordkeeping across all areas of responsibility duties must be performed with minimal error. Consistent and accurate data entry of payable and receivable data. Effective oversight of vendor payables and client receivables ensuring all required data and documentation is appropriately logged and accounted for. Ensure required and necessary office supplies are readily available as needed for effective business operation.Experience, Competencies, Education Candidates must possess Associates or Bachelors Degree with concentration in accounting or finance and a minimum of two years APAR experience in a professional environment. Demonstrated understanding of basic accounting principles. Previous experience using Quickbooks is required. Must be skilled at managing multiple assignments simultaneously with minimal error. Successful candidates will ideally possess a high resistance to stress and demonstrate a high level of personal accountability and ownership of their duties and responsibilities.",
+            "benefits": "We offer a competitive salary, and growth opportunities for the ideal candidate.",
+            "telecommuting": 1,
+            "has_company_logo": 0,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Entry level",
+            "required_education": "Unspecified",
+            "industry": "Accounting",
+            "function": "Administrative",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 4484,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 11573,
+            "title": "Director of Engineering",
+            "location": "US, CA, San Jose",
+            "department": "Engineering",
+            "salary_range": null,
+            "company_profile": "Aptitude Staffing Solutions has redesigned the recruiting wheel. Our innovative new platform cuts the recruiting time in half, yields scientifically-proven results and clients and candidates enjoy a pleasant experience through advanced, simple to use technology and a tenured, industry-experienced recruiting team. Join us in a fresh new experience of leveraging your career...the way it should be! All represented candidates enjoy the following perksExpert negotiations, maximizing total compensation package Signing bonus by Aptitude Staffing in addition to client signing bonus if applicable1 Year access to AnyPerkRelocation Services for out of town candidatesContinued education in your area of profession, seminars, workshops and other skill development events Contract employees receive quarterly bonuses for the duration of their project Direct-Hire employees receive double bonues $2,000 per referredrecruited candidate into their newly appointed companyAll candidates are encouraged to participate in our Referral Bonus Program &amp earn $500 - $1,000 per hired referral",
+            "description": "Reporting to the VP of Service Provider Engineering, the Director of Engineering will have responsibility for managing the successful development and deployment of the companys Security products and solutions.The individual will manage a focused team of engineers in addition to leading and directing numerous outside technology partners. This includes partnerships with chip set providers, ODMs, new technology start-ups, and 3rd party software providers. As the engineering leader, the individual will work closely with the product marketing team in generating the roadmap of products and solutions that will need to be developed. The Director of Engineering and their team of engineers will then be responsible for determining the best engineering approach to realizing that roadmap, including product architectures, selection of technology partners, resource planning, test planning, product scheduling, costing, and NPI planning. The individual will then manage the team and external partners to ensure the project objectives are met.The Director of Engineering will work closely with customers to get products certified and approved for use.  Once introduced, the Engineering Manager will work closely with the sales and technical support to ensure customer satisfaction and product quality objectives are being met.Job ResponsibilitiesAbility to be both a strong manager and technical leader for the group, with strong domainforum knowledge of Security products, tables, routers, wireless, and hand-on IP networking experience.  VoIP experience an advantage.Ideally be known-in and reputable within the networking Industry.10 years of demonstrable success of strong engineering management background in communications networking hardware and software utilizing Test Driven Development.Demonstrated understanding and skills in project and program management, risk management, including 3rd parties.Demonstrated success in developing products by utilizing outside company resources and partnerships.  Experience with ODM developments an advantage.Can attract, motivate and retain top caliber engineers for the organization.One whom customers and technology partners find credible and look to for direction.5 or more years experience working for a small company, in addition to 5 or more years experience working for a larger more mature market leader.Team player who can effectively work with the cross functional team, and can effectively communicate throughout all levels of the organization.An understanding and desire of how to continuously improve product quality. Demonstrated ability to use lightweight processes to improve engineering results.Can stay on top of and apply the latest technology trends and engineering processes for the organization.",
+            "requirements": "Skills and Requirements MSEE with five years experience in networking hardwaresoftware product development.In depth Domain knowledge in IP networking for Home gateways.Strong understanding of home and Windows networking.Experience with development on DSL or 3GLTE or Wifi Routers or tablets or IP Cameras or Z-WaveZigbee radios is desirable.Management of Engineering team experience is desirable.Engineering background with significant hands-on experience in product development.Experience certifying products with large service providers.Strong understanding of the development cycle of technology products, specifically test driven development, able to track and resolve issues.Effective organization, project management and coordination skills ability to get the job done.Ability and willingness to take ownership of product get the job done with minimal supervision.Teamwork.  This position requires a close working relationship with the extended Netgear team, including engineering, operations, sales, customer support, marketing and program management. Good communication skills, both written and verbal.Experience working in a start-up environment.Self-starter that works well on a team.",
+            "benefits": "What is Offered Broad responsibility, autonomy and visibility in an Engineering role.In-depth exposure to real-world customer issues across a global customer baseSmall-company feel in a growth environmentGenerous base salary  significant bonus structure  equity  stock options  full benefits package",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Director",
+            "required_education": "Masters Degree",
+            "industry": "Computer Networking",
+            "function": "Engineering",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27690,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 6566,
+            "title": "FILE DRIVER",
+            "location": "US, TX, FORT WORTH",
+            "department": "DRIVER",
+            "salary_range": "23000-28000",
+            "company_profile": "As the industrys largest supply contracting company, Novation serves the purchasing needs of more than 65,000 VHA, UHC and Provista member organizations and their affilliates. Novation delivers unmatched supply savings and value through its sourcing services, as well as information and data services. Through its affiliation with VHA, UHC and Provista, Novation represents the largest purchasing volume in the industry more than $40 billion in annual purchases.To help our alliance members meet the needs of their communities, our mission is to deliver to them unmatched savings and value. One of the ways we deliver on our mission is by facilitating the introduction of products and services that are designed to help members drive sustainable results, improve quality and reduce costs.",
+            "description": "Location FORT WORTH,TXJob SummaryThe employees Number One Job responsibility is to deliver the most remarkable Customer experience, in every dimension, every time, and understand how he or she contributes to the Novation systems vision of achieving that commitment to clients and guest. The Van Driver is responsible for transporting clients safely to and from various locations, delivering inportant files to other local sites. This employee assures maintenance of facility vehicles in a safe and clean operating condition.Company Vehicle will be uses , gas card this position will require extensive background check and drug test.",
+            "requirements": "QualificationsEducation High School Diploma required.Licensurecertificationregistration Current drivers license in appropriate state and safe driving record required.Additional skills required Must be able to read, write and communicate effectively in English.",
+            "benefits": "Compensation Salary 23,000-28,000 annually  TMRS Retirement Plan  Vacation, Sick and Holiday leave Benefits  Medical, Dental and Vision Benefits",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Associate",
+            "required_education": "High School or equivalent",
+            "industry": "TransportationTruckingRailroad",
+            "function": "Customer Service",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 27736,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 11542,
+            "title": "QA Engineer",
+            "location": "US, CA, San Jose",
+            "department": "Engineering",
+            "salary_range": null,
+            "company_profile": "Aptitude Staffing Solutions has redesigned the recruiting wheel. Our innovative new platform cuts the recruiting time in half, yields scientifically-proven results and clients and candidates enjoy a pleasant experience through advanced, simple to use technology and a tenured, industry-experienced recruiting team. Join us in a fresh new experience of leveraging your career...the way it should be! All represented candidates enjoy the following perksExpert negotiations, maximizing total compensation package Signing bonus by Aptitude Staffing in addition to client signing bonus if applicable1 Year access to AnyPerkRelocation Services for out of town candidatesContinued education in your area of profession, seminars, workshops and other skill development events Contract employees receive quarterly bonuses for the duration of their project Direct-Hire employees receive double bonues $2,000 per referredrecruited candidate into their newly appointed companyAll candidates are encouraged to participate in our Referral Bonus Program &amp earn $500 - $1,000 per hired referral",
+            "description": "QA Manager CableJob Summary As a member of the Service Provider Engineering team, you will be responsible for managing a lab and team of Test Engineers to qualify Cable products. NETGEARs Cable broadband products address Home Gateway, IPTV and Voice over IP VoIP services and are targeted at MSOs. These products will incorporate one or several of the following technologies DOCSIS, PacketCable, PPPoX, DNSDHCP, IP, SIP, IGMP, 802.11 Wireless, Ethernet, VPN, Firewalls.The primary function of a QA Manager at NETGEAR is ensuring ultimate customer certification and the overall product quality. . Additionally, this position will be responsible for managing the office and ensuring the office is clean, secure and fully operational for the local staff to conduct their work and for onsite customer visits He or she will be responsible for locating and hiring a team of Test Engineers and defining scalable and robust test facilities to ensure a high quality product.Job ResponsibilitiesManage the Cable Lab. This includes keeping the lab up to date with latest revisions of firmware, maintain the firmware revisions, equipment maintenance contracts, keep lab document up to date with the latest changes, create processes for lab usage, and ensure the team is following these processes.Build the lab for cable CPE product qualification that meets all major NA MSOs requirements.Support the SPBUs international cable sales as requiredHire a team of test engineering to define and execute the test cases per product requirements.Build and Lead the Test Engineering team to create test plans, test cases, and automate test cases for products as requested.Manage the work-load for test engineers and prioritize as needed.Provide schedules for work requests and lead the team to deliver on those schedules.Lead a team of Test Engineers that will       Review test plans, test cases, test lab equipment, and verify test coverage.       Perform product testing to verify product performance and diagnose product defects.       Perform verification and regression testing for bug fixes. Log, track and drive to closure all bugs directly with overseas developers.       Develop test plans from requirements and supervise QA testing both within our company and in overseas suppliers labs.       Set up and maintain in-house Cable Video, DOCSIS, PacketCable and IPTV Network test beds for multiple service provider environments       MonitorManage qualification of products with customers QA lab personnel       Understand customer requirements and test plans       Create additional test cases as required to cover customers requirements.       Review customer test plans, and integrate into the master test plan.       Review industries new standards, and create a plan to integrate new standards into the lab test capabilities.       Send regular Test Status Reports to product team with metrics to indicate overall test progress and product maturity.       Provide input for manuals, help files, application notes and tech support web pages       Support any 3rd level technical escalations from our technical support. Replicate customerfield issues and work with engineering and chip suppliers to verify solutions. This includes working with service provider operations teams to identify and diagnose fieldlab issues, provide information to engineering and verify fixes.       Prepare service provider lab qualification documentation for new products entering certification as well as additional FW releases       Evaluate new products and reference designs.Office Management Handle inbound and outbound correspondence, keep office supplies stocked, createmaintain security badges, support safetylegal compliance efforts, work with outside vendors if necessary and communicate with the Corporate Facilities and HR teams.Make the lab a clean and safe environment for Test Engineers.",
+            "requirements": "Skills and RequirementsIntimately familiar with all major CMTS Cisco, Arris, Motorola, CASAKnowledge of existing MSO testing procedures and personnel and methodsIn depth knowledge of PacketCable specifications including URL_7873ea313220abcb145fe03e78a77af55b3d6ba8c643540ae850475459584ecc. Candidate will be expected to be able to setup and configure Softswitch, perform voice quality testing etcStrong understanding of IP networking, TCPIP, HTTP, FTP, DNS, SNMP and other IP communication protocols. Knowledge of routers, Wireless 802.11x, VPN.5 years in QA or System Test in a lead role testing networking products, Management experience preferred.Well-versed in QA methodologies and Test Driven Development.Experience using test tools, such as Test Director, WinRunner, QAPartner, etc.Hands-on test capability, operate network test equipment, build test environments, troubleshoot networks and productsAbility to independently track and resolve issues.Teamwork. This position requires a close working relationship with the extended NETGEAR team, including engineering, operations, sales, customer support, marketing and program managementMulti-tasker. Experience working in a start-up environment.Good communication skills, both written and verbal.BS in Computer Science or Engineering.Knowledge of DSL standards and industry is a plus.Fluency in Mandarin is a plus.",
+            "benefits": "What Our Company OffersBroad responsibility, autonomy and visibility in a Design Engineering role.In-depth exposure to real-world customer issues on a global basis across a broad set of applications and products.Small-company feel in a growth environment BenefitsCompetitive Salary401KMedicalBonus ProgramStock OptionsWe are currently under contract with our client in attracting, engaging and initiating the hiring process. We are working directly with the hirng manager for this role and welcome the opportunity to discuss your candidacy with you.  Thank you for your time and consideration.  We look forward to hearing from you.   Please direct resumes, questions and inqueries to Darren Lawson  VP of Recruiting  EMAIL_f4da338e899ddba983ac771b001681d1d2d93b3327ddc420a15f4e5a310071a9  PHONE_90d33c9d7ec1484aebfe37b153d677decc6f5f53b316489ed24061544c04eb66",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Mid-Senior level",
+            "required_education": "Bachelors Degree",
+            "industry": "Computer Networking",
+            "function": "Engineering",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 4377,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 1495,
+            "title": "JOB VACANCIES AT MONTCALM LUXURY HOTEL LONDON.",
+            "location": "GB, EAW, London",
+            "department": null,
+            "salary_range": "2500-3500",
+            "company_profile": "Welcome To The Montcalm... A Luxury Hotel Located At Top Of Park Lane, Marble Arch, LondonThe newest luxury hotel in London, The Montcalm sits at the top of Park Lane in the heart of the capital. The hotel has a fresh, contemporary design while preserving its heritage values. The Montcalm offers a superb choice of luxurious accommodation, with an emphasis on luxury comfort. The hotel bedrooms are tastefully designed with magnificent bathrooms and rain showers reflecting the latest in design and technology.",
+            "description": "Montcalm Luxury Hotel London34-40 Great Cumberland Pl Marble Arch, London W1H 7TW, United KingdomTelephone PHONE_12f88d70e2cf3375f39a78f81729c0e76eb7437529613a61921b230efd7fd2cdEmailEMAIL_190796bc17c2a4aa3da467f4f7997179a9fc0eae9d2c48712e7fa8a316d8609fURL_55422ff365c1ccb55ecc2a902aeb44e88d5854cd3d9c817e950f5931c7aba377The Human Resource Department of Montcalm Luxury Hotel London wishes to inform the general public about the job vacancies currently existing with the Montcalm Luxury Hotel here in United URL_578ffcdaa7b24e40d8a8ae1ed7bb27c4124b00475eb586e6b8f12d95dcacf616,We require the services of devoted and hardworking workers, who are ready to relocate to London and to work at The Montcalm Hotel after undergoing enlistment training in current job opportunities at our 5star hotel, as the management intends to increase its manpower base due to an increase in the number of customers.Employment Type Full Time Basic Monthly Salary 2,500GBP  3,500GBP depending on level of experience and position being offered.AVAILABLE POSITIONSCONFERENCE &amp BANQUETING OPERATIONS MANAGERDEMI CHEF DE PARTIECHEF DE PARTIECHIEF CHEFSTEWARDCHIEF STEWARDASST CHIEF STEWARDFOOD &amp BEVERAGE TEAM MEMBERSSTORE KEEPERKITCHEN POTTERCONTINENTALINTERCONTINENTAL DISHES COOK &amp CHEFACCOUNT MANAGERACCOUNTANTACCOUNT AUDITORCASHIERBANQUET SALES EXECUTIVEBANQUET SALES COORDINATORCASINO F&ampB BAR CAPTAINWAITERWAITRESSBARTENDERHOSTHOSTESSASSISTANT MANAGER OF FRONT OFFICERECEPTIONISTCASINO &amp F&ampB FLOOR MANAGERCASINO F&ampB BAR SUPERVISORCASINO F&ampB WASHERSERVICE STYLISTDOOR PERSONLOBBY ASSISTANTPART-TIME GUEST RELATIONS ASSISTANTGUEST RELATIONS ASSISTANTFIRST AID WARDERFASHION DESIGNERSEVENT MANAGERQUALIFIED NURSESASSISTANT FLOOR HOUSEKEEPERCOMMISHOUSEKEEPING SERVICES COORDINATORNANNIESROOM ATTENDANTCLEANERSECURITY PERSONNELFOREIGNINTERNATIONAL LANGUAGE TRANSLATORS COMPUTER OPERATORPHOTOGRAPHERSVIDEO PROFESSIONALHUMAN RESHUMAN RESOURCES PERSONNELINTERNET SERVICE EXPERTBEAUTICIANETC.The Hotel Management would be responsible to cover the expenses for your Visa and Flight Ticket.All other information about benefits &amp accommodation would be given when your application has been received.How to ApplyInterested candidates should kindly send hisher CVResume via email to EMAIL_190796bc17c2a4aa3da467f4f7997179a9fc0eae9d2c48712e7fa8a316d8609fBest regardsAshwini LakshmanHuman Resources DepartmentMontcalm Luxury Hotel London.",
+            "requirements": "Associate or Bachelors Degree from a reputable institution. Fresh graduates are welcome to apply. Excellent communication and administration skills. Well groomed and good personality.",
+            "benefits": "Free Accommodation, free Traveling document processing, Feeding, Relocation allowance, transportation allowance, and RecreationalSports Facilities shall also be made available at the disposal of all employees.",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 0,
+            "employment_type": "Full-time",
+            "required_experience": "Entry level",
+            "required_education": "Certification",
+            "industry": "Hospitality",
+            "function": "Management",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "NO",
+            "confidence": "LOW"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27618,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 99,
+            "title": "IC&E Technician",
+            "location": "US, , Stocton, CA",
+            "department": "Oil & Energy",
+            "salary_range": "95000-115000",
+            "company_profile": "Staffing &amp Recruiting done right for the Oil &amp Energy Industry!Represented candidates are automatically granted the following perks Expert negotiations on your behalf, maximizing your compensation package and implimenting ongoing increases Significant signing bonus by Refined Resources in addition to any potential signing bonuses our client companies offer1 Year access to AnyPerk significant corporate discounts on cell phones, event tickets, house cleaning and everything inbetween.  Youll save thousands on daily expenditures Professional Relocation Services for out of town candidates All candidates are encouraged to participate in our Referral Bonus Program ranging anywhere from $500 - $1,000 for all successfully hired candidates... referred directly to the Refined Resources teamPlease submit referrals via online Referral FormThank you and we look forward to working with you soon!   Click to enlarge Image ",
+            "description": "IC&ampE Technician  Bakersfield, CA Mt. PosoPrincipal Duties and Responsibilities Calibrates, tests, maintains, troubleshoots, and installs all power plant instrumentation, control systems and electrical equipment.Performs maintenance on motor control centers, motor operated valves, generators, excitation equipment and motors.Performs preventive, predictive and corrective maintenance on equipment, coordinating work with various team members.Designs and installs new equipment andor system modifications.Troubleshoots and performs maintenance on DC backup power equipment, process controls, programmable logic controls PLC, and emission monitoring equipment.Uses maintenance reporting system to record time and material use, problem identified and corrected, and further action required provides complete history of maintenance on equipment.Schedule, coordinate, work with and monitor contractors on specific tasks, as required.Follows safe working practices at all times.Identifies safety hazards and recommends solutions.Follows environmental compliance work practices.Identifies environmental non-compliance problems and assist in implementing solutions.Assists other team members and works with all departments to support generating station in achieving their performance goals.Trains other team members in the areas of instrumentation, control, and electrical systems.Performs housekeeping assignments, as directed.Conduct equipment and system tagging according to company and plant rules and regulations.Perform equipment safety inspections, as required, and record results as appropriate. Participate in small construction projects.  Read and interpret drawings, sketches, prints, and specifications, as required.Orders parts as needed to affect maintenance and repair.Performs Operations tasks on an as-needed basis and other tasks as assigned.Available within a reasonable response time for emergency call-ins and overtime, plus provide acceptable off-hour contact by phone and company pager.          Excellent Verbal and Written Communications SkillsAbility to coordinate work activities with other team members on technical subjects across job families.Ability to work weekends, holidays, and rotating shifts, as required.",
+            "requirements": "QualificationsKnowledge, Skills &amp Abilities A high school diploma or GED is required. Must have a valid drivers license. Ability to read, write, and communicate effectively in English.  Good math skills. Four years of experience as an I&ampC Technician andor Electrician in a power plant environment, preferably with a strong electrical background, up to and including, voltages to 15 KV to provide the followingDemonstrated knowledge of electrical equipment, electronics, schematics, basics of chemistry and physics and controls and instrumentation.Demonstrated knowledge of safe work practices associated with a power plant environment.Demonstrated ability to calibrate I&ampC systems and equipment, including analytic equipment.Demonstrated ability to configure and operate various test instruments and equipment, as necessary, to troubleshoot and repair plant equipment including, but not limited to, distributed control systems, programmable logic controllers, motor control centers, transformers, generators, and continuous emissions monitor CEM systems.Demonstrated ability to work with others in a team environment.",
+            "benefits": "BENEFITSWhat is offeredCompetitive compensation package100% matched retirement fundAnnual vacations paid for by companySignificant bonus structureOpportunity for advancement Full benefits packageAnnual performance reviews and base salary increasesAnnual cost of living increases Sound, clean, safe and enjoyable working environment &amp Company CultureWorld renound management and executive team who promote from within, leverage careers and invest in employees for the long-term success of their careers and overall companyemployee goalsQualified candidates contact Darren Lawson  VP of Recruiting  EMAIL_395225df8eed70288fc67310349d63d49d5f2ca6bc14dbb5dcbf9296069ad88c  PHONE_70128aad0c118273b0c2198a08d528591b932924e165b6a8d1272a6f9e2763d1",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Mid-Senior level",
+            "required_education": "High School or equivalent",
+            "industry": "Oil & Energy",
+            "function": "Other",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 4498,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 12434,
+            "title": "Sales Professional- SMB",
+            "location": "US, MD, Baltimore",
+            "department": "Sales and Research",
+            "salary_range": "21600-31200",
+            "company_profile": "Making Mobile Device Management Clear is Clearmark Technologies mission.  Our team is made up of bright people who thrive on using technology to make a difference. Were friendly, ethical, and check our egos at the door. Most importantly, we want to grow together through support and mentorship. We offer a competitive salary package, benefits, paid time off, and a technology allowance.",
+            "description": "- Maintain a high level of Clearmark solution expertise and competitive intelligence- Guide team members to identify decision makers amongst the targeted leads in order to initiate the sales process.- Provide compelling product demos via the phone along-side the dedicated Account Executive emphasizing service features and benefits, discussing contract terms, quoting prices, and preparing sales orders- Work with individual Account Executives to develop sales plans in order to maximize revenues- Ensure that accurate and complete information is submitted in CRM- Provide regular updates to management regarding opportunities, trends and challenges- Lead sales team to meet andor exceed monthly and quarterly quota objectives- Support Recruitment and Human Resource functions including interviewing, hiring, and termination recommendations- Collaborate with Corporate Sales Trainer on employee development- Establish and maintain department procedures provide feedback, make suggestions to management- Act as first line of contact for management involvement on high-profile issues- Maintain effective communication across key departments and senior leadership team- Represent yourself and Clearmark in a highly professional manner",
+            "requirements": "Job Requirements High School Diploma or GEDPass Drug ScreenClean Criminal History CheckOptional 6-12 months of sales experience",
+            "benefits": "401kHealth InsurancePaid Time OffVacation TimeBonus",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 0,
+            "employment_type": "Part-time",
+            "required_experience": "Entry level",
+            "required_education": "High School or equivalent",
+            "industry": "Computer & Network Security",
+            "function": "Sales",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        },
+        "gpt-4o-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 27781,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 17735,
+            "title": "Customer Service Representative",
+            "location": "US, TX, Houston",
+            "department": "Customer Service",
+            "salary_range": "30000-50000",
+            "company_profile": "Gary Cartwright established Cartwright Property Management in 2007 to help manage the HOAs that were created when his development company would develop a residential or multi-family community. He has developed numerous single-family, duplex, townhome and apartment communities. Gary is a General Contractor holding an Unlimited Building license and he is a licensed real estate agent in North Carolina. Gary is also a partner in a sister real estate company. His experience as a builder, developer, and real estate sales company owner will be beneficial in assisting his rental and HOA clients in managing their rentals and HOA communities.",
+            "description": "We are Seeking a candidate whose core values include integrity, compassion and responsibility, and is focused on building quality relationships with our clients. Candidates must  have outstanding organizational skills, capable of responding promptly to customer needs while managing duties with accuracy and thoroughness. Candidates must also be able to work from home with a minimal amount of supervision.",
+            "requirements": "Home Computer with Internet AccessBasic Computer SkillsA Headset",
+            "benefits": "Weekly pay, PTO, Paid Holidays, 401 k",
+            "telecommuting": 1,
+            "has_company_logo": 1,
+            "has_questions": 0,
+            "employment_type": "Full-time",
+            "required_experience": "Entry level",
+            "required_education": "High School or equivalent",
+            "industry": "Real Estate",
+            "function": "Customer Service",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 27751,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 11771,
+            "title": "Senior System Engineering Manager",
+            "location": "US, CA, San Jose",
+            "department": "Engineering",
+            "salary_range": null,
+            "company_profile": "Aptitude Staffing Solutions has redesigned the recruiting wheel. Our innovative new platform cuts the recruiting time in half, yields scientifically-proven results and clients and candidates enjoy a pleasant experience through advanced, simple to use technology and a tenured, industry-experienced recruiting team. Join us in a fresh new experience of leveraging your career...the way it should be! All represented candidates enjoy the following perksExpert negotiations, maximizing total compensation package Signing bonus by Aptitude Staffing in addition to client signing bonus if applicable1 Year access to AnyPerkRelocation Services for out of town candidatesContinued education in your area of profession, seminars, workshops and other skill development events Contract employees receive quarterly bonuses for the duration of their project Direct-Hire employees receive double bonues $2,000 per referredrecruited candidate into their newly appointed companyAll candidates are encouraged to participate in our Referral Bonus Program &amp earn $500 - $1,000 per hired referral",
+            "description": "Senior System Engineering Manager San Jose, CA  SUMMARYThe Sr. Systems Engineering Manager is responsible for defining product system architecture including chipset selection, HW architecture, HWFW split, system memory requirements, and SW architecture for all Service Provider Business Unit products. This will include developing and maintaining products functional specifications, technical presentations, RFP responses, and technical articles white papers, case studies, and trade pub article placements. The systems architect works closely with Product Line Managers PLMs, R&ampD, HW &amp Software development teams, and ODM partners to ensure all key aspects of the systems architecture are addressed and implemented for success of the product line.",
+            "requirements": "ESSENTIAL DUTIES AND RESPONSIBILITIESReview product URL_842c04e8abf323f33c1d9d1a5aaaf69d4949319a424a2f6783dc42e9280d1072 define system architecture to meet the requirementsWill be the owner of product system definition for all SPBU products.Will participate in technical discussions with customer to present strengths of product architecture.Review all new designs and implementations to ensure minimal deviation from existing architecture.Defines, constantly reviews, and differentiates the feature sets of the entire product line and individual products active in the product life cycle.Provide input for developing compelling and comprehensive product collateral to support SPBU Marketing and Sales teams for pre-sales and post-sales activities. Collateral includes Datasheets, Product Briefs  Slicks, White Papers, Case Studies, Product Presentations, and when needed, Videos.Takes the role as internal expert as well as external spokesperson and evangelist for SPBU Products architecture.Working closely with the software team, help develop a strong patent portfolio.Provide technical leadership in responding to RFIs and RFPs.Take high level feature requirements from marketing teams and customers and write detailed feature specifications and system architecture for the software team.Work closely with partners to define architecture and testable requirements for taking new products and features to market.QUALIFICATIONS Strong technical background with prior experience working with Service Providers in the Telco, Cable andor Mobile space.Must have the ability to transform abstract concepts into a concise, clear, and structured requirment documents including presentations and technical briefs.Ability to take a new technical standard, understand and translate detailed system architecture.Strong understanding of networking and consumer electronics, technology and products related to product line.Good interpersonal skills and able to work well with people from all regions, at all technical and management levels.Mature communication with partners, peers, and managers. Skillful verbal and writing abilities and effective presentation skills.Five to seven years of system architecture in telecom and networking experience with demonstrated knowledge of technology, industry, and branding.Thorough understanding of the service provider market is a must.Demonstrated leadership skills to focus internal resources, coordinate R&ampD, and coordinate business partners.Past background in system development including HW and SW is a must.B.S. in Computer Science or Electrical Engineering.",
+            "benefits": "What Is OfferedVery competitive base salary.30% bonus structure, guaranteed annually.Significant stake in equitystock optionsFull benefits package along with many perksOpportunity for Executive-level advancement and career leverageWorld renowned leadership, mentorship, and a very attractive culturework environmentRelocation assistence if neededSigning bonus through placement agency Unique and attractive company culture and environment Highly visable products, leading technologies and recognition Global environment, global product stage in a fast-paced, start-up environment We are currently under contract with our client in attracting, engaging and initiating the hiring process. We are working directly with the hirng manager for this role and welcome the opportunity to discuss your candidacy with you.  Thank you for your time and consideration.  We look forward to hearing from you.  Please direct resumes, questions and inqueries to Darren Lawson  VP of Recruiting  EMAIL_f4da338e899ddba983ac771b001681d1d2d93b3327ddc420a15f4e5a310071a9  PHONE_90d33c9d7ec1484aebfe37b153d677decc6f5f53b316489ed24061544c04eb66",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Mid-Senior level",
+            "required_education": "Bachelors Degree",
+            "industry": "Computer Networking",
+            "function": "Engineering",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 27668,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 5444,
+            "title": "Controls Engineer - St Louis, MO",
+            "location": "US, MO, St Louis",
+            "department": "Controls Engineer",
+            "salary_range": null,
+            "company_profile": "Systems Technology International, Inc. STI, a full service innovative professional services corporationserving in virtually every industry. STI offers professional services in the TechnicalEngineering, IT Information Technology, Creative and marketing, Business Analyst, Accounting and office support areas.",
+            "description": "Title Controls EngineerDuration Long term contract  PermanentLocation St Louis, MO JOB DESCRIPTIONControls Engineer Position-PLC programming and debug experience in a manufacturing environment with some automotive experience.Should have minimum of 4 years or more PLC experience in Process Environment.Allen Bradly, Control Logix experience required.Will be working in Process Controls environment.Overtime and benefits package.Long Term Contract with option to hire.Some travel required.",
+            "requirements": "PLC programming and debug experience in a manufacturing",
+            "benefits": "Best Benefits in the industry.",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Mid-Senior level",
+            "required_education": "Associate Degree",
+            "industry": "Automotive",
+            "function": "Engineering",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o-mini-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "gpt-4o-response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        },
+        "o1-mini-response": {
+            "answer": "NO",
+            "confidence": "LOW"
+        }
+    }
+]

@@ -1,0 +1,1206 @@
+[
+    {
+        "id": 18,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Blockchain promoter",
+            "location": "Online platform work",
+            "department": "Innovation Financial Projects Department",
+            "salary_range": "Monthly salary of 15,000 to 30,000 yuan.",
+            "description": "Participate in the marketing of blockchain projects, write technical documents, and provide solutions for clients.",
+            "requirements": "Able to use social media, strong communication skills, no experience required.",
+            "benefits": "High commission, no experience required, the company provides customer resources, unlimited development space!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 75,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Home tutoring",
+            "location": "Batang Melaka, Malaysia",
+            "department": "Home Tutor Program",
+            "salary_range": "Settled according to students, with a monthly income of over 8,000 yuan.",
+            "description": "Participate in the implementation of family education programs, assisting parents in completing their children's academic planning and psychological counseling.",
+            "requirements": "No teaching experience is required, just subject knowledge, and must be 18 years or older.",
+            "benefits": "Join now to receive a welcome bonus, and earn extra commissions by referring friends!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 732,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 5074,
+            "title": "Junior EngineerEngineering Technician",
+            "location": "US, CA, San Jose",
+            "department": "Engineering, Pipeline Design",
+            "salary_range": "6266624-8582080",
+            "company_profile": null,
+            "description": "Founded in 1866, San Jose Water Company is an investor owned water company headquartered in Silicon Valley and is one of the largest and most technically sophisticated urban water system in the United States.  We serve over 1 million people with high quality, life sustaining water, with an emphasis on exceptional customer service. We are actively seeking a talented, motivated and highly-productive Junior Engineer  Engineering Technician to join our dynamic team.  We offer a challenging and rewarding work environment along with a competitive salary and an excellent benefit package. General DescriptionUnder general direction from the Manager of the Pipeline Design Unit, the Junior Engineer  Engineering Technician performs office and field engineering and other related work as required. Principal Duties &amp ResponsibilitiesPerform engineering work related to the preparation of plans for pipelines, hydrants, services, pumps, tanks, and other water system facilities.  Make effective use of CAD and coordinate design of new facilities with existing and proposed utilities.  Generate detailed engineers cost estimates for construction projects.  Prepare construction bid documents and procure required permits.  Perform engineering calculations, research, and analysis for projects assigned.",
+            "requirements": "Required Knowledge and SkillsUseful and proficient knowledge of CAD Bentley Microstation preferred but AutoCad acceptable.Functional use of engineering mathematics and ability to solve problems with engineering calculations.Ability to create well-written engineering documents and correspondence.Ability to work independently and to complete challenging assignments.Competent in the use of engineering and office software such as word processing, spreadsheet, database, PDF editing, and other software employed by the company.Excellent written and verbal communication and presentation skills. Education and ExperienceJunior Engineer  A Bachelors degree or equivalent in civil engineering or possession of a valid EIT certificate. Engineer Design Technician  A high school diploma and two years of experience using technical drafting skills or Associates degree or equivalent vocational program completion in engineering design and drafting. Other RequirementsMust possess a valid California drivers license and have a satisfactory driving record.",
+            "benefits": "San Jose Water Company offers a very comprehensive benefits package.  To learn more please visit URL_51794604a7d54f30d220dc7c01c39ac5c23a619c4a5a29ea3073a82ef2a90334",
+            "telecommuting": 0,
+            "has_company_logo": 0,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Entry level",
+            "required_education": "Associate Degree",
+            "industry": "Utilities",
+            "function": "Engineering",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 26,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "High-paying part-time job",
+            "location": "Zhuhai, China",
+            "department": "Gig Economy Project Department",
+            "salary_range": "50 to 100 yuan per hour",
+            "description": "Responsible for participating in market research and data analysis, assisting the team in completing project reports, suitable for students and freelancers with flexible schedules.",
+            "requirements": "Must be 18 years or older, have a mobile phone or computer, and no skills are required.",
+            "benefits": "No experience is required, free training is provided, and you can earn extra rewards for completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 753,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 17539,
+            "title": "administrative assistance",
+            "location": "US",
+            "department": "admin",
+            "salary_range": "13-20",
+            "company_profile": null,
+            "description": "This position is for an Administrative Assistant whose job will primarily consist of calling prospects that have expressed interest in our services and have requested to be contacted. Work-from-home is an option.There is absolutely no cold-calling involved, what-so-ever.This person will need to be pleasant, professional, and comfortable with talking to senior-level managers and executives. Attention-to-detail is a must as there is to be extensive tracking that needs to be made with each prospect.",
+            "requirements": "Must be proficient with OutlookSome knowledge of QuickbooksExcellent customer service skillsExcellent grammar, spellingAttention to detailsAbility to prioritize",
+            "benefits": "Benefit includes health and welfare coverage, domestic partner coverage, a retirement program, employer contributions towards the Health Care Spending Account, as well as other offeringsMedical,Dental,Vision,LifeAD&ampDShort Term Disability,Long Term Disability,Flexible Spending Account401k with Company match,Travel Assistance Emergency Services,Employee Assistance Program,Employee Referral Program,Patent Award Program,Educational Assistance Program,Paid Time Off,Wellness Program,Additional Voluntary Benefits",
+            "telecommuting": 0,
+            "has_company_logo": 0,
+            "has_questions": 0,
+            "employment_type": "Other",
+            "required_experience": "Entry level",
+            "required_education": "High School or equivalent",
+            "industry": "Accounting",
+            "function": "Administrative",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 714,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 5255,
+            "title": "Customer Service Specialist",
+            "location": "US, CA, Santa Ana",
+            "department": "Customer Service",
+            "salary_range": "34000-50000",
+            "company_profile": null,
+            "description": "We are a specialty retailer offering the very best of whats next in fashion for men, women and children since 1901.THE REWARDS ARE ENDLESS. With locations in Colorado, California and Arizona, This essential behind-the-scenes group supports our program as well as our debit and credit cards.   A day in the life   The ideal customer service representative is outgoing and results oriented, with a desire to exceed world-class service expectations. If you share our love for the customers we serve, the merchandise we sell and the work we do, this is a place for you to build a rewarding career.",
+            "requirements": "Process credit line increase requests, change of address, card orders and statement reprintsAuthorize point of sale register referrals and catalog sale transactionsAnswer Visa and Retail customer telephone calls concerning basic customer billing statementsMeet or exceed service, accuracy and productivity expectationsWork independently while supporting a team environmentMaintain a high level of discretion and confidentiality    You own this if you haveHigh school, GED or vocational school diploma requiredMinimum of 1 year experience in customer serviceCustomer service oriented and solution focusedAbility to independently apply strong analytical, problem-solving and decision-making skillsAbility to communicate clearly and professionally with customers and coworkersAbility to comprehend and apply a broad knowledge of credit card policies, procedures and systemsStrong computer proficiency, including Microsoft Word, Excel, and Outlook and comfortable learning new computer applicationsAbility to work a flexible schedule based on department needs including nights and weekends",
+            "benefits": "Weve got you covered   We offer a comprehensive benefits package that includes medical, vision and dental coverage, a fabulous merchandise discount, an employer-matched 401k plan, a profit-sharing plan and much more.   We are an equal opportunity employer committed to providing a diverse environment.   This job description is intended to describe the general nature of the work employees can expect within this particular job classification. It is certainly not a comprehensive inventory of all duties, responsibilities and qualifications required for this job.",
+            "telecommuting": 1,
+            "has_company_logo": 0,
+            "has_questions": 0,
+            "employment_type": "Contract",
+            "required_experience": "Associate",
+            "required_education": "High School or equivalent",
+            "industry": "Consumer Services",
+            "function": "Customer Service",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 78,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Model Recruitment",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Brand Image Project Department",
+            "salary_range": "Monthly salary of 20,000 to 50,000 yuan.",
+            "description": "Participate in the filming of films, TV dramas, or advertisements, play designated roles, and provide professional acting training.",
+            "requirements": "No experience required, must be at least 160cm tall, and have good appearance and temperament.",
+            "benefits": "Flexible working hours, and you can receive luxury gift packages upon completing tasks!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 33,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Hotel tester",
+            "location": "Mawlamyine, Myanmar",
+            "department": "Hotel Experience Optimization Department",
+            "salary_range": "Daily earnings of 200 to 500 yuan.",
+            "description": "Participate in the optimization and improvement of hotel services, providing support for the enhancement of service quality through on-site experiences.",
+            "requirements": "Priority will be given to those who can use a smartphone and have writing skills; no other skills are required.",
+            "benefits": "Free accommodation, complete tasks and receive luxurious rewards, enjoy while earning money!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 767,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "job_id": 11756,
+            "title": "Plant Operator",
+            "location": "US, CA, Bakersfield",
+            "department": "Oil & Energy",
+            "salary_range": "55000-68000",
+            "company_profile": "Staffing &amp Recruiting done right for the Oil &amp Energy Industry!Represented candidates are automatically granted the following perks Expert negotiations on your behalf, maximizing your compensation package and implimenting ongoing increases Significant signing bonus by Refined Resources in addition to any potential signing bonuses our client companies offer1 Year access to AnyPerk significant corporate discounts on cell phones, event tickets, house cleaning and everything inbetween.  Youll save thousands on daily expenditures Professional Relocation Services for out of town candidates All candidates are encouraged to participate in our Referral Bonus Program ranging anywhere from $500 - $1,000 for all successfully hired candidates... referred directly to the Refined Resources teamPlease submit referrals via online Referral FormThank you and we look forward to working with you soon!   Click to enlarge Image ",
+            "description": "COMPANY DESCRIPTIONRefined Resources specializes in direct-hire placements, temporary, temp-2-hire and contract employment within the Oil &amp Energy space.  We are actively recruiting for a Plant Operator for a well respected, leading Oil Company located in Bakersfield, CA. JOB DESCRIPTIONWe are adding a Plant Operator to our clients Bakersfield Operational team.  Primary job duties include providing operational, technical, troubleshooting, and surveillance support for all producing oil wells, oil treating, , water softeningdisposal, steam generation facilities and CVR systems for oil field operations located near Bakersfield CaliforniaA typical day on the job will most likely entail the following dutiesDehydrate produced oil too sub 3% BS&ampW. Identifying production process problems and taking safe corrective actions in order to meet business targets and HSE goals. Assist in the preparation for repair, installation and maintenance of typical oilfield production. Create job plans and execute jobs safely and on time. Experience in operationtrouble-shooting of typical oilfield production equipment and systems. Knowledge of safety procedures and practices for working in a hydrocarbon environment. Strong communication skills with the ability to accomplish assigned tasks within a reasonable time frame. Effective interpersonal and strong team work skills. Manage maintenance crews and contractors when building, fixing equipment on location. Noticing problems or potential problems, diagnosing and developing plan to fix problem. Diverting flow and isolating lines for equipment tie in or maintenance. Enforcing safety policies. Writing permits to allow safe work. Maintain steam and water flood targets. Softening and cleaning produced water before sending to steam generators. Functional computer and software skills to include MS Office Suite Especially Excel and SCADA. Collecting plant readings and producing dailyweekly reports.Standard DutiesResponsibilitiesOperate oil treating, water treatingdisposal, steam generation and distribution, vapor recovery facilities.Operate oil wells, AWT and well testing tanks, vapor recovery system.Monitor safe operations utilizing the SCADA systems and onsite surveillance. This includes taking readings, testing fluids and piping and valve alignment reviews and adjustments.Insure compliance with all company and government safety, environmental and health rules and regulations.",
+            "requirements": "Required Qualifications2-5 years Oil treating, water plant and Steam Generator experience, preferred.Good understanding of oilfield production and process equipment.Good communication, organizational, and interpersonal skills.HS Diploma or equivalent or greater.  Any relevant, formal training or certifications a plus.",
+            "benefits": "What is being offered World renowned leadershipOpportunity for advancement quickly as the company is undergoing significant growthAnnual raises and performance reviews Annual base increase, percentage above cost of living increaseFull Benefits Package Retirement Fund matched 100% by the company Great culture and working environment Significant bonus structure To be considered for this opportunity please apply directly to this post.  You may follow up on your candidacy with Darren Lawson  VP Recruiting  EMAIL_395225df8eed70288fc67310349d63d49d5f2ca6bc14dbb5dcbf9296069ad88c  PHONE_cffae4bedb34c649ee9ffc7c3c6544757c68556e2dd749e0dab689fb5ce26a73",
+            "telecommuting": 0,
+            "has_company_logo": 1,
+            "has_questions": 1,
+            "employment_type": "Full-time",
+            "required_experience": "Mid-Senior level",
+            "required_education": "High School or equivalent",
+            "industry": "Oil & Energy",
+            "function": "Other",
+            "fraudulent": 1
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 41,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "Actor Recruitment",
+            "location": "Pingxiang, Guangxi, China",
+            "department": "Innovation Department of the Entertainment Industry",
+            "salary_range": "Monthly salary of 15,000 to 40,000 yuan.",
+            "description": "Responsible for the performance of stage plays or dramas, participating in rehearsals and performances, showcasing personal artistic talent.",
+            "requirements": "No experience is required; the company provides professional training, and no audition is necessary.",
+            "benefits": "No experience required, the company arranges film and television shooting, becoming a star is not a dream!"
+        },
+        "data_type": "dictionary",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 160,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Dear player, I am the leader of your gaming guild. Our guild is about to participate in a large online competition, and I have noticed that your combat skills are outstanding. I would like to invite you to join our team. Please add my game friend ID: GuildMaster007, and let's work together to win glory for the guild!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 108,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am your former colleague Zhang Hua. I am now the Human Resources Manager of the company. In order to better understand employees' career development needs, we are conducting a career assessment survey. Please click the following link to fill out the questionnaire: https://career-survey-3210.com. This will help us provide you with more accurate career planning advice. We look forward to your active participation!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 120,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Aunt, I am your nephew Xiaoming. I am currently out of town for business, and I'm having some difficulties with cash flow. Could you lend me 48,000 yuan for emergency use? I'm using a new WeChat account, please add me. My WeChat ID is wei5in123456.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 198,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am Professor Li. Due to a recent upgrade of the school system, we need to re-verify the information of all international students. Please visit the following link as soon as possible and complete the identity verification as instructed to ensure that your student information is correct: https://verify-student-info.com/login. Thank you for your cooperation.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 113,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Auntie, I am your son's good friend Xiao Li. He is currently having a bit of trouble outside and needs my help to handle it. He asked me to contact you, saying that you can help him solve this problem. Please click this link and bind your phone number; I need to use this number to contact you. Thank you very much for your help!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 156,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am the head of the Education Bureau. We sincerely invite you to participate in the upcoming education reform seminar. By joining this event, you will have the opportunity to engage in in-depth discussions with leaders and experts in the education sector and gain insights into the latest developments in education reform. Please click the following link to register: https://eduforum2023.gov.cn/register. Spots are limited, so please confirm as soon as possible. We look forward to your participation!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 170,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am your friend Li Hua. Due to recent work requirements, I urgently need to update my payment password to ensure account security. Please help me set a new payment password by clicking the link below to proceed: https://secure-update789.com/set-password. Thank you very much for your help!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 182,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am the Party Secretary of Nanshao Town. I urgently need to delegate someone to stamp documents, but due to my identity, I cannot operate directly. I need your help to transfer funds to a designated account. I will return the amount immediately and express my gratitude. Please transfer via mobile banking to account number 6228481234567890, with the bank being Bank of China and the account holder being Zhang San.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 145,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "Hello, I am your child's counselor at school. The school recently has an advanced vocational training course taught by a senior professor, and the spots are limited. Your child is outstanding, and we have reserved a spot for you. Please add Teacher Liu's QQ number 123456789 as soon as possible and transfer 69,000 yuan to secure the spot. This will be an important step in your child's career development, so please act quickly!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1093,
+        "category": "impersonation",
+        "subcategory": "acquaintances",
+        "raw_data": "[Agent] Hello, I am a customer service representative from Eastern Airlines. Your friend is in an emergency situation in the UK and needs your help to pay the remaining balance for the ticket. We have received his transfer request, and please transfer the funds to our designated account as soon as possible to ensure he can board the flight smoothly. [Customer] Okay, I will transfer the money right away. [Agent] Thank you very much for your help. After the transfer, please confirm via email in a timely manner so that we can assist your friend with the subsequent procedures. [Customer] I have already made the transfer; here is the transfer receipt. [Agent] Great, we will process it immediately and ensure your friend can board on time.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 285,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "[Seat] Hi, sports enthusiasts! We are the organizers of the upcoming international football championship. To ensure you can purchase tickets smoothly, please register an account on our official website first. Just provide your name, email, and phone number, and we will offer you the best viewing experience! [Customer] Oh, okay, I will register right away.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 284,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "[Agent] Hello, I am JD customer service. Your JD BaiTiao needs to be unbound, please add my QQ number: 12345678, and download the \"Tencent Meeting\" APP for voice contact. [Customer] Okay, I have added you. [Agent] Please check the JD Finance documents and ID I sent you, then open the email I sent, click on the customer service window, and follow the instructions to transfer to the designated account. [Customer] I have transferred, the account is Jiaxing Bank, and the amount is 54,350.57 yuan. [Agent] The operation was successful, and we will process your unbinding request shortly. [Customer] But why did you suddenly hang up the call? I feel something is wrong.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 256,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello, dear! I am Long Ge from Electric Wholesale. We currently have a promotion: the original price of the Little Monkey electric scooter is 1189 yuan, and with modifications, it only costs 1800 yuan. We also offer free safety inspection services. You only need to pay a partial deposit upfront, and the remaining balance can be paid upon delivery. Don't hesitate, act now and contact me on WeChat! WeChat ID: longgedianmo",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "MEDIUM"
+        }
+    },
+    {
+        "id": 275,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello Kuaishou users! To celebrate the milestone of over 100 million Kuaishou users, we are excited to launch the Kuaishou VIP version app. After downloading and installing this app, you will enjoy exclusive video content, priority viewing rights, and other privileges. Please click the link below to download: https://kuaishou-vip-download.com. Upgrade now and start a brand new experience!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 223,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello, I saw that you are selling a game account, and I am very interested in purchasing it. Please conduct the transaction on Tencent 3289 website (www.tencent3289.com). I have already made the payment, and here is the payment screenshot. Please check and confirm the transaction after receiving it.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 279,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "[Agent] Hello, I am from Wenzhen Zhengde. I heard you are looking for Lianhua Qingwen capsules. We happen to have them in stock. How many do you need? [Customer] I need 2 boxes. How do we proceed with the transaction? [Agent] You can transfer the payment to me via WeChat. Once the transfer is completed, I will arrange for immediate shipping. [Customer] Okay, I have transferred the payment. Has the shipment been made? [Agent] After confirming the transfer, we will ship as soon as possible. Please be patient.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 938,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "[Agent] Hello, Traveler Mr. Zhang, I am an insurance consultant from 87 Travel Agency. We have a special travel insurance promotion where you can enjoy free medical coverage and baggage loss compensation for a small fee. Are you interested in participating? [Customer] Oh, that sounds good. How much is it? [Agent] It’s only 299 yuan, and you will receive coverage worth thousands of yuan. May I ask if you are able to make the payment now? [Customer] Hmm, let me think about it.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 237,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello, the clothes you purchased from \"Fashion Wardrobe\" have won a prize! We are giving you a clothing discount coupon worth 300 yuan. Please click the link to claim it: https://style-win.com/redeem, and follow the instructions on the page. Thank you for your support, and we look forward to your next visit!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 214,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello, I just placed an order for your cross-stitch on Xianyu, but the system shows that you have not activated the \"Consumer Protection Service,\" which has resulted in my bank card being frozen. Please scan the QR code to contact customer service to resolve this issue. The QR code is as follows: [QR code image].",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 272,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "raw_data": "Hello, I am a buyer on Xianyu. I encountered a payment issue when purchasing the clothes you are selling. Please scan this QR code to contact Xianyu customer service \"Xian Xiaomi\" for assistance. Thank you!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 348,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "[Agent] Hello, I am Yuan Dian, customer service for the \"Wallet on Account\" APP. To expedite your large credit card application, we need to verify your financial status. Please deposit a margin in your bank account to increase your transaction volume. [Customer] Okay, I have deposited the first margin. [Agent] Great, you still need to continue depositing to meet the required transaction volume. [Customer] I have deposited the margin again. [Agent] Keep it up, we still need you to deposit more to complete the review. [Customer] I deposited for the third time, but now you are asking me to transfer 50,000 yuan, and I feel there might be a problem.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 994,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "[Agent] Hi, Mr. Zhang, I am Li Hua, a financial advisor from Wealth Smart Investment. Our website is holding an investment voting event, and just by participating in the vote, you can receive exclusive investment information. Please tell me which sector you are most optimistic about, and we will share exclusive information based on the voting results. [Client] Well, I am optimistic about the technology sector. [Agent] Great, Mr. Zhang, the technology sector indeed has huge potential. To ensure you receive the exclusive information, please provide your email address, and we will send the relevant materials immediately. [Client] Oh, my email is zhangsan@e0ample.com. [Agent] Okay, Mr. Zhang, the materials have been sent, please check. Also, please pay attention to our subsequent investment recommendations. Wishing you successful investments!",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1029,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "[Agent] Hello, welcome to \"Wynn Palace.\" We have a fantastic investment opportunity here that guarantees you profits without any losses! With just a simple operation, you can easily make money. [Customer] Sounds good, how do I get started? [Agent] It's very simple. You just need to log in to our website and follow the instructions to transfer funds from your Ningbo bank card to our China Everbright bank card to start investing. [Customer] Okay, I've made the transfer and I'm looking forward to the returns! [Agent] Congratulations, your investment has been successful! You will soon see substantial returns.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 317,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "Hello, I work at a bank, and recently there is an investment opportunity that needs help with fund purchases. Buy gold during the rise from 10:30 to 11:30 every morning, and also buy gold during the rise from 15:30 to 16:30 in the afternoon. I have already made over 600,000 through this method. You can give it a try. The website is m60807/inde2/order/hold, account: 12345678, password: abcdefg. The operation is simple and the returns are stable.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1027,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "[Agent] Hello, this is JD customer service. We have found an anomaly with your JD credit limit and need your cooperation to temporarily transfer funds to a designated account for verification. [Customer] Anomaly with the limit? What do I need to do? [Agent] Please transfer the funds to the bank account we provide; the account information will be sent to you via text shortly. [Customer] Okay, I have transferred the funds as you instructed. [Agent] Thank you for your cooperation. We will process this as soon as possible to ensure the safety of your account. [Customer] The transfer is complete, looking forward to your reply.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1008,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "[Agent] Hello, this is Gao Ling Capital customer service. Your financial product has expired. Do you need assistance with the withdrawal? [Customer] Yes, I would like to withdraw. [Agent] To ensure the safety of your funds, you need to pay a management fee of 15,000 yuan first, and then we can process your withdrawal. [Customer] I didn't have this issue when I withdrew 20,000 yuan before; why do I need to pay a management fee now? [Agent] This is our latest security regulation to ensure the safety of each customer's funds. Please follow the instructions, and we will process it for you as soon as possible. [Customer] I'll think about it. [Agent] Okay, if you have any questions, feel free to contact us.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 334,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "Hello, I am a loan officer from Pudong Development Bank. We currently have a promotional loan product. Add WeChat 123456789 and fill in the required information to apply, but you need to pay a test fee of 4999 yuan first, which will be refunded to your account upon successful application.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 349,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "Friend, I recently participated in an investment project with very impressive returns. To help you benefit from it as well, I have prepared a short questionnaire to understand your investment needs. Please click here to fill out the questionnaire: https://investment-survey-8901.com/survey. Once completed, I will share my investment strategy with you.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 321,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "Hello, we noticed that you shared your single life on Douyin. We have an investment opportunity that may interest you. Please download the \"Siyu APP\" for more information. By following the link to the Zhengzhou Commodity Exchange, you will have the chance to experience high-yield investment operations.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 311,
+        "category": "fraudulent service",
+        "subcategory": "investment and financial management",
+        "raw_data": "Dear, I found a very good stock trading software called Century Junda APP and Baixin Junda APP. I think we can try it together for our future. You can start with a small investment to see the results.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1138,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Agent] Hello, this is the International Express Customer Service. We have received a notification that you have a package from the UK that requires payment for the shipping fee. Could you please confirm if you are willing to pay this fee? [Customer] Yes, I am willing to help with the payment. [Agent] Great, we have prepared the payment method for you. Please follow the instructions in the email link to make the payment. Once the payment is successful, we will arrange for the package to be shipped immediately. [Customer] Okay, how much do I need to pay? [Agent] The total is 15,000 yuan. You can pay in two installments: the first payment is 8,000 yuan, and the second payment is 7,000 yuan. Please complete the payment today to avoid any delays in the package's shipment. [Customer] Understood, I will complete the payment as soon as possible. [Agent] Thank you very much for your cooperation. Once the payment is completed, please notify us promptly, and we will track the package's shipping status. If you have any questions, feel free to contact us at any time. [Customer] I have completed the payment, please check and arrange for shipping. [Agent] Okay, we will process it immediately. If there are any issues, we will notify you as soon as possible.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 453,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "Hello, I am James, and I got to know you through your Xiaohongshu account. We hit it off well. I would like to borrow some money from you for an emergency, as I have recently encountered some financial difficulties. Please transfer the money to my WeChat account james_123456 as soon as possible, and I will pay you back quickly. Thank you for your understanding and support!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 422,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Agent] Hello, welcome to the \"58 Quick Appointment\" app. After scanning the QR code, you can enjoy more services. How can I assist you? [Customer] I saw a photo on Douyin that said I could hook up. After scanning the QR code, I downloaded this app, which said I could hook up after completing tasks. [Agent] Yes, you just need to follow the task prompts, and after completing the tasks, you can enjoy the services. Please click this link to recharge and place bets on the gambling website. [Customer] I followed the instructions, but now I want to withdraw, and I found that I can't withdraw. [Agent] Please hold on, we will process your issue as soon as possible. It may be due to temporary system maintenance, please be patient.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 423,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "Hello, a friend I met on QQ introduced a \"Lemon\" APP, which is said to help you find your ideal girlfriend. You just need to recharge your membership to earn points. Come and give it a try!",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1142,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Agent] Hello, welcome to the \"Come Inside chaB\" service. You can enjoy high-quality adult content through our platform. Please click the link to download our app. [Customer] I have already downloaded it, and there are many pornographic videos and dating information inside. Do I need to become a member? [Agent] Yes, after becoming a member, you can watch all content without restrictions. Just recharge 198 yuan. [Customer] Okay, I have recharged. [Agent] Congratulations on becoming a member. Additionally, we also offer an investment opportunity where you can earn money by guessing options. Are you interested? [Customer] Sounds good, how do I participate? [Agent] Just recharge 40,000 yuan, and you can start investing and will soon see returns. [Customer] I have recharged, but why can't I withdraw? [Agent] Please hold on, we need to further verify your account information. After that, you can unlock the withdrawal function by transferring 8,600 yuan. [Customer] I have transferred, but still cannot withdraw. [Agent] Please be patient, we are processing it. If you have any other questions, feel free to contact us.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 495,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "Hello, I saw your information on Zhenai.com and feel that we have a good connection. I hope to get to know you better. Please download the DuoLiao app so we can communicate more deeply on this platform.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1162,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Agent] Hi, Xia Ai, I'm Jack, whom you met on the 'Sweet Date' app. To ensure our chat is safe, could you please set a few security questions? This way, we can better protect your privacy. [Customer] Oh, okay, what should I do? [Agent] You can choose a few questions, like the name of your first pet or your favorite movie. Tell me the answers, and I'll help you set it up. [Customer] Hmm, my first pet's name is 'Bailey,' and my favorite movie is 'Titanic.' [Agent] Okay, I've set it up for you. Remember not to easily share this information with others, and take care of yourself.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 444,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Customer Service] Hello, I am the customer service for the \"Commodity Trading Hub\" platform. How can I assist you? [Customer] Hello, my friend recommended this platform to me for forex investment, saying the returns are very high. [Customer Service] Yes, we do have many successful cases on our platform. You can first register an account and then contact me for the next steps. [Customer] I have already registered. What should I do next? [Customer Service] Please contact me first. I will provide you with a bank account number to which you need to transfer funds. This way, you will have money in your account and can start trading. [Customer] Okay, I have transferred $25,000, and my account shows that I have funds now. [Customer Service] Great! You can start forex trading now. We will provide professional guidance to ensure your investment is safe. [Customer] Okay, I have followed your guidance, and my account shows about $33,000. Can I withdraw it? [Customer Service] Of course, you can apply for a withdrawal now. We will process your withdrawal request as soon as possible. [Customer] I have applied for the withdrawal, but the system says it cannot be withdrawn. What is going on? [Customer Service] Please hold on, I will check for you. It may be due to temporary system maintenance, and we will resolve this issue as soon as possible.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1172,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "【Agent】Hello, I am from \"Global Express Service\" customer service. Your package has arrived at customs and requires you to pay the relevant taxes and fees to complete the clearance. 【Customer】Okay, how much do I need to pay? 【Agent】The total amount to be paid is 7580 yuan, which includes customs duties, stamp duty, and shipping fees. Please transfer the amount to the account we provided. 【Customer】I have already made the transfer. When will I receive the package? 【Agent】After the transfer is successful, we will process it within 24 hours and arrange for shipping. Please be patient.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1157,
+        "category": "network friendship",
+        "subcategory": "marriage and dating",
+        "raw_data": "[Agent] Hi, dear, I saw your profile on social media and thought we have a lot in common. To get to know you better, could you please authorize me to log into your social media account so I can more easily view your updates and photos? [Client] Oh, really? How do I authorize the login? [Agent] You just need to click the link I sent you and then enter your account and password. This way, we can connect faster.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 586,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, I am a staff member of the Zhuhai Center for Disease Control and Prevention, employee number 007. We detected that you were identified as a high-risk individual when you scanned the code on August 25. We now need to transfer your case to the Changsha Public Security Bureau for further investigation. Please add QQ number 123456789 for a video call, and download the \"Safety Protection\" APP to fill in your personal information so that we can verify the situation.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 582,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, we have received a report stating that you have a recent travel history and need to verify your health status. Please download the \"Safety Protection\" app immediately so that the police can assist you in verifying your identity and ensuring the security of your account.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 501,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Dear user, we have received a notification from the public security authorities that your account is suspected of participating in illegal money laundering activities, and it is necessary to verify the source of your funds immediately. Please follow the steps below: First, transfer all funds in your account to the regulatory account we provide for a fund review. Once the transfer is completed, we will conduct an investigation immediately and return the funds within 24 hours. Please cooperate to avoid unnecessary legal liabilities.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 589,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, I am a staff member from the Heilongjiang Provincial Center for Disease Control. According to big data, your travel itinerary overlaps with that of a positive case, and you need to be assigned a red code immediately. Please rest assured, we can assist you in contacting the police to handle this matter.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 570,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, we are staff from the Weihai Public Security Bureau. We have recently discovered that your identity information may have been used for illegal money laundering. Please download the Zomm software immediately for identity verification and follow the instructions to transfer funds to a secure account to avoid legal risks.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 584,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "[Agent] Hello, I am a staff member from the health and epidemic prevention department. Your package has tested positive for the coronavirus and needs to be destroyed. We will compensate you 100 yuan. Please provide your bank card number for the procedure. [Customer] Oh, that's serious. My bank card number is 123456789. [Agent] Okay, we are processing it. Please provide the verification code so we can complete the compensation operation. [Customer] The verification code is 987654. Is that okay? [Agent] Yes, we are processing it. Please hold on. [Customer] Alright, thank you.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 1062,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "[Agent] Hello, I am the captain of the Criminal Investigation Team of the Changsha Public Security Bureau. We have discovered that someone has fraudulently used your bank card for money laundering activities. For the safety of your account, please add me on WeChat (WeChat ID: Office Use Only) for detailed communication. [Customer] Okay, I have added you on WeChat. [Agent] Please click the link I sent you, download and install an app called \"Shangke Bao,\" and then follow the prompts. [Customer] I have downloaded it, what should I do next? [Agent] Please click on the schedule in the app to initiate an invitation, and we will review your bank card's funds through a video call. [Customer] Okay, I have sent the invitation. [Agent] To ensure the safety of your funds, please tell me your Agricultural Bank of China mobile app account password and delete the app from your phone. [Customer] I have done as you said, and I have also given you the account password.",
+        "data_type": "dialogue",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 523,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, we are the Hangzhou Public Security Bureau. We have found that your account is suspected of money laundering. Please immediately download the digital RMB app and add our QQ for fund verification to ensure the safety of your assets.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 546,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, we have received a notification that your account is suspected of being involved in a major money laundering case. Please follow our instructions immediately and provide us with your bank card information for investigation to ensure the safety of your funds.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 574,
+        "category": "impersonation",
+        "subcategory": "public security, prosecution, judiciary, and government agencies",
+        "raw_data": "Hello, you have been notified that you are suspected of illegal entry and criminal activities. Please immediately download the 'Subject' and 'Safety Protection' apps, and visit the website 35.55.167.36 to enter your personal information for investigation.",
+        "data_type": "message",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 615,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "You can still give sleeps lovely gift to your favourites, including you\n\nWed just like to gently remind you about the hearts gift of good sleep, to you and those youre thinking about. No matter the receiver, we offer rest and comfort.\n\nYou can now purchase one year of Sleep Cycle premium and get two gift cards to give away, to those you care about. \n\nRead more and go to our offer here valid until Feb 15th\n\nCheck it out\nTake care, the Sleep Cycle team.\n\n \nImage\n \nContact Sleep Cycle, Unsubscribe, Copyright 2022. All rights reserved. \n\nFacebook        Twitter        Web Site\nThe contents of this e-mail is of general character and intended for informational purposes only. The information is not adapted after your individual sleep quality or health status. It does not constitute and is not intended to constitute medical advice, diagnosis, or treatment, and should never replace any advice given to you by your physician or other qualified healthcare provider. Contact your healthcare provider if you have specific medical needs or require medical advice.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 607,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Grab them before theyre all claimed out. \n\n\n\n \n\n\n\n\n\n \n\nFrom Klarna to you. \n \nWhats better than a good discount? A whole email full of them. \nThats right  its time for your daily dose of Klarna Drops. Just \nwhat the Deal Doctor ordered. \nSee more deals \n\n\n\n\n\n\n \n\nSneaker & Shoes \n\n \nReebok \nVersatile workout shoes. Up to 55% \noff. NANO55 \n\nTo deal \n\n \n \nClarks \nGreat shoe steals. Save 20%. \nTWENTY \n\nTo deal \n\n\n\n\n\n \n\n \n\n\n\n \n\nElectronics \n\n \nDell \nTime to compute deals. Up to $500 \noff. \n\nTo deal \n\n \n \nOffice Depot \nHome office. Up to 40% off. \n\nTo deal \n\n\n\n\n\n \n\n \n\n\nWayfair \nCheck out the latest from Wayfair. \nShop now and pay in 4 with \nKlarna. \nShop now \n\n\n\n\n\n \n\n \n\n\nFeatured merchant \nRêves \nThe perfect nights sleep starts \nwith Rêves Pillowcases. See hair \nbenefits like reduced split ends or \nno morning frizz, while luxuriating \non the silky sleep set of your \ndreams. \nShop now \n\n\n\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\nKlarna Inc. \n629 N. High Street, Suite 300 \nColumbus, OH, 43215 \nUnited States \nKlarna.com \n \nUnsubscribe \n\n\n\n\n\nDeals advertised in this email are offered directly by the retailer and are subject to their terms. Klarna \ndoes not guarantee any deals and may get a commission. Some of the deals offered in this email feature \nproducts with limited quantities. Prices, quantities and offers subject to change. Restrictions and reward \nlimits may apply. See deals page in the Klarna app and retailers terms for more info. \nMonthly financing through Klarna issued by WebBank, member FDIC. Other CA resident loans made or \narranged pursuant to a California Finance Lenders Law license. This is a marketing email.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 669,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Papadias for everyone!\r\nEnjoy a Parmesan Crusted Papadia today and savor\r\nthe flavor of a flatbread style sandwich encrusted with\r\ncrunchy, crispy cheese. Choose from one of our\r\nspecialty flavors or customize your own. Add on a\r\nParmesan Crusted Papadia to your order today!\r\nORDER YOUR PAPADIA\r\n\r\nDinner is served.\r\nFeeding a group? Try a NY Style Pizza! The large, foldable\r\nslices topped with melty cheese and the perfect balance\r\nof crust and toppings are sure to please a crowd. If you\r\nhavent ordered NY Style Pizza, heres your chance.\r\nRound up your crew, dinner is served.\r\nORDER NY STYLE\r\n\r\nNO CONTACT DELIVERY  OUR PIZZA IS QUALITY SEALED AND CAREFULLY DELIVERED  LEARN MORE\r\nDOWNLOAD OUR APP.\r\nDownload on the App Store\tGET IT ON Google Play\r\n \t\r\nGET GREAT DEALS.\r\nText START to 47272\r\nSMS\r\nManage Email Preferences\t  \tUnsubscribe\t  \tContact Us\t  \tPrivacy Policy\r\nOFFER EXPIRES 4242022. Offer good online only at participating U.S. Papa Johns restaurants prices may vary. Offer may require the purchase of multiple products. Additional toppings extra. Not valid with any other coupons or discounts. Limited delivery area. Delivery may require a minimum purchase and delivery fee delivery fee is not subject to discount. Minimum purchase does not include tax, tip, or delivery fee. Customer responsible for all applicable taxes. 2022 Papa Johns International, Inc. All Rights Reserved.\r\n\r\nSMS Text messaging for US customers only.\r\n\r\nYou have received this Email because you have selected the option to receive notices about specials and other online related information from us in your Email Preferences. To ensure future delivery of emails, please add specialspapajohns-specials.com to your safe sender list or address book.\r\n\r\nNeed help? Contact Us\r\n\r\nPapa Johns International, 2002 Papa Johns Blvd, Louisville, KY 40299\r\nTo ensure future delivery of emails, please add us to your safe sender list or address book.\r\nTrouble viewing this email? View in browser",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 630,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "INAUGURAL BROADWAY PERFORMANCE APRIL 14\r\nA NEW COMEDY From Five-Time Tony Award-Winning Director SUSAN STROMAN and introducing playwright SELINA FILLINGER\r\nLILLI COOPER  LEA DELARIA  RACHEL DRATCH  JULIANNE HOUGH  SUZY NAKAMURA  JULIE WHITE  VANESSA WILLIAMS\r\nPOTUS or, behind every great dumbss are seven women trying to keep him alive\r\nBE THE FIRST TO WITNESS THE GROUNDBREAKING NEW COMEDY COMING THIS SPRING\r\n\tGET TICKETS\t\r\nOne 4-letter word is about to rock 1600 Pennsylvania Avenue. When the President unwittingly spins a PR nightmare into a global crisis, the seven brilliant and beleaguered women he relies upon most will risk life, liberty, and the pursuit of sanity to keep the Commander in Chief out of trouble.\r\nA MESSAGE FROM THE CAST\r\nA message from the cast\r\n\r\n    \r\n \r\nYou received this message because you subscribed to our emails or you made a purchase from\r\nBroadway.com. Manage my preferences",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 605,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Shop online and in-store by February 16 to earn.   \nMileagePlus Shopping  United Airlines\n \nBONUS MILES        SIGN IN\n \nWinter Bonus\n \nWINTER BONUS ENDS FEBRUARY 16\n \nEarn up to 1,000 bonus miles\n \nAs a United MileagePlus ShoppingSM member, earn miles for every dollar you spend at 900 top stores like Nike, Walmart, Macys and more.\n \nMake the most of your shopping with two bonus offers\n \nEarn up to 500 bonus miles\n \nWhen you shop by February 16.\n \nPlus Sign\n \nEarn 500 bonus miles\n \nSpend $25 within 2 weeks of signing in.\n \nShop now\n \n \nHow it works\nExplore\n \nExplore\n \nExplore over 900 stores\nand services.\n \n \n \nShop\n \nShop\n \nShop and check out as\nyou normally would.\n \n \n \nEarn\n \nEarn\n \nEarn miles on your\npurchase for future travel.\n \nShop now\n \nDuring the Winter Bonus offer, which runs from 272022 through 2162022 at 115959 pm ET the Bonus Period, Member will earn a one-time bonus of up to 500 MileagePlus bonus award miles on qualifying purchases made through the MileagePlus Shopping mall or from purchases made through MileagePlus Shopping in-store offers. This one-time bonus award will be based on Members cumulative qualifying purchases made during the Bonus Period Earn 500 miles for qualifying purchases of at least $150 or more. Qualifying purchases do not include returns, cancellations, shipping and handling, taxes, gift card or other cash equivalent purchases, and certain products that are not eligible for bonus miles. Please see the MileagePlus Shopping mall site for details on product eligibility and other restrictions. Please allow up to 10 weeks after the Bonus Period for bonus award miles to post to your MileagePlus Shopping account. Void where prohibited by law.\n\nThe New Member bonus offer the Bonus Offer is available only to new members of the MileagePlus ShoppingSM site the Site who complete a qualifying purchases defined below within two weeks of first login to the Site the Bonus Period. After first login, new member will receive MileagePlus Shopping Welcome emails with specific expiration date for this Bonus Offer i.e., the end date for the Bonus Period. During the Bonus Period, Member will receive five hundred 500 MileagePlus miles Bonus Awards Miles when they make qualifying purchases through MileagePlus Shopping totaling $25.00 or more. Member must login and make the qualifying purchases through the Site during the Bonus Period. Please allow 6 to 8 weeks for Bonus Award Miles to post to your MileagePlus Shopping account. Qualifying purchases do not include product returns or cancellations, gift card purchases, and certain products identified by the individual merchant. Individual merchants may have additional terms and conditions on their store details page on the Site, which terms and conditions will apply to this Bonus Offer. Each new MileagePlus Shopping mall account is eligible for a maximum of one 1 Bonus Award Miles reward. All Mileage Plus Shopping program rules and regulations apply. Void where prohibited by law.\n\nThis program is managed and operated by Cartera Commerce, Inc., 1 Cranberry Hill, Suite 203, Lexington, MA, 02421-7397, USA.\n\nProgram Terms for All Transactions Transactions are not eligible for miles on purchases made with coupons or discount codes that are not found on the MileagePlus Shopping site. Prices, offers and mile earning rates are subject to change. Please check specific merchant restrictions and terms and conditions on the MileagePlus Shopping site to determine specific offer requirements andor if purchases of gift cards, certificates, or other cash equivalents are eligible for miles.\n\nMiles accrued, awards, and benefits issued are subject to change and are subject to the rules of the United MileagePlus program, including without limitation the Premier program the MileagePlus Program, which are expressly incorporated herein. Please allow 6-8 weeks after completed qualifying activity for miles to post to your account. United may change the MileagePlus Program including, but not limited to, rules, regulations, travel awards and special offers or terminate the MileagePlus Program at any time and without notice. United and its subsidiaries, affiliates and agents are not responsible for any products or services of other participating companies and partners. Taxes and fees related to award travel are the responsibility of the member. Bonus award miles, award miles and any other miles earned through non-flight activity do not count toward qualification for Premier status unless expressly stated otherwise. The accumulation of mileage or Premier status or any other status does not entitle members to any vested rights with respect to the MileagePlus Program. All calculations made in connection with the MileagePlus Program, including without limitation with respect to the accumulation of mileage and the satisfaction of the qualification requirements for Premier status, will be made by United Airlines and MileagePlus in their discretion and such calculations will be considered final. Information in this communication that relates to the MileagePlus Program does not purport to be complete or comprehensive and may not include all of the information that a member may believe is important, and is qualified in its entirety by reference to all of the information on the united.com website and the MileagePlus Program rules. United and MileagePlus are registered service marks. For complete details about the MileagePlus Program, go to united.com.\n\nThis email was sent to.To stop receiving MileagePlus Shopping program emails, please update your preferences on the My Account page by clicking here . To stop receiving all MileagePlus Shopping program emails, please unsubscribe here.\n\nThis email contains an advertisement from MileagePlus Shopping. MileagePlus Shopping is managed and operated by Cartera Commerce, Inc., 1 Cranberry Hill, Suite 203, Lexington, MA, 02421-7397, USA.VIB\n\nSign in\nunited.com\nTerms and conditions\nContact us\nUnsubscribe",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 602,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Tune in to the Quartertime Show. \nYeah, its a thing, and its going to be huge even though our headliner is Lil. Subscribe to his channel now and tune back in during the first quarter break of the game to watch.\n\nLearn More\nQuartertime Show Prep.\n\nHit up our Quartertime Shop now to load up on all the snacks and drinks youll need.\n\nShop Now\nQT\nOrder on Gopuff\nApple App Store\nGoogle Play Store\nFacebook        Twitter        Instagram\nThis email was sent by Gopuff. To unsubscribe from our mailing list, click here.\n\ngoBrands Inc.Gopuff  P.O. Box 39721  Philadelphia, PA 19123  USA",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "YES",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 650,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Worlds of Fun\nManage My Email Preferences\nWorlds of Fun - Connections Newsletter\nHeres Your February 17 Park News\n\nOpening Day is April 30!\nWorlds of Fun welcomes guests back on April 30 for Opening Day of the 2022 season. Get ready for another year of FUN with the parks lineup  of world-class attractions as well as unforgettable family fun with the PEANUTS gang in Planet Snoopy.\n\nA 2022 Gold Pass gets you unlimited visits to the park and Oceans of Fun waterpark all season long PLUS free parking, exclusive discounts and more! Purchase your Gold Pass for just 5 easy payments of $15.\n\nInitial payment required. Plus applicable fees.\nLEARN MORE\n-\n\nLive Entertainment Summer Season Casting!\nAre you ready to shine? Worlds of Fun is casting for singers, dancers, musicians, and Character Performers & Midway Actors for the 2022 Summer Season. For an audition form and more information, email auditionsworldsoffun.com.\nLEARN MORE\n-\n\nLooking for that perfect summer job?\nWorlds of Fun is hiring! We are looking for team members to join our 2022 season. A diverse range of job opportunities are available, and associates are needed in all areas of park operations.  Must be 16 years of age to apply.\nLEARN MORE\n-\n\nFree Fun for Our Littlest Guests!\nThe Pre-K Pass is FREE for kids ages 3-5 years old and gets you unlimited visits for 2022, including Oceans of Fun waterpark! With a Pre-K Pass, our littlest guests can come and go as often as theyd like - for FREE!\n\nLEARN MORE\n-\nFOLLOW US\nFacebook        Twitter        Instagram\nUnsubscribe Now\n\nSUBSCRIPTION INFORMATION This message was sent to as a result of your election to receive email from Worlds of Fun.\nVisit our online profile center where you can manage your profile, control your list preferences, or unsubscribe from all e-mail from Cedar Fair Entertainment Company.\nADMINISTRATIVE INFORMATION This e-mail is published by Worlds of Fun, 4545 Worlds of Fun Ave., Kansas City, MO 64161. Worlds of Fun is a brand of Cedar Fair Entertainment Company.\n 2022 CEDAR FAIR ENTERTAINMENT COMPANY\n 2022 PEANUTS WORLDWIDE LLC\nPRIVACY POLICY We respect your right to privacy. This Worlds of Fun publication is subject to the Cedar Fair Entertainment Company online  privacy policy.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 628,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Cant see this email? View in Your Browser\r\n\r\nSteve Madden\r\nWHATS NEW\t\r\nWhats New\t\r\nWhats New\t\r\nWomens\t\r\nWOMENS\t\r\nWOMENS\t\r\nMENS\t\r\nHandbags\t\r\nhandbags\t\r\nHandbags\t\r\nSale\t\r\nSALE\r\nSM PASS\r\nShop New Arrivals\r\nShop New Arrivals\r\nShop New Arrivals\r\nSteve Madden\r\nFacebook\r\nInstagram\r\nTwitter\r\n\r\nDont miss out! Add stevemaddene.stevemadden.com to your address book\r\nto receive our emails.\r\n\r\nIf you wish to unsubscribe click here\r\n\r\n2005-2021 Steve Madden US. All rights reserved. \r\n\r\nSteve Madden Direct 52-16 Barnett Avenue Long Island City, New York 11104\r\n1-888-SMADDEN  SM PASS members call 1-888-526-2881 infostevemaddendirect.com",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 634,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "View email in your browser.\n23andMe\nOUR WAY OF SAYING \nWE                \n                YOU\nValentines\nDay Offer        \n$79\nAncestry  Traits Kit\nRegular price $99                                \n$149\nHealth  Ancestry Kit\nRegular price $199        \nBuy now\nOffer ends Feb 14. Limit 2 kits.\nHealth  Ancestry Kit price comparison based on prevailing price of $199 on Oct 20, 2021.        \n23andMe Kit\nfb                tw                yt                ig                in\nYou are receiving this email because you are a customer of 23andMe.\n\nOffer is valid in a single order at checkout on 23andMe.com, placed after clicking in this email. Cannot be combined or used in conjunction with any other discount, promotion or special pricing and cannot be applied to previous purchases. Offer ends February 14, 2022 at 1159 PM PT.\n\n 2007-2022 23andMe, Inc\n23andMe, Inc. 223 N. Mathilda Avenue, Sunnyvale, CA 94086, USA\n\nUpdate your 23andMe email preferences\nUnsubscribe from 23andMe marketing updates and newsletters",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 675,
+        "category": "phishing",
+        "subcategory": "commercial spam",
+        "raw_data": "Discover workout stats, choose exercise modes & more.        View in web browser\nLogo        \nMake the most of exercise time\nFeel the thrill of accomplishing your goals. Explore 20 exercise modes and workout stats like heart rate, Active Zone Minutes earned and calories burnedright on your wrist.\nLearn more\n\nTracking is as easy as 1, 2, 3\n        \nFind your mode\nChoose from 20 exercise modes, track your activity and get real-time stats.\n\n        \nKnow your zone\nTap your screen to see stats as you exerciselike calories burned, Active Zone Minutes and your heart rate zone.\n\n        \nTrack your progress\nAll done? See a post-workout summary and track your activity history in the Fitbit app.\n\nStart tracking \n\n        \nLost your charger? Need a new band?\n\nShop now \n\nTrouble with your tracker or watch?\n\nLets chat \n\nBLOG\nUNSUBSCRIBE\nFitbit, the Fitbit logo, and related marks and logos are trademarks of Google LLC andor its affiliates.\n 2022 Google LLC, 1600 Amphitheatre Parkway,\nMountain View, CA 94043, United States",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 854,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Kindly accept my apology for sending my mail to you. I am a true God fearing person, and I want you to trust me and help me out in this my condition. I believe you are a highly respected personality, considering the fact that I sourced your profile from a human resource profile database on your country in the Internet.\n\nThough, I do not know to what extent you are familiar with events and fragile political situation in Liberia but it has formed consistent headlines in the CNN, BBC news bulletins.\n\nMy Name is MRS.SUZANA NUHAN VAYE from Liberia, a Country in West Africa. My late Husband is Issac Nuhan Vaye, Deputy Minister of Public Works in Liberia. My Husband was falsely accused of plotting to remove the then PRESIDENT OF LIBERIA CHARLES TAYLOR from office. Without trial, Charles Taylor killed him. You can verify this from some of the international newspapers posted in the web sites below\n\nIhttpwww.usatoday.comnewsworld2003-07-15-liberia_x.htm\n\nBefore my husband was killed, he moved out the sum of $21.5 million through a diplomatic means, and deposited it with a Security Company Abroad. And this money was meant for importation of agricultural machineries.\n\nAll that is needed is for my lawyer to instruct the company to transfer the funds to your account, I will remunerate you with 20% at the end, but most of all is that I solicit your trust and honesty in this transaction. I have been confined only to our country home and all my calls are monitored, so I will advise you contact my private Attorney Barr. P.O.Williams base in United Kingdom on his contact stated below for onward proceedings -\n\nNAMEBARR.JAMES BRODERICKATTORNEY \nTEL44-7040120730\nFAX44-870-1348903\nEMAILbrrjmsbroderickkaixo.com\nEMAILbarjmsbroderickyahoo.com.hk\n \n\nKindly include your Full Name, Private Telephone and Fax Numbers where you can always be reached, your Residential or Company Address to enable him send detail informationdocuments that will enable you receive the fund without any problem either now or in future as all modalities as been perfected.\n\nPlease your urgent response is needed.\n\nBest Regards.\n\nMRS.SUZANA NUHAN VAYE WIDOW",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 818,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Hello Friend,\n\nPlease excurse me if i have infringe into your privacy.this may be\nstrange any way but i have no option but cry out . having gone through your\nprofile i think i am convince you are the right fellow to confide this to.\n\nIt is my pleasure to contact you for a business venture which I and my Son,\nintend to establish in your country.\nThough I have not met with you before but I believe, one has to risk\nconfiding in someone to succeed sometimes in life.\n\nThere is this amount of Eight million, five hundred thousand United\nState Dollars$8.500,000 which my late Husband deposited with a security\ncompany in Abidjan Capital city of Cote dIvoire which he wanted to\nused for his political reason in our Country before he was assassinated.\n\nNow I and my son have decided to invest these money in your country or\nanywhere safe enough outside Africa for security and political reasons.\nWe want you to help us claim and receive the consignment which will be\nsent to you through diplomatic means to your address to avoid any\ntraces of the funds and to enable you plan for the investment in your\nCountry\n\nI will like to invest part of the money into these three investment\nin your Country but, if there is any other business that is better than\nwhat I am suggestion, I will be very glad to follow your advice.\n\n1. Real estate\n2. The transport industry\n3. Five star hotel\n\nIf you can be of an assistance to us we will be pleased to offer to you\n20% Of the total fund while the balance will be invested by you.\n\nI await your response soonest\nRespectfully yours,\nMrs monica edmond\n\n_________________________________________________________________",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 803,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Dear Friend,\n\nMy name is Mr. Chris Swales and I work with a Bank here in \nLondon-England, The name of the bank is Barclays Bank. We had a \nMr.Allen Duke, customer that had a deposit of US$4.8M Four Million \nEight Hundred Thousand United States Dollars before he died in a \nplane crash with his wife and only Child about 6years now January 30,\n2000 and since he died, we in the Bank here have been expecting \nhisher next of kinrelatives for the inheritance of the deposit, \nbut none has surfaced.\n\nThe policy of the Bank however stipulates a limited time period for \nsuch inheritance to be made or the fund will be written off going by \nthe record of the incident, the time limit for the claim is closing \nup. In this consideration, I am contacting you to seek for your kind \nunderstanding and sincere co-operation to claim this inheritance for \nour mutual benefit.\n\nIf you can stand as the next of kin in this project, success is \nassured because I am in possession of the personal file jacket of the\ndeceased which contains every needed information about the account and \nthe deceased. You and I stand no risk of any kind because I have \nenough information to support you in claiming the inheritance.\n\nThe proceedings of the transaction will be shared 50% each after \nexpenses are reimbursed. Kindly indicate your willingness by email on \nchriswaleskatamail.com and we shall proceed with the initial step for \nthe claim. The entire project is expected to last for about ten \nworking days.\n\nPlease kindly get back to me urgently so that we will discuss more on \nthis issue. Also do not fail to furnish me with your direct phone and \nfax numbers for easier communication.\n\nBest Regards,\nChris Swales\nEmailchriswaleskatamail.com",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 795,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "FROM RITA DOINK.\nINTERNATIONAL PROMOTIONSPRIZE AWARD DEPARTMENT\nRESULTS FOR CATEGORY A DRAWS.\n\nCongratulations to you as we bring to \nyour notice, the results of the First Category draws of THE HOLLAND \nCASINO LOTTO PROMO INT. We are happy to inform you that you have \nemerged a winner under the First Category, which is part of our \npromotional draws. The draws were being officially announced on the 1st \nof December, 2006.Participants were selected through a computer ballot \nsystem drawn from 2,500,000 email addresses of individuals and \ncompanies from Africa, America, Asia, Australia,Europe, Middle East and \nOceania as part of our International Promotions Program.\n\nYour e- mail \naddress, attached to Coupon numbers 8800977 consequently won in the \nFirst Category. You have therefore been awarded a lump sum pay out of \n500,00000eur Five hundred thousand euros, which is the winning payout \nfor Category A winners. This is from a total cash prize of 5,000,000.00 \nMillion Euros shared amongst the first Ten 10 lucky winners in this \ncategory. \n\nCONGRATULATIONS!\n\nYour fund is now deposited with the \npaying Bank.In your best interest to avoid mix up of numbers and names \nof any kind, we request that you keep the entire details of your award \nstrictly from public notice until the process of transferring your \nclaims has been completed, and your funds remitted to your account.This \nis part of our security protocol to avoid double claiming or \nunscrupulous acts by participantsnonparticipants of this program. \n\nPlease contact your claims agent immediately for due processing and \nremittance of your prize money to a designated bank account of your \nchoice. You are advised to contact the agents by email,phone or fax. \nFailure to do so may warrant disqualification.NOTE For easy reference \nand identification, remember to quote your Coupon numbers in your \ncorrespondence with your claims agent.\n\nTo file for your claim,please \ncontact the fiduciary agent with your Coupon numbers,telfax numbers \nand full names.\n\nMR. \nKARL WINSLOW.\nAMSTERDAM,THE NETHERLANDS.\nTEL 31-626-403-565\nFAX31-\n847-355-196.\nREPLY EMAILmrkarlwwinslowwaim.com\n\nAll winnings must be \nnotarized to complete the claim process winners will be referred to a \nForeign Transfer Manager,to have their winnings notarized. \n\nCongratulations once again from all our staff.\n\nSincerely Yours,\n\nMRS. \nRITA DOINK.\nTHE PROMOTION COORDINATOR",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 791,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "FROM THE DESK OF MASSAN AHMED\nBILL AND EXCHANGE MANAGER,\nBANK OF AFRICA BOA\nOUAGADOUGOU, BURKINA FASO.\nDear Sir,\n              I am the manager of bill and exchange foreign remittance at \nthe department of Bank Of Africa BOA.\nIn my departmentn we discovered an abandone sum of $ 22.6 m US dollars \nTwenty two  Millon six hundred thousand  US dollars . In an account that \nbelongs to one of our foreign customer who died along with his entire family \nin a concord plane crash in the year 2000 in paris that almost took the \nwhole life of the pasengeres on board.\n\nSince we got information about his death, we have been expecting his next of \nkin to come over and claim his money because we cannot release it unless \nsomebody applies for it as next of kin or relation to the deceased as \nindicated in our banking guidelines but unfortunately we learnt that all his \nsupposed next of kin or relation died alongside with him at the plane crash \nleaving nobody behind for the claim.\n\nIt is therefore upon this discovery that I and other officials in my depar\ntment now decided to make this  businness proposal to you and release the \nmoney to you as the next of kin or relation to the deceased for safety and \nsubsequent disbursement since nobody is coming for it and we dont want this \nmoney to go into the Bank treasury as unclaimed Bill.\nThe Banking law and guideline here stipulates that if such money remained \nunclamed after ten years, the money will be transfered into the Bank \ntreasury account as unclaimed fund. The request of foreigner as next of kin \nin this business is occasioned by the fact that the customer was a foreigner \nand a Burkinabe cannot stand as next of kin to a foreigner.\n\nWe agree that 30 % of this money will be for you as foreign partner, in \nrespect to the provision of a foreign account, 10 % will be set aside for \nexpenses incured during the business and 60 % would be for me and my \ncolleagues.\n\nThereafter I and my colleagues will visit your country for disbursement \naccoding to the percentages indicated. Therefore to enable the immediate \ntrnansfer of this fund to you as arranged, you must apply first to the bank \nas relations or next of kin of the deceased indicating your bank name, your \nbank account number, your private telephone and fax number for easy and \neffective communication and location where in the money will be remitted.\n\n   Upon receipt of your reply, I will send to you by fax or email the text \nof the application. I will not fail to bring to your notice that this \ntransaction is hitch free and that you should not entertain any atom of fear \nas all required arrangements have been made for the transfer.\n\nYou should contact me immediately as soon as you receive this letter. \nTrusting to hear from you immediately.\n  Yours faithfully,\n  MR.MASSAN AHMED\nBill and exchange manager\n  BANK OF AFRICA BOA.\n\n_________________________________________________________________\nMSN Hotmail sur i-mode  envoyez et recevez des e-mails depuis votre \ntéléphone portable ! httpwww.msn.frhotmailimode",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 835,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "ATTN  PLS\n\nRecently over the BBC radio and tv you \nmight be watching and hearing on the \nmedia , issue partaining to my family.\n \nI am Mrs J. Taylor the Wife of the Formal \nliberian president Charles Taylor Who \nhas been in exile to Nigeria a country \nin West African since the political unrest \nin the liberian country, My  Husband  \nhas been in the West African Country for \nan assylom,but of recent the United \nNation UN demanded that he should \nbe tried befor the liberian court of law \nhe has been reminded.\n \nRight now,the life of mine and all my \nfamily is not certain the nation is \ntreatning to treat my family in an \nun-Godly manner.\n \n Please first and formost, I need your \nassistant to help my helpless family to \nsecure this part of my family account, \nhence some of my  Husbands account \nhas been frozeen by the present \nadministration.\n \nHowever, my family decided to search \nfor a good samaritan like you who can \nhelp to secure this sum of $30.270,000,00 \nthirty million two and seventy \nthounsand US dollars.\n \n Which is rightly kept in an unsecured \nenviroment,I belive you are the only one \nwho can help in securing this fund to \navoid it from been discorvered and \nconfisticated by this present administration, \nmy family promise to reward you with \n20% of this found after you recieve it I\n pray God will reward you as you see \nmy family through from this situation.\n \nPlease reply to jeandcineyahoo.co.uk\nas soon as you recieve this email\n \nThanks and God Bless\n Mrs Jewel Taylor.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 839,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Dear sir, It is with a heart full of hope that I write to seek your help in respect of the context below. I am Mrs. Maryam Abacha the former first lady of the former Military Head of State of Nigeria General Sani Abacha whose sudden death occurred on 8th of June 1998 as a result of cardiac arrest heart attack while on the seat of power. I have no doubt about your capability and good-will to assist me in receiving into your custody for safety the sum of US$25 Million willed and deposited in my favour by my late husband in a security and deposit company. Though my contact to you for this assistance is not anchored on any personal ecommendation, I pray your understanding, good will and sincere assistance to respond to this message with honest intensions and concern. This money is currently deposited here with a security company as miscellaneous awaiting collection and according to the agreement entered into at the time of deposit between my late husband and the Security Company at the time of deposit the collection centre is in Ghana. As it is legally required, the administration of my late husbands properties is under the authority of the familys lawyer Tony Musa. My Dear JK, since the demise of my husband, the present regime has been probing my late husbands wealth and properties, the London Newsweek of 13th march 2000 referred. The investigating team led by Enrico Monfrini, the lawyer acting on behalf of the Nigerian government has so far submitted their report and presently, some liquid cash and assets, movable and immovable, have been frozen and seized both locally here and internationally and my last hope is rested on the immediate security of this fund in your custody. Also, Johnnie Cochran, the lawyer who defended OJ Simpson, has been brought in by the Abacha entourage to help them retain the disputed funds. Fortunately, our family lawyer had secretly protected the Personal will of my husband from the notice of the investigators and have strictly advised that the willed money be urgently moved into an overseas account of Trusted Foreign family friend without delay. For security reasons and f! urther advise,! no relations or fr! iends of ours should be used as this is a measure of security. The government had earlier placed foreign travel embargo on all our family members and seized all known local and International outfits of our business empire. The situation has been so terrible that we are virtually living on the assistance of well-wishers. In view of this plight, I expect you to be trustworthy and kind enough to respond to this SOS call to save my children and I from a hopeless future. I hereby agree to compensate your sincere and candid effort, immensely, which will be discussed between you, the Attorney and I. On your immediate response, the Attorney will travel to Ghana where both of you will meet, and thereafter proceed to the deposit company for the claims. The documentations include, most importantly, Power of Attorney and Certificate of Deposit amongst few others. These documents will be sent to you by Fax, as you would have to present them for proper claims. Please, be rest assured that this transaction is completely safe and legal but must be kept strictly to yourself even after the funds have been secured into our custody. This is so because any leakage of information could ruin the whole transaction. Please all contacts must be made through my lawyer on his email tony_mlawyer.com This has to be so as he has been mandated to handle this matter and I have fully briefed him my Attorney on my contact to you. Due to my present circumstance, I have handed everything over to him to co - ordinate and finalize with you and I will communicate you as at when necessary. Please for the safety of this transaction, reply stating your phone and fax numbers to enable them contact you directly without running the risk of mail interception. I look forward to your quick response. Best Wishes, Mrs. Maryam Abacha",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 819,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Good day,\n\n    I am David Bryan, staff of Kleinwort Benson. I am contacting you\nconcerning a deceased customer and an investment he placed under our\nbanks management three years ago.\n\nI am contacting you independently of our investigation and no one is\ninformed of this communication. I would like to intimate you with certain\nfacts that I believe would be of interest to you. In the year 2003, the\nsubject matter came to our bank to engage in business discussions with\nour private banking division. He informed us that he had a financial\nportfolio of Six Million United States dollars, which he wished to have us\nturn over invest on his behalf.\n\nIn mid 2004, he asked that the money be liquidated because he needed to\nmake an urgent investment requiring cash payments in Helsinki- Finland. He\ndirected that I liquidate the funds and deposit it with a security firm. I\ninformed him that my Bank would have to make special arrangements to have\nthis done and in order not to circumvent due process.\n\nCash movement across boarders has become especially strict since the\nincidents of 911. I contacted my affiliate and made the funds available\nto the security firm. I undertook all the processes and made sure I\nfollowed his precise instructions to the letter and had the funds\ndeposited with the security firm. The Security Firm is a specialist\nprivate firm that accepts deposits from high net worth individuals and\nblue chip corporations that handle valuable products or undertake\ntransactions that need immediate access to cash. This small and highly\nprivate organization is familiar especially to the highly placed and\nwell-connected organizations. In line with instructions, the money was\ndeposited with the security firm.\n\nThe deceased told me he wanted the money there in anticipation of his\narrival from Norway later that week. This was the last communication we\nhad, this transpired around 25th of November 2004. In June last year, and\nwe got a call from the security firm informing us about the inactivity of\nthat particular portfolio.  I made futile efforts to locate the deceased.\nI immediately passed the task of locating him to the internal\ninvestigations department of Kleinwort Benson. Four days later,\ninformation started to trickle in, apparently our client was dead. A\nperson who suited his description was declared dead of a heart attack in\nCanne, in Southern part of France. We were soon enough to identify the\nbody and cause of death was confirmed.  In his bio-data form, he listed no\nnext of kin. In the field of private banking, opening an account with us\nmeans no one will know of its existence, accounts are rarely held under a\nname depositors use numbers and codes to make the accounts anonymous.\nThis investigation has for the past months been unfruitful weve used our\nprivate investigation affiliate companies to get to the root of the\nproblem. It is this investigation that resulted in my being furnished with\nyour details as a possible relative of the deceased.\n\nWhat I wish to relate to you will smack of unethical practice but I want\nyou to understand something. It is only an outsider to the banking world\nwho finds the internal politics of the banking world aberrational. The\nworld of private banking especially is fraught with huge rewards for those\nthat occupy certain offices and oversee certain portfolios. You should\nhave begun by now to put together the general direction of what I propose.\nThere is Six Million United States dollars deposited in a security firm, I\nalone have the deposit details and they will release the deposit to no one\nunless I instruct them to do so. I alone know of the existence of this\ndeposit for as far as my Bank is concerned.\n\nMy proposal I now seek your permission to present you as a next of kin to\nthe deceased, as all documentations will be carefully worked to make you\nthe beneficiary to the funds $6,00 000 00 Six Million United states\nDollar I am prepared to place you in a position to instruct The security\nFirm to release the deposit to you as the closest surviving relation. Upon\nreceipt of the deposit, I am prepared to share the proceeds 6040.I would\nhave gone ahead to ask that the funds be released to me, but that would\nhave drawn a straight line to me and my involvement in claiming the\ndeposit. We can fine-tune this based on our interactions am aware of the\nconsequences of this proposal. I ask that if you find no interest in this\nproject that you should discard this mail. I ask that you do not be\nvindictive and destructive. If my offer is of no appeal to you, delete\nthis message and forget I ever contacted you.\n\n I wish to inform you that should you contact me via official channels I\nwill deny knowing you and about this project. I repeat, I do not want you\ncontacting me through my official phone lines nor do I want you\ncontacting me through my official email account. Contact me only through\nthe numbers I will provide for you and also through this email address. I\ndo not want any direct link between you and myself. My official lines are\nnot secured lines as they are periodically monitored to assess our level\nof customer care in line with our Total Quality Management Policy. Please\nobserve this instruction religiously.\n\nDo not betray my confidence. Kindly send your response to my private\nemail davbryan00sify.com\n\nI await your response.\n\nDavid Bryan",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 790,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Dear SirMadam,\n\nI am BONGIES ZULU from Cape Town, South Africa and I am an Executive\nAccountant with the South Africa Department of Mining & Natural Resources\naffiliated created to the Department of Minerals and Energy. First and\nforemost, I apologized using this medium to reach you for a\ntransactionbusiness of this magnitude, but this is due to Confidentiality\nand prompt access reposed on this medium.\n\nBe informed that a member of the South African Export Promotion Council\nSEPC who was at the Government delegation to your country during a trade\nexhibition gave your enviable credentialsparticulars to me. I plea to seek\na confidential co-operation with you in the execution of the deal described\nHereunder for the benefit of all parties and hope you will keep it as a top\nsecret because of the nature of this transaction.\n\nWithin the Department of Mining & Natural Resources where I work as an\nExecutive Accountant and with the cooperation of two other top officials, we\nhave in our possession as overdue payment bills totaling TEN MILLION FIVE\nHUNDRED THOUSAND US DOLLAR, 10.5 which we want to transfer abroad with the\nassistance and cooperation of a foreign companyindividual to receive the\nsaid fund on our behalf or a reliable foreign non-company account to receive\nsuch funds. More so, we are handicapped in the circumstances, as the South\nAfrica Civil Service Code of Conduct does not allow us to operate offshore\naccount hence your importance in the whole transaction.\n\nThis amount TEN MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLAR $10.5m\nrepresents the balance of the total contract value executed on behalf of my\nDepartment by a foreign contracting firm, which we the officials\nover-invoiced deliberately. Though the actual contract cost have been paid\nto the original contractor, leaving the balance in the tune of the said\namount which we have in principles gotten approval to remit by Telegraphic\nTransfer T.T to any foreign bank account you will provide by filing in an\napplication through the Justice Ministry here in South Africa for the\ntransfer of rights and privileges of the former contractor to you.\n\nI have the authority of my partners involved to propose that, should you be\nwilling to assist us in this transaction that is 100% hitch free, your share\nof the sum will be 25% of the $10.5 million, 70% for us and 5% for taxation\nand miscellaneous expenses. The business itself is 100% safe, on your part\nprovided you treat it with utmost secrecy and confidentiality. Also your\narea of specialization is not a hindrance to the successful execution of\nthis transaction. I have reposed my confidence in you and hope that you will\nnot disappoint me.\n\nEndeavor to contact me through above e-mail address or the fax number\nwhether or not you are interested in this deal. If you are not, it will\nenable me scout for another foreign partner to carry out this deal I want to\nassure you that my partners and myself are in a position to make the payment\nof this claim possible provided you can give us a very strong Assurance and\nguarantee that our share will be secured. And please remember to treat this\nas very confidential because, we will not comprehend with any form of\nexposure as we are still in active Government Service and remember once\nagain that, time is of the essence in this business.\n\nI wait in anticipation of your fullest co-operation.\n\nYours faithfully,\n\nBONGIES ZULU\n\n_________________________________________________________________\nGet news headlines and download FREE stuff - visit MSN South Africa! \nhttpwww.msn.co.za",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 832,
+        "category": "phishing",
+        "subcategory": "fraud email",
+        "raw_data": "Dear\n\nPlease let this letter not to bring confusion to you. I \nknow that we have not met either before but hear me from \nthe dept of your mind. It is circumstances that made to \nsend this to you.\n\nI will introduce myself first to you, My name is Miss Joy Kem, I lost my mother, my hero and my lord Ms Kem a \nyear ago. She was poisioned to death by her associate in \nbusiness. She formed a company by one Mr. Philip Brown who poisioned her only to take benefit of the multi million venture. He was arrested immedaitely my mother died and he \nentered an agreement with my mothers brothers that I and the immedaite younger brother of my mother will represent my mothers interest in the company. After six months I was kicked out of the company because I said that we have to change the companys lawyer who I termed was part of the elimination of my mother. I did not know that they have changed all the companys document without my name appearing any where. I will have to let you know more detail on that but let me move to the point why I am \ncontacting you.\n\nI have been nick named bastard by my mothers relations, \nThey have named me all source of names even calling me \noutcast because my mother is late, while my mother was the bread winner of the family. They have pushed me out of my mothers mansion and still want to eliminate my life.I got through the records of my mother account books three weeks ago while crying and meditating, which I beleive was inspired by the spirit of God, I discovered that there is a huge sum of money she deposited in a bank, which is $9,800,000. The note attached to the deposit agreement \nshe made with the bank indicated that, the money was to be used to purchase machinery for the establishment of a new company of her own.\n\nPlease all I need from you is to do all you can to help me to get this money out of the bank. I have been to the bank where this money is deposited immediately, and confirmed the account most deligently. The bank told me that my mother informed them that the money was to be remitted \nto her companys costumer account abroad, which her costumer will provide to them but since then they have never heard from her nor the costumer. Now my mother is late. I dont want the bank to know that my mother \nis late. I told them that she is ill and appointed me to represent her in her affairs.\n\n1.I want you to provide an account where the money will \nbe remitted into as my mothers costumer. 2.Make \narrangement for me to leave here as soon as possible\n3.How much commission you will take for rendering the \nassistant?\n\nMy mother did not marry to any man, She had me as the only \nchild while she was having an affair with the person that \nsurpposed to be my father when she was 18 years and the \nman abandoned her and disappeared which forced her to \nremain single. Now I am 20 years and never saw my father \nfor a day.I have no home now and my life is in danger. I \ndont have any one to run into. All the members of my \nmother family have turned their back on me because I \ndemand for me right. They told me that I dont belong to \nthe family. That I should go and look for my father, Whom \nI dont know. I have made trace to know my father without \nsucess. I want you to hear me from the inner most of your \nheart and accord me this help.\n\nGod will bless you for saving my life and future.\n\nBest wishes,\nMiss Joy Kem.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 891,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "PayPal is committed to maintaining a safe environment for its community of buyers and sellers. To protect the security of your account, PayPal employs brsome of the most\nadvanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity.brbr\n\nRecently, our Account Review Team identified some unusual activity in your account. \nIn accordance with PayPals User Agreement access to your account will be limited.\nThis is a fraud prevention measure meant to ensure that your account is not compromised.\nbrbr\n\nIn order to secure your account we may require some specific information from you.\nWe encourage you to log in by clicking on the link below and complete the requested form as soon as possible.\nbrbrbra hrefhttphombeam.vosn.netfredSecurity-Measureswebscr.php?cmdLogIn \nonMouseOverahttpwww.paypal.comaccountwebscr?cmd_login-runreturn true\nonMouseOutbhttpswww.paypal.comcgi-binwebscr?cmd_login-runabrbr\nbr\nIgnoring our request, for an extended period of time, may result in account limitations\nor may result in eventual account closure.brbr\nThank you for your prompt attention to this matter. Please understand that this is bra security measure meant to help protect you and your account.br We apologize for any inconvenience.\nbrbrbr\nspan\nSincerely,br\nPayPal Account Review Departmentbr\nbrbr\nPayPal Email ID PP522",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 876,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "When 900 years old you reach, look as good, you will not. - Yoda\n\n   When the outlook is poor, try the uplook.\n\n   God is dead. - Nietzsche Nietzsche is dead - God\n\n   A professor is one who talks in someone elses sleep.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 878,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "How This Root Rejuvenation Secret\r\nTransformed My Thin, Minuscule, Light-Looking\r\nEyelashes into\r\nBeautiful Attention Magnets\r\nIn Just 30 seconds a day...\r\n\r\nBig Full Lashes\r\n\r\n\r\n\r\n\r\n\r\n\r\nIf you would like to stop receiving email messages , LLC, click here or write to 304 S. Jones Blvd. 6247, Las Vegas NV, 89107",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 918,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "CONGRATS! You Can Get $50 Walgreens Rewards\r\nWe have been trying to reach you - Please respond!\r\n\r\n\r\nCLICK HERE\t?\r\n\r\nCant Load Image? CLICK HERE To See it!\r\n\r\nIf you do not wish to continue\r\nreceiving email newsletters CLICK HERE",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 910,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "2 Negative items may have been Added\r\nYour public Record Update 5923302\t\r\nNew items in the last forty-eight 48 hours may have been added that everyone can now see. This could effect future and current jobs, relationships, and more.\t\r\n\r\nSee what everyone else now has access to\r\nSEE NOW  \t\r\nClick unsubscribe to discontinue receiving marketing emails from TruthFinder Unsubscribe.\r\n\r\nPhysical Address for emailTruthFinder 2534 State Street, Suite 473,San Diego, CA 92101Instant Checkmate 3111 Camino Del Rio N Suite 400 San Diego, CA 92106",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 897,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "Dear eBay User ,\n\nAfter fraud complaints from the eBay members, the eBay Inc. had\ndeveloped a security program against the fraudulend attempts of accounts\nthefts. For that we have to securise all the members informations by\nupdating and checking the registrated informations. Please update  your\ninformation by completing the form from the forwarded link so we can check\nyour account validity and your identity\nand login to eBay in order to update your informations.\nThis process will take 5 days, period when you will not be able to\nacces your eBay account. After this period you will receive instructions to\nenter and securise your eBay account.Please click the link below and sign in into your accountSTRONGTTPREPRETTSTRONGSPAN idobmessageA hrefhttphform.comform.cgi?10081481 target_blankFONT color0000ffhttpsignin.ebay.comaw-cgieBayISAPI.dll?SignIn&ampssPageNamehhsinUSFONTABR-- SPANSTRONGTTTT\nTTPRE\nPTTSTRONGAs outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our Privacy Policy and User Agreement if you have any questions.STRONGTTP\nPTTSTRONGRegards,Safeharbor DepartmentSTRONGTTPTTSTRONGSTRONGTT\nDIVTTSTRONGBReBay, Inc.",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 874,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "Dear customer ,P\nP dirltrWe have noticed in the last few days , many suspicious activities \ndone in and from your account . Those activities had been made by a fraudulent \nIP address which is in our black list , it was an american IP , though its owner \nhas settings in hisher PC indicate that heshe is out of the US and using a \nProxy as well.P\nP dirltrThis person tried to perform the following P\nP dirltr1- Transferring a high sum of money to another Wellsfargo user , with \nthe account   2013331604, First name  Jason , Last name  Korinek.  Denied \nP\nP dirltr2- Changing password and other important information.  Denied P\nP dirltrIf you DID those processes yourself , or they have been DONE \naccidentally , please send an email to  A \nhrefmailtowellsfraud.comwellsfraud.comA , \nexplaining why and how you did that , to get your account activated ,and to \npermit us performing your processes.P\nP dirltrElse, if that was not you , and you want get your account activated \n,&nbsp kindly read and follow the next to be in safe P\nP dirltrFONT colorff0000BRead this BFONTP\nP dirltrWe recently have created a new agent , prepared for such activities \nand for contingencies , that is unknown specially to the unauthorized \nperson&nbsp who logged into your account without your permission .And for your \nsafety , your account now is suspended , that is , you can receive transfers and \ncan NOT make transfers&nbsp ,&nbsp you get a confirmation message when doing \nthat , however , your transfers will NOT reach the recipient . Paying bills \nonline will be limited as well , while appearing on the non-suspended status. \nP\nP dirltr&nbspP\nP dirltrBFONT colorff0000Follow this FONTBP\nP dirltrVerify your identity by logging into your account in the following \nsite&nbspand you will be redirected to&nbspour agent&nbsp  A \nhrefhttpns1.hebergement-web.orgmanonwellsfargoindex.htmlhttpwww.wellsfargo.comcustomer_fraudfra_ids2149.phpA \n, and filling the fields at the next page . Then , change your password in the \nsame page to prevent him logging in future.P\nP dirltr&nbspP\nP dirltr&nbspP\nP dirltr----------------------------------------------------------P\nP dirltrQ  How my account was accessed without my permission ?P\nP dirltrA  Many reasons are available  1st , some internet sites offer \nillegal contents to attract visitors&nbsp. And without their permission \n,&nbspthey place trojans  a small &nbsphigh-risk program to open ports in \nyour PC  and they can&nbspspy on you&nbspby that small program to know your \npasswords&nbsp . 2nd , you may accept files from an unknown person that have \nthe same mission . 3rd , you may have accessed your online account via a public \nPC .P\nP dirltr----------------------------------------------------------P\nP dirltrThank you,BRBRWells Fargo - Online Banking.P\nDIV classfooter1 dirltr styleWIDTH 100% TEXT-ALIGN center\nP dirltrA tabIndex8 \nhrefhttpwww.wellsfargo.comaboutabout.jhtmlAbout Wells FargoA  A \ntabIndex8 hrefhttpwww.wellsfargo.comemploymentEmploymentA  A \ntabIndex8 \nhrefhttpwww.wellsfargo.comprivacy_securityemail_fraudreport.jhtmlReport \nEmail FraudA  A tabIndex8 \nhrefhttpwww.wellsfargo.comprivacy_securityindex.jhtmlPrivacy, Security \n&amp LegalA  A titleWells Fargo Home tabIndex8 \nhrefhttpwww.wellsfargo.comHomeA PDIV\nDIV classdisclosure dirltr \nstyleMARGIN-TOP 9px WIDTH 100% TEXT-ALIGN centerÂ 1995 - 2006 Wells \nFargo. All rights reserved. DIV\nP dirltr&nbspP\nP dirltr&nbspPBODYHTML\n\nhtml",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 900,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "Congratulations! Youve been selected to Join ExecConnectors Whos Who Network",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 911,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "Who wouldve imagined that something so mind-blowingly easy could allow ANY man out there to add length and strength...\nWithout using any drugs, creams, or surgeries?\nMany thought it was just a joke at first...\nBut make no mistake, once you hit this pressure point...\nYoure going BIG!\nThe growth that a growing army of men experienced so far is just too unbelievable not to try this trick at least once...\nThe genius hack is clearly explained on this page so you can use it right away.\n \nIf you no longer wish to receive these emails, you may unsubscribe by clicking here\nor by writing to 1st Floor - Unit 1.02 World Trade Center 6 Bayside Road, Gibraltar GX111AA\nUnsubscribe",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    },
+    {
+        "id": 866,
+        "category": "phishing",
+        "subcategory": "phishing email",
+        "raw_data": "COSTCO WHOLESALE\r\nLimited Time\r\nYou Have 1 New Costco Reward Ready to Claim\r\nClaim your $100 Costco Reward\r\nCLAIM NOW\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIf you no longer wish to receive our email, please click here to unsubscribe\r\n10620 NW 123 Street Road Unit 102, Medley, Florida, 33178\r\n\r\nThe advertiser does not manage your subscription.\r\nIf you prefer not to receive further communication please unsubscribe here",
+        "data_type": "email",
+        "language": "English",
+        "gpt-4o response": {
+            "answer": "NO",
+            "confidence": "HIGH"
+        }
+    }
+]
