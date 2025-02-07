@@ -1,7 +1,7 @@
 # LLM-Internet-fraud
 
-For running the baseline-attack 
-Using 
-`cd baseline-attack`
-and
-`nohup bash run.sh >nohup.out`
+For running the attack, using 
+`nohup bash scripts/attck.sh >nohup.out`
+
+For evaluation, using
+`nohup bash scripts/eval.sh >nohup.out`
