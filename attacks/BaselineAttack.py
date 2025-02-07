@@ -95,8 +95,10 @@ class BaselineAttack:
                     {"role": "user", "content": prompt + "\n\n" + extracted_text}
                 ]
             
-            if "gpt" in model or "o3" in model:
+            if "gpt-4o" in model:
                 client = OpenAI(api_key=config.OPENAI_KEY)
+            elif  "o3-mini" in model:
+                client = OpenAI(api_key=config.OPENAI_o3_KEY)
             else:
                 client = OpenAI(api_key=config.ZHI_KEY, base_url=config.ZHI_URL)
                 
