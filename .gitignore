@@ -1,3 +1,22 @@
 dataset-translation/
 .DS_Store
 .env
+
+# 忽略 weights 文件夹及其内容
+weights/
+
+# 忽略所有 pycache 文件夹及其内容
+*/__pycache__/
+
+# 如果需要忽略根目录以外的 pycache 文件夹
+**/__pycache__/
+./__pycache__/
+../__pycache__/
+# 如果想忽略特定目录下的文件
+*/pycache/
+
+**/config.py
+
+*/config.py
+
+nohup.out
