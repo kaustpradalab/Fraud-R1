@@ -7,8 +7,9 @@ OUTPUT_ROOT="results"
 
 
 # 设置模型列表
-# MODELS=("gpt-4o-mini" "gpt-4o")
-MODELS=("o3-mini" "gpt-4o" "qwen2.5-72b-instruct" "qwen2.5-3b-instruct" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
+# MODELS=("o3-mini-2025-01-31" "gpt-4o" )
+MODELS=("o3-mini-2025-01-31" "qwen2.5-3b-instruct" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
+
 
 # 遍历文件夹中的每个 JSON 文件
 for FILE in "$INPUT_FOLDER"/*.json; do

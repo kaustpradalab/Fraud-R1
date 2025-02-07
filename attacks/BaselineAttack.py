@@ -5,8 +5,6 @@ from tqdm import tqdm
 from attacks import config
 
 class BaselineAttack:
-    def __init__(self):
-        super()
         
     def extract_first_sentence(self, dialogue, language):
         if language == "Chinese":
@@ -97,7 +95,7 @@ class BaselineAttack:
                     {"role": "user", "content": prompt + "\n\n" + extracted_text}
                 ]
             
-            if "gpt" or "o3" in model:
+            if "gpt" in model or "o3" in model:
                 client = OpenAI(api_key=config.OPENAI_KEY)
             else:
                 client = OpenAI(api_key=config.ZHI_KEY, base_url=config.ZHI_URL)

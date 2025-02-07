@@ -78,26 +78,38 @@ class ASRCalculator:
         
         return pd.DataFrame(results)
     
+    
     def save_results(self, df):
         """
-        Saves ASR results to an Excel file.
+        Saves ASR results, including the raw data, aggregated ASR per category, 
+        and total average ASR per model to an Excel file.
         """
-        df.to_excel(self.output_file, index=False)
-    
+        # 计算聚合 ASR 结果
+        avg_asr_per_category, total_avg_asr_per_model = self.compute_aggregated_asr(df)
+
+        # 使用 ExcelWriter 保存多个 DataFrame
+        with pd.ExcelWriter(self.output_file, engine="xlsxwriter") as writer:
+            df.to_excel(writer, sheet_name="Raw_Data", index=False)  # 原始数据
+            avg_asr_per_category.to_excel(writer, sheet_name="Avg_ASR_Per_Category", index=False)  # 按类别
+            total_avg_asr_per_model.to_excel(writer, sheet_name="Total_Avg_ASR_Per_Model", index=False)  # 按模型
+
+        print(f"Results saved to {self.output_file}")
+
     def compute_aggregated_asr(self, df):
         """
         Computes the average ASR across categories and models.
         """
-        df["ASR (%)"] = df["ASR (%)"].str.rstrip("%").astype(float)
-        
+        df = df.dropna(subset=["ASR (%)"]) 
+        df["ASR (%)"] = df["ASR (%)"].astype(str).str.rstrip("%").astype(float)  
+
         avg_asr_per_category = df.groupby(["Model", "Category"])["ASR (%)"].mean().reset_index()
         total_avg_asr_per_model = df.groupby("Model")["ASR (%)"].mean().reset_index()
-        
+
         avg_asr_per_category["ASR (%)"] = avg_asr_per_category["ASR (%)"].round(2)
         total_avg_asr_per_model["ASR (%)"] = total_avg_asr_per_model["ASR (%)"].round(2)
-        
+
         return avg_asr_per_category, total_avg_asr_per_model
-    
+
     def run(self):
         """
         Orchestrates the ASR computation pipeline.
@@ -112,12 +124,3 @@ class ASRCalculator:
         print(avg_asr_per_category)
         print("\nTotal Average ASR per Model:")
         print(total_avg_asr_per_model)
-        
-        return avg_asr_per_category, total_avg_asr_per_model
-
-# Example execution
-if __name__ == "__main__":
-    input_folder = "./fp_base_result"
-    output_file = "./fp_base_result/fp_base_asr.xlsx"
-    asr_calculator = ASRCalculator(input_folder, output_file)
-    asr_calculator.run()

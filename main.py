@@ -5,7 +5,7 @@ from evaluation.ASR import ASRCalculator
 def main():
     parser = argparse.ArgumentParser(description="Process fraud detection data using OpenAI API.")
     parser.add_argument("--mode", type=str, required=True)
-    parser.add_argument("--model", type=str, default="gpt-4o-mini")
+    parser.add_argument("--model", type=str)
 
     parser.add_argument("--task_type", type=str)
     parser.add_argument("--question_input_path", type=str)
