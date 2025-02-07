@@ -1,3 +1,7 @@
 dataset-translation/
 .DS_Store
 .env
+baseline-attack/__pycache__/
+baseline-attack/config.py
+baseline-attack/run.sh
+baseline-attack/nohup.out
