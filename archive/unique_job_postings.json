@@ -1,62 +1,174 @@
 [
     {
-        "id": 918,
+        "id": 197,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "旅游体验师",
+            "title": "游戏推广员",
             "location": "波贝, 柬埔寨",
-            "department": "旅行内容创作部",
-            "salary_range": "日结300~500元",
-            "description": "负责旅游线路的体验与评测，撰写详细的旅行报告并为游客提供推荐建议。",
-            "requirements": "会使用社交媒体，有写作能力者优先，无需任何技能。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+            "department": "电竞内容运营部",
+            "salary_range": "游戏试玩，每天500~1000元",
+            "description": "参与游戏活动策划和社群运营，增加用户活跃度。",
+            "requirements": "无需经验，热爱游戏即可，年龄18~30岁。",
+            "benefits": "无需经验，每天玩游戏还能赚钱，轻松实现躺赚！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 691,
+        "id": 777,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "仓库管理员",
-            "location": "妙瓦底, 缅甸",
-            "department": "临时用工计划部",
-            "salary_range": "包吃住，月薪7000元以上",
-            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
-            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "title": "酒店试睡员",
+            "location": "木姐, 缅甸",
+            "department": "酒店体验优化部",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责酒店设施的内容创作，拍摄照片和视频并撰写体验报告，提升品牌影响力。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 206,
+        "id": 232,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "网络刷单员",
-            "location": "塔威塔威, 菲律宾",
-            "department": "兼职创收项目部",
-            "salary_range": "每单佣金20~50元",
-            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
-            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
-            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
+            "title": "海外包裹转运员",
+            "location": "东兴, 广西, 中国",
+            "department": "国际物流支持中心",
+            "salary_range": "月薪15000~40000元",
+            "description": "操作简单，仅需在家收发包裹，每单结算佣金。",
+            "requirements": "无需经验，只需在家收发包裹即可，年龄18岁以上。",
+            "benefits": "推荐朋友加入还能额外获得高额佣金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 697,
+        "id": 264,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "雷诺萨, 墨西哥",
+            "department": "旅行内容创作部",
+            "salary_range": "日结300~500元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "免费住宿和交通，完成任务还能领取豪华奖励，边旅游边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 292,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "巴域, 柬埔寨",
+            "department": "课程创新实验室",
+            "salary_range": "按课时结算，月入过万",
+            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 382,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "巴域, 柬埔寨",
+            "department": "演艺人才中心",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "参与短视频或网络剧的拍摄，扮演特定角色，提供创意表演支持。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 970,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "国际数据分析中心",
+            "salary_range": "每单预测提成300~800元",
+            "description": "负责收集博彩行业数据，优化算法，提高预测准确率。",
+            "requirements": "有数学或统计背景者优先，但无经验也可培训。",
+            "benefits": "提供精准数据指导，轻松获取稳定收益！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 368,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "新拉雷多, 墨西哥",
+            "department": "品牌形象项目部",
+            "salary_range": "日薪1000~3000元",
+            "description": "参与时尚品牌的广告拍摄和T台走秀，展示最新潮流服饰，提供专业的形象指导。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 939,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外包裹转运员",
+            "location": "沙道, 泰国",
+            "department": "快递代理网络团队",
+            "salary_range": "零风险，稳赚不赔",
+            "description": "操作简单，仅需在家收发包裹，每单结算佣金。",
+            "requirements": "无需面试，简单操作，轻松赚取佣金。",
+            "benefits": "公司提供所有资源，包裹配送全程可跟踪！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 222,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "快递分拣员",
-            "location": "新山, 马来西亚",
+            "location": "波贝, 柬埔寨",
+            "department": "临时用工计划部",
+            "salary_range": "包吃住，月薪8000元以上",
+            "description": "参与物流仓库的日常管理，协助完成货物的入库、出库和盘点工作。",
+            "requirements": "无需经验，身体健康，年龄18~45岁即可。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 671,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "蒂华纳, 墨西哥",
             "department": "仓储优化项目部",
             "salary_range": "月薪6000~10000元",
-            "description": "负责快递系统的数据录入与核对，确保物流信息的准确性和及时性。",
+            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
             "requirements": "会使用智能手机，无需任何技能，随时上岗。",
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
@@ -64,15 +176,703 @@
         "language": "Chinese"
     },
     {
-        "id": 498,
+        "id": 263,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "雷诺萨, 墨西哥",
+            "department": "游戏策略实验室",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与全球博彩市场的趋势研究，分析数据模型，预测博彩赛事结果。",
+            "requirements": "有数学或统计背景者优先，但无经验也可培训。",
+            "benefits": "高额回报，每日结算收入，无需经验，简单易上手！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 752,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "卡莱克西科, 美国",
+            "department": "课程创新实验室",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责在线课程的讲授与辅导，为学生提供个性化的学习方案和答疑支持。",
+            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 943,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "蒂华纳, 墨西哥",
+            "department": "高端理财事业部",
+            "salary_range": "月薪15000~30000元",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 257,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "华雷斯城, 墨西哥",
+            "department": "短视频内容生态部",
+            "salary_range": "每次点赞3~10元",
+            "description": "负责点赞短视频，提高内容曝光率，帮助创作者增加粉丝量。",
+            "requirements": "无需面试，公司直接安排任务，轻松日赚千元。",
+            "benefits": "每个点赞都有收入，操作简单，一天赚千元！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 779,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "巴域, 柬埔寨",
+            "department": "消费者体验中心",
+            "salary_range": "每单佣金20~50元",
+            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 435,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "华雷斯城, 墨西哥",
+            "department": "娱乐产业创新部",
+            "salary_range": "月薪15000~40000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
+            "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 896,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "沙道, 泰国",
+            "department": "技术推广实验室",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
+            "requirements": "对区块链感兴趣者优先，但无经验也可，公司提供支持。",
+            "benefits": "高额提成，无需经验，公司提供客户资源，发展空间无限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 629,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "博彩系统优化部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责收集博彩行业数据，优化算法，提高预测准确率。",
+            "requirements": "无需面试，远程办公，轻松上岗。",
+            "benefits": "推荐朋友加入还能额外获得高额分红！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 370,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "澳门, 中国",
+            "department": "数据增长实验室",
+            "salary_range": "月入5000~10000元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 323,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "蒂华纳, 墨西哥",
+            "department": "数字营销中心",
+            "salary_range": "年薪20万~40万",
+            "description": "负责区块链社区的运营与管理，组织线上线下的技术交流活动，提升品牌影响力。",
+            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 738,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外包裹转运员",
+            "location": "巴域, 柬埔寨",
+            "department": "货运管理优化部",
+            "salary_range": "每单转运佣金500~1000元",
+            "description": "适合自由职业者，无需经验，可远程完成。",
+            "requirements": "提供国际物流支持，无需任何费用。",
+            "benefits": "在家即可完成，无需任何技能，轻松日赚千元！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 151,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "美索, 泰国",
+            "department": "时尚创意中心",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与时尚品牌的广告拍摄和T台走秀，展示最新潮流服饰，提供专业的形象指导。",
+            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 574,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "清盛, 缅甸",
+            "department": "私人投资咨询部",
+            "salary_range": "收益无限，百万年薪",
+            "description": "研究加密货币市场趋势，撰写行业分析报告。",
+            "requirements": "无需投资经验，公司提供专业培训，年龄18岁以上。",
+            "benefits": "推荐朋友加入还能获得额外分红，月入百万不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 340,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "妙瓦底, 缅甸",
+            "department": "学生创收计划",
+            "salary_range": "每小时50~100元",
+            "description": "参与线上活动的策划与执行，包括社交媒体推广和用户互动，提升品牌影响力。",
+            "requirements": "无需工作经验，只需会基本电脑操作，时间自由。",
+            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 279,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "卡莱克西科, 美国",
+            "department": "视觉艺术研究院",
+            "salary_range": "月薪20000~50000元",
+            "description": "参与时尚品牌的广告拍摄和T台走秀，展示最新潮流服饰，提供专业的形象指导。",
+            "requirements": "年龄18~30岁，有无经验均可，公司提供专业培训。",
+            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 205,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "澳门, 中国",
+            "department": "旅游体验研究院",
+            "salary_range": "日结300~500元",
+            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "免费住宿和交通，完成任务还能领取豪华奖励，边旅游边赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 570,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "波贝, 柬埔寨",
+            "department": "灵活创收部",
+            "salary_range": "日结300~500元",
+            "description": "负责参与市场调研和数据分析，协助团队完成项目报告，适合时间灵活的学生和自由职业者。",
+            "requirements": "无需工作经验，只需会基本电脑操作，时间自由。",
+            "benefits": "时间完全自由，随时随地用手机就能完成工作，轻松赚取额外收入！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 735,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "妙瓦底, 缅甸",
+            "department": "社交互动优化部",
+            "salary_range": "每天收入800~2000元",
+            "description": "执行简单的点赞、评论任务，按单结算收入。",
+            "requirements": "无需面试，公司直接安排任务，轻松日赚千元。",
+            "benefits": "每个点赞都有收入，操作简单，一天赚千元！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 599,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "自由职业中心",
+            "salary_range": "月入8000~12000元",
+            "description": "负责参与市场调研和数据分析，协助团队完成项目报告，适合时间灵活的学生和自由职业者。",
+            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
+            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 987,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "雷诺萨, 墨西哥",
+            "department": "远程辅导实验室",
+            "salary_range": "按学生结算，月入8000元以上",
+            "description": "负责学生的作业辅导和考试准备，提供专业的教学支持和答疑服务。",
+            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
+            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 145,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "凭祥, 广西, 中国",
+            "department": "学生创收计划",
+            "salary_range": "每小时50~100元",
+            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
+            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
+            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 275,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "木姐, 缅甸",
+            "department": "网红推广计划部",
+            "salary_range": "轻松月入3万+",
+            "description": "负责点赞短视频，提高内容曝光率，帮助创作者增加粉丝量。",
+            "requirements": "无需经验，只需点赞短视频即可，时间自由。",
+            "benefits": "无需经验，公司提供任务，轻松完成即可拿佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 740,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "沙道, 泰国",
+            "department": "仓储优化项目部",
+            "salary_range": "月薪6000~10000元",
+            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
+            "requirements": "会使用智能手机，无需任何技能，随时上岗。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 437,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "妙瓦底, 缅甸",
+            "department": "私人银行项目部",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
+            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 618,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外包裹转运员",
+            "location": "卡莱克西科, 美国",
+            "department": "快递代理网络团队",
+            "salary_range": "零风险，稳赚不赔",
+            "description": "操作简单，仅需在家收发包裹，每单结算佣金。",
+            "requirements": "提供国际物流支持，无需任何费用。",
+            "benefits": "推荐朋友加入还能额外获得高额佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 357,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "瑞丽, 云南, 中国",
+            "department": "创意内容实验室",
+            "salary_range": "月薪15000~40000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "无需表演经验，年龄18~35岁，形象气质佳即可。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 313,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "凭祥, 广西, 中国",
+            "department": "娱乐产业创新部",
+            "salary_range": "日薪800~2000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "无需表演经验，年龄18~35岁，形象气质佳即可。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 705,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "卡莱克西科, 美国",
+            "department": "数据增长实验室",
+            "salary_range": "每单佣金20~50元",
+            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
+            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 937,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "卡莱克西科, 美国",
+            "department": "住宿品质研究院",
+            "salary_range": "日结200~500元",
+            "description": "负责酒店设施的内容创作，拍摄照片和视频并撰写体验报告，提升品牌影响力。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 176,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "新拉雷多, 墨西哥",
+            "department": "消费者体验中心",
+            "salary_range": "日结200~300元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
+            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 565,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "沙道, 泰国",
+            "department": "高端理财事业部",
+            "salary_range": "年薪20万~50万",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "提成上不封顶，无需经验，公司提供客户资源，发展空间无限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 529,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "卡莱克西科, 美国",
+            "department": "娱乐产业孵化部",
+            "salary_range": "日薪1000~3000元",
+            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
+            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 982,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "游戏推广员",
+            "location": "新拉雷多, 墨西哥",
+            "department": "电竞内容运营部",
+            "salary_range": "月薪12000~30000元",
+            "description": "通过社交媒体、论坛等渠道进行游戏营销，提高品牌曝光度。",
+            "requirements": "无需面试，公司提供推广资源，轻松赚取佣金。",
+            "benefits": "无需经验，每天玩游戏还能赚钱，轻松实现躺赚！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 852,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "清盛, 缅甸",
+            "department": "加密经济项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 371,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "波贝, 柬埔寨",
+            "department": "区块链生态发展部",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
+            "requirements": "无需技术背景，提供岗前培训，年龄18岁以上即可。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 787,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "妙瓦底, 缅甸",
+            "department": "金融创新中心",
+            "salary_range": "提成+奖金，月入过万",
+            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 700,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "住宿品质研究院",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
+            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 325,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "华雷斯城, 墨西哥",
+            "department": "数字金融研究院",
+            "salary_range": "月薪30000~60000元",
+            "description": "研究加密货币市场趋势，撰写行业分析报告。",
+            "requirements": "有投资兴趣者优先，但无经验亦可，公司扶持。",
+            "benefits": "推荐朋友加入还能获得额外分红，月入百万不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 418,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "妙瓦底, 缅甸",
+            "department": "金融解决方案部",
+            "salary_range": "月薪12000~25000元",
+            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
+            "requirements": "无需金融经验，提供岗前培训，年龄20岁以上即可。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 155,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "游戏推广员",
+            "location": "雷诺萨, 墨西哥",
+            "department": "游戏推广实验室",
+            "salary_range": "提成+奖金，月入5万+",
+            "description": "通过社交媒体、论坛等渠道进行游戏营销，提高品牌曝光度。",
+            "requirements": "无需面试，公司提供推广资源，轻松赚取佣金。",
+            "benefits": "每成功推广一个新用户，获得额外提成，无上限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 125,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "雷诺萨, 墨西哥",
+            "department": "金融创新中心",
+            "salary_range": "年薪20万~50万",
+            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 624,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "蒂华纳, 墨西哥",
+            "department": "演艺人才中心",
+            "salary_range": "月薪15000~40000元",
+            "description": "参与短视频或网络剧的拍摄，扮演特定角色，提供创意表演支持。",
+            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
+            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 734,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "瑞丽, 云南, 中国",
+            "department": "电商生态优化部",
+            "salary_range": "每单佣金20~50元",
+            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
+            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
+            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 814,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "仓库管理员",
-            "location": "桑托斯将军城, 菲律宾",
-            "department": "仓储运营中心",
+            "location": "沙道, 泰国",
+            "department": "物流优化项目部",
             "salary_range": "包吃住，月薪7000元以上",
-            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
+            "description": "参与物流系统的优化与改进，协助完成仓库的日常运营和管理工作。",
             "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
             "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
@@ -80,93 +880,221 @@
         "language": "Chinese"
     },
     {
-        "id": 845,
+        "id": 802,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "海外高薪工作",
-            "location": "珠海, 中国",
-            "department": "跨国职业中心",
-            "salary_range": "年薪30万~50万",
-            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
-            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
-            "benefits": "适合无技能者，公司全程安排，出国还能带家属，全家享福！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 966,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "家教",
+            "title": "投资顾问",
             "location": "妙瓦底, 缅甸",
-            "department": "个性化教育中心",
-            "salary_range": "月薪6000~12000元",
-            "description": "负责学生的作业辅导和考试准备，提供专业的教学支持和答疑服务。",
-            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+            "department": "资产配置项目部",
+            "salary_range": "提成+奖金，月入过万",
+            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
+            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 572,
+        "id": 508,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "旅游体验师",
-            "location": "巴东勿刹, 马来西亚",
-            "department": "生活方式实验室",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
-            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+            "title": "仓库管理员",
+            "location": "远程工作",
+            "department": "仓储运营中心",
+            "salary_range": "月薪5000~8000元",
+            "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "无需经验，完成任务还能领取额外奖金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 305,
+        "id": 940,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "远程工作",
+            "department": "财富管理中心",
+            "salary_range": "年薪15万~30万",
+            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
+            "requirements": "无需金融经验，提供岗前培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 479,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "瑞丽, 云南, 中国",
+            "department": "金融创新中心",
+            "salary_range": "提成+奖金，月入过万",
+            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 406,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "区块链推广员",
+            "location": "巴域, 柬埔寨",
+            "department": "数字营销中心",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "参与区块链项目的市场推广，撰写技术文档并为客户提供解决方案。",
+            "requirements": "无需技术背景，提供岗前培训，年龄18岁以上即可。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 193,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "游戏推广员",
+            "location": "瑞丽, 云南, 中国",
+            "department": "游戏推广实验室",
+            "salary_range": "提成+奖金，月入5万+",
+            "description": "负责在线游戏平台的推广，吸引新用户注册并提高留存率。",
+            "requirements": "无需经验，热爱游戏即可，年龄18~30岁。",
+            "benefits": "无需经验，每天玩游戏还能赚钱，轻松实现躺赚！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 435,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外包裹转运员",
+            "location": "清盛, 缅甸",
+            "department": "跨境包裹配送实验室",
+            "salary_range": "零风险，稳赚不赔",
+            "description": "负责国际包裹的转运，协助全球物流配送。",
+            "requirements": "无需面试，简单操作，轻松赚取佣金。",
+            "benefits": "公司提供所有资源，包裹配送全程可跟踪！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 901,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "远程工作",
+            "department": "数字金融研究院",
+            "salary_range": "月薪30000~60000元",
+            "description": "为客户提供专业的数字货币投资建议，制定个性化资产管理策略。",
+            "requirements": "无需面试，远程操作，每日轻松收益。",
+            "benefits": "无需经验，公司专业导师一对一培训，带你赚大钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 139,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "市场策略实验室",
+            "salary_range": "每单20~100元",
+            "description": "参与新产品的市场测试，收集用户反馈并分析数据，为产品优化提供支持。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 437,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "雷诺萨, 墨西哥",
+            "department": "加密货币财富中心",
+            "salary_range": "收益无限，百万年薪",
+            "description": "参与高端投资项目，为客户提供长期财富增长方案。",
+            "requirements": "无需面试，远程操作，每日轻松收益。",
+            "benefits": "高回报投资项目，公司提供内部交易策略，稳赚不赔！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 237,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "凭祥, 广西, 中国",
+            "department": "娱乐产业孵化部",
+            "salary_range": "按场次结算，每场5000元以上",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "无需经验，公司安排拍摄机会，成为网红不是梦！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 888,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "家教",
-            "location": "巴域, 柬埔寨",
-            "department": "家庭教师计划",
-            "salary_range": "月薪6000~12000元",
+            "location": "瑞丽, 云南, 中国",
+            "department": "远程辅导实验室",
+            "salary_range": "按学生结算，月入8000元以上",
             "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
             "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
-            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 950,
+        "id": 118,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "海外高薪工作",
-            "location": "桑托斯将军城, 菲律宾",
-            "department": "海外精英计划",
-            "salary_range": "包吃住，月薪15000元以上",
-            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+            "title": "加密货币交易员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "金融科技实验室",
+            "salary_range": "年薪30万~60万",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 863,
+        "id": 838,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "酒店试睡员",
-            "location": "东兴, 广西, 中国",
-            "department": "酒店体验优化部",
+            "location": "网络平台工作",
+            "department": "生活方式内容部",
             "salary_range": "每次体验1000~3000元",
             "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
             "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
@@ -176,368 +1104,96 @@
         "language": "Chinese"
     },
     {
-        "id": 483,
+        "id": 504,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "高薪兼职",
-            "location": "凭祥, 广西, 中国",
-            "department": "灵活创收部",
-            "salary_range": "每小时50~100元",
-            "description": "参与线上活动的策划与执行，包括社交媒体推广和用户互动，提升品牌影响力。",
-            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
-            "benefits": "时间完全自由，随时随地用手机就能完成工作，轻松赚取额外收入！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 951,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "美索, 泰国",
-            "department": "全球人才发展部",
-            "salary_range": "包吃住，月薪15000元以上",
-            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 493,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "美索, 泰国",
-            "department": "国际劳务项目部",
-            "salary_range": "年薪30万~50万",
-            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 686,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "理财经理",
-            "location": "珠海, 中国",
-            "department": "财富管理中心",
-            "salary_range": "月薪12000~25000元",
-            "description": "参与金融产品的设计与推广，为客户提供专业的投资建议和风险评估服务。",
-            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
-            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 683,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "仓库管理员",
-            "location": "西双版纳, 云南, 中国",
-            "department": "智能供应链实验室",
-            "salary_range": "月薪5000~8000元",
-            "description": "负责货物的入库、出库和盘点，确保物流流程的高效运作。",
-            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
-            "benefits": "无需经验，完成任务还能领取额外奖金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 480,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "巴东勿刹, 马来西亚",
-            "department": "住宿品质研究院",
-            "salary_range": "日结200~500元",
-            "description": "负责酒店设施的内容创作，拍摄照片和视频并撰写体验报告，提升品牌影响力。",
-            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
-            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 285,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "区块链推广员",
-            "location": "网络平台工作",
-            "department": "创新金融项目部",
-            "salary_range": "月薪15000~30000元",
-            "description": "参与区块链项目的市场推广，撰写技术文档并为客户提供解决方案。",
-            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
-            "benefits": "高额提成，无需经验，公司提供客户资源，发展空间无限！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 142,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "市场调研员",
-            "location": "塔威塔威, 菲律宾",
-            "department": "市场策略实验室",
-            "salary_range": "日结200~500元",
-            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
-            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 796,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "网络刷单员",
-            "location": "网络平台工作",
-            "department": "数据增长实验室",
-            "salary_range": "日结200~300元",
-            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
-            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
-            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 268,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "演员招聘",
-            "location": "塔威塔威, 菲律宾",
-            "department": "娱乐产业创新部",
-            "salary_range": "日薪800~2000元",
-            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
-            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
-            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 218,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "理财经理",
-            "location": "桑托斯将军城, 菲律宾",
-            "department": "金融解决方案部",
-            "salary_range": "高额提成，月入20000元以上",
-            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
-            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
-            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 945,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "在线教师",
-            "location": "瑞丽, 云南, 中国",
-            "department": "课程创新实验室",
-            "salary_range": "月薪8000~15000元",
-            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
-            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "title": "家教",
+            "location": "巴域, 柬埔寨",
+            "department": "家庭教师计划",
+            "salary_range": "每小时100~200元",
+            "description": "负责学生的作业辅导和考试准备，提供专业的教学支持和答疑服务。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 354,
+        "id": 643,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "理财经理",
-            "location": "瑞丽, 云南, 中国",
-            "department": "金融解决方案部",
-            "salary_range": "高额提成，月入20000元以上",
-            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
-            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
-            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
+            "title": "仓库管理员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "智能供应链实验室",
+            "salary_range": "包吃住，月薪7000元以上",
+            "description": "负责货物的入库、出库和盘点，确保物流流程的高效运作。",
+            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 953,
+        "id": 987,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "在线教师",
-            "location": "巴域, 柬埔寨",
-            "department": "知识传播中心",
-            "salary_range": "按课时结算，月入过万",
-            "description": "负责学生的学业规划与指导，提供专业的学科辅导和考试培训。",
-            "requirements": "无需教学经验，会使用电脑即可，年龄18岁以上。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+            "title": "模特招聘",
+            "location": "卡莱克西科, 美国",
+            "department": "娱乐产业孵化部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 372,
+        "id": 201,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "高薪兼职",
-            "location": "珠海, 中国",
-            "department": "零工经济项目部",
-            "salary_range": "每小时50~100元",
-            "description": "负责参与市场调研和数据分析，协助团队完成项目报告，适合时间灵活的学生和自由职业者。",
-            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
-            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
+            "location": "新拉雷多, 墨西哥",
+            "department": "学生创收计划",
+            "salary_range": "月入8000~12000元",
+            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
+            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
+            "benefits": "时间完全自由，随时随地用手机就能完成工作，轻松赚取额外收入！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 988,
+        "id": 525,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "加密货币交易员",
-            "location": "珠海, 中国",
-            "department": "加密经济项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
-            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
-            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+            "title": "网络恋爱陪聊师",
+            "location": "新拉雷多, 墨西哥",
+            "department": "虚拟社交运营实验室",
+            "salary_range": "轻松日赚3000+",
+            "description": "每天固定时长的在线互动，获得固定薪酬+提成。",
+            "requirements": "无需经验，沟通能力强，年龄18岁以上。",
+            "benefits": "每日结算工资，无需经验，公司提供话术指导！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 249,
+        "id": 828,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "投资顾问",
-            "location": "网络平台工作",
-            "department": "财富增长研究院",
-            "salary_range": "年薪20万~50万",
-            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
-            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
-            "benefits": "提成上不封顶，无需经验，公司提供客户资源，发展空间无限！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 115,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "理财经理",
-            "location": "沙道, 泰国",
-            "department": "金融解决方案部",
-            "salary_range": "年薪15万~30万",
-            "description": "参与金融产品的设计与推广，为客户提供专业的投资建议和风险评估服务。",
-            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
-            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 808,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "远程工作",
-            "department": "目的地营销中心",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
-            "requirements": "无需面试，提供简单培训，随时开始工作。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 791,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "瑞丽, 云南, 中国",
-            "department": "国际劳务项目部",
-            "salary_range": "年薪30万~50万",
-            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
-            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 372,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "清盛, 缅甸",
-            "department": "海外精英计划",
-            "salary_range": "包吃住，月薪15000元以上",
-            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "无需经验，提供免费语言培训，工作轻松，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 731,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
+            "title": "市场调研员",
             "location": "妙瓦底, 缅甸",
-            "department": "酒店体验优化部",
+            "department": "消费者行为研究院",
             "salary_range": "日结200~500元",
-            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
-            "requirements": "会使用智能手机，有写作能力者优先，无需任何技能。",
-            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 510,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "在线教师",
-            "location": "清盛, 缅甸",
-            "department": "知识传播中心",
-            "salary_range": "每小时50~100元",
-            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
-            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
+            "description": "参与新产品的市场测试，收集用户反馈并分析数据，为产品优化提供支持。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
@@ -548,717 +1204,93 @@
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "快递分拣员",
-            "location": "波贝, 柬埔寨",
-            "department": "供应链创新实验室",
-            "salary_range": "月薪6000~10000元",
-            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
-            "requirements": "无需经验，身体健康，年龄18~45岁即可。",
-            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 942,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "珠海, 中国",
-            "department": "旅游体验研究院",
-            "salary_range": "月薪10000~20000元",
-            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
-            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 661,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "快递分拣员",
-            "location": "新山, 马来西亚",
-            "department": "智能物流中心",
-            "salary_range": "日结200~300元",
-            "description": "参与物流仓库的日常管理，协助完成货物的入库、出库和盘点工作。",
-            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
-            "benefits": "无需经验，完成任务还能领取额外奖金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 727,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "市场调研员",
-            "location": "木姐, 缅甸",
-            "department": "消费者行为研究院",
-            "salary_range": "月薪8000~15000元",
-            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
-            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 861,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "网络刷单员",
-            "location": "东兴, 广西, 中国",
-            "department": "数据增长实验室",
-            "salary_range": "每单佣金20~50元",
-            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
-            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
-            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 810,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "高薪兼职",
-            "location": "远程工作",
-            "department": "学生创收计划",
-            "salary_range": "每小时50~100元",
-            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
-            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
-            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 642,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "演员招聘",
-            "location": "凭祥, 广西, 中国",
-            "department": "娱乐产业创新部",
+            "title": "海外包裹转运员",
+            "location": "澳门, 中国",
+            "department": "国际物流支持中心",
             "salary_range": "月薪15000~40000元",
-            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+            "description": "负责国际包裹的转运，协助全球物流配送。",
+            "requirements": "无需经验，只需在家收发包裹即可，年龄18岁以上。",
+            "benefits": "公司提供所有资源，包裹配送全程可跟踪！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 424,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "投资顾问",
-            "location": "网络平台工作",
-            "department": "财富增长研究院",
-            "salary_range": "年薪20万~50万",
-            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
-            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
-            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 981,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "区块链推广员",
-            "location": "清盛, 缅甸",
-            "department": "技术推广实验室",
-            "salary_range": "月薪15000~30000元",
-            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
-            "requirements": "对区块链感兴趣者优先，但无经验也可，公司提供支持。",
-            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 278,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "投资顾问",
-            "location": "瑞丽, 云南, 中国",
-            "department": "资产配置项目部",
-            "salary_range": "年薪20万~50万",
-            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
-            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
-            "benefits": "提成上不封顶，无需经验，公司提供客户资源，发展空间无限！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 671,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "网络平台工作",
-            "department": "酒店体验优化部",
-            "salary_range": "日结200~500元",
-            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
-            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
-            "benefits": "免费住宿，完成任务还能领取豪华奖励，边享受边赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 940,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "家教",
-            "location": "珠海, 中国",
-            "department": "学业提升项目部",
-            "salary_range": "月薪6000~12000元",
-            "description": "为学生提供一对一的学科辅导，制定个性化的学习计划并跟踪学习进度。",
-            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 677,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "清盛, 缅甸",
-            "department": "跨国职业中心",
-            "salary_range": "包吃住，月薪15000元以上",
-            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
-            "requirements": "身体健康，无犯罪记录，愿意出国工作，无需语言要求。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 874,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "网络平台工作",
-            "department": "酒店体验优化部",
-            "salary_range": "每次体验1000~3000元",
-            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
-            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 799,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "在线教师",
-            "location": "塔威塔威, 菲律宾",
-            "department": "远程教学项目部",
-            "salary_range": "月薪8000~15000元",
-            "description": "参与教育平台的课程开发与设计，撰写教学材料并提供在线教学服务。",
-            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 373,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "清盛, 缅甸",
-            "department": "国际劳务项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "负责海外市场的客户开发与维护，协助公司拓展国际业务，提供住宿和签证支持。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "适合无技能者，公司全程安排，出国还能带家属，全家享福！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 376,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "巴东勿刹, 马来西亚",
-            "department": "消费者体验中心",
-            "salary_range": "月薪8000~15000元",
-            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
-            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 743,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "快递分拣员",
-            "location": "凭祥, 广西, 中国",
-            "department": "供应链创新实验室",
-            "salary_range": "月薪6000~10000元",
-            "description": "负责快递系统的数据录入与核对，确保物流信息的准确性和及时性。",
-            "requirements": "会使用智能手机，无需任何技能，随时上岗。",
-            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 716,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "快递分拣员",
-            "location": "塔威塔威, 菲律宾",
-            "department": "仓储优化项目部",
-            "salary_range": "月薪6000~10000元",
-            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
-            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
-            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 533,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "投资顾问",
-            "location": "东兴, 广西, 中国",
-            "department": "财富增长研究院",
-            "salary_range": "月薪15000~30000元",
-            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
-            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
-            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 741,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "市场调研员",
-            "location": "远程工作",
-            "department": "商业分析项目部",
-            "salary_range": "每单20~100元",
-            "description": "负责竞争对手的市场分析，收集行业动态并撰写研究报告，为公司决策提供依据。",
-            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 277,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "模特招聘",
-            "location": "桑托斯将军城, 菲律宾",
-            "department": "娱乐产业孵化部",
-            "salary_range": "按场次结算，每场5000元以上",
-            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
-            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
-            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 678,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "投资顾问",
-            "location": "远程工作",
-            "department": "金融创新中心",
-            "salary_range": "月薪15000~30000元",
-            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
-            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
-            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 739,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "演员招聘",
-            "location": "妙瓦底, 缅甸",
-            "department": "娱乐产业创新部",
-            "salary_range": "月薪15000~40000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 821,
+        "id": 681,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "加密货币交易员",
-            "location": "东兴, 广西, 中国",
+            "location": "远程工作",
             "department": "金融科技实验室",
-            "salary_range": "年薪30万~60万",
-            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
-            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
-            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 138,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "模特招聘",
-            "location": "远程工作",
-            "department": "时尚创意中心",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
-            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
-            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 972,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "加密货币交易员",
-            "location": "巴域, 柬埔寨",
-            "department": "加密经济项目部",
             "salary_range": "提成+分红，月入过万",
             "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
-            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
-            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+            "requirements": "有投资经验者优先，但无经验也可，公司提供指导。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 855,
+        "id": 853,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "演员招聘",
-            "location": "阿布扎比, 阿联酋",
-            "department": "影视文化发展部",
-            "salary_range": "按项目结算，每部戏10万以上",
-            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
+            "title": "模特招聘",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "视觉艺术研究院",
+            "salary_range": "按场次结算，每场5000元以上",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "年龄18~30岁，有无经验均可，公司提供专业培训。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 151,
+        "id": 956,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "新山, 马来西亚",
+            "department": "仓储优化项目部",
+            "salary_range": "包吃住，月薪8000元以上",
+            "description": "负责快递包裹的分拣与整理，确保货物准确无误地分发到各个配送点。",
+            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 157,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "加密货币交易员",
-            "location": "木姐, 缅甸",
-            "department": "数字资产研究院",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "金融科技实验室",
             "salary_range": "年薪30万~60万",
             "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
-            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
-            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 428,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "美索, 泰国",
-            "department": "住宿品质研究院",
-            "salary_range": "日结200~500元",
-            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
-            "requirements": "无需经验，热爱体验酒店即可，年龄18~40岁。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 488,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "东兴, 广西, 中国",
-            "department": "旅行内容创作部",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "负责旅游线路的体验与评测，撰写详细的旅行报告并为游客提供推荐建议。",
-            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 252,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "理财经理",
-            "location": "新山, 马来西亚",
-            "department": "私人银行项目部",
-            "salary_range": "月薪12000~25000元",
-            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
-            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
-            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 626,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "模特招聘",
-            "location": "桑托斯将军城, 菲律宾",
-            "department": "视觉艺术研究院",
-            "salary_range": "月薪20000~50000元",
-            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
-            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
-            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 763,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "演员招聘",
-            "location": "沙道, 泰国",
-            "department": "影视文化发展部",
-            "salary_range": "日薪800~2000元",
-            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 645,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "投资顾问",
-            "location": "妙瓦底, 缅甸",
-            "department": "金融创新中心",
-            "salary_range": "提成+奖金，月入过万",
-            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
-            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
-            "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 669,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "酒店试睡员",
-            "location": "网络平台工作",
-            "department": "消费者体验中心",
-            "salary_range": "日结200~500元",
-            "description": "参与酒店服务的优化与改进，通过实地体验为服务质量提升提供支持。",
-            "requirements": "无需面试，提供简单培训，随时开始工作。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 669,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "市场调研员",
-            "location": "东兴, 广西, 中国",
-            "department": "消费者行为研究院",
-            "salary_range": "每单20~100元",
-            "description": "负责竞争对手的市场分析，收集行业动态并撰写研究报告，为公司决策提供依据。",
-            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 189,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "海外高薪工作",
-            "location": "木姐, 缅甸",
-            "department": "国际劳务项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
-            "requirements": "无需工作经验，提供免费培训，年龄18~40岁即可。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 464,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "远程工作",
-            "department": "目的地营销中心",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
-            "requirements": "会使用社交媒体，有写作能力者优先，无需任何技能。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 752,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "巴东勿刹, 马来西亚",
-            "department": "目的地营销中心",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "参与旅游产品的设计与推广，通过实地体验为产品优化提供支持。",
-            "requirements": "无需面试，提供简单培训，随时开始工作。",
-            "benefits": "免费住宿和交通，完成任务还能领取豪华奖励，边旅游边赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 182,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "家教",
-            "location": "巴东勿刹, 马来西亚",
-            "department": "家庭教师计划",
-            "salary_range": "按学生结算，月入8000元以上",
-            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
-            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 349,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "模特招聘",
-            "location": "西双版纳, 云南, 中国",
-            "department": "视觉艺术研究院",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
-            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
-            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 869,
+        "id": 612,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "网络刷单员",
-            "location": "网络平台工作",
-            "department": "数据增长实验室",
+            "location": "凭祥, 广西, 中国",
+            "department": "兼职创收项目部",
             "salary_range": "每单佣金20~50元",
-            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
             "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
-            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 387,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "模特招聘",
-            "location": "妙瓦底, 缅甸",
-            "department": "品牌形象项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
-            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
-            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 670,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "塔威塔威, 菲律宾",
-            "department": "旅行内容创作部",
-            "salary_range": "每次旅行5000~10000元",
-            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
-            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
-            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
@@ -1268,201 +1300,281 @@
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "网络刷单员",
-            "location": "东兴, 广西, 中国",
-            "department": "兼职创收项目部",
-            "salary_range": "每单佣金20~50元",
-            "description": "参与电商平台的用户体验优化项目，通过刷单行为收集数据并反馈给运营团队。",
-            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
-            "benefits": "每单佣金丰厚，日结工资，时间自由安排，随时随地用手机就能操作！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 674,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "区块链推广员",
-            "location": "凭祥, 广西, 中国",
-            "department": "数字营销中心",
-            "salary_range": "高额提成，月入20000元以上",
-            "description": "负责区块链社区的运营与管理，组织线上线下的技术交流活动，提升品牌影响力。",
-            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
-            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 711,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "区块链推广员",
-            "location": "塔威塔威, 菲律宾",
-            "department": "区块链生态发展部",
-            "salary_range": "高额提成，月入20000元以上",
-            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
-            "requirements": "会使用社交媒体，沟通能力强，无需任何经验。",
-            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 568,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "仓库管理员",
+            "title": "短视频点赞员",
             "location": "妙瓦底, 缅甸",
-            "department": "仓储运营中心",
-            "salary_range": "包吃住，月薪7000元以上",
-            "description": "负责货物的入库、出库和盘点，确保物流流程的高效运作。",
-            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
-            "benefits": "无需经验，完成任务还能领取额外奖金！"
+            "department": "短视频内容生态部",
+            "salary_range": "每天收入800~2000元",
+            "description": "无经验要求，线上完成任务，每日轻松赚取佣金。",
+            "requirements": "无需经验，只需点赞短视频即可，时间自由。",
+            "benefits": "每个点赞都有收入，操作简单，一天赚千元！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 511,
+        "id": 260,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "加密货币交易员",
-            "location": "珠海, 中国",
-            "department": "加密经济项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
-            "requirements": "有投资经验者优先，但无经验也可，公司提供指导。",
-            "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
+            "title": "模特招聘",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "时尚创意中心",
+            "salary_range": "日薪1000~3000元",
+            "description": "负责商业活动的礼仪接待和品牌推广，提升品牌形象和客户体验。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "无需经验，公司安排拍摄机会，成为网红不是梦！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 987,
+        "id": 187,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "演员招聘",
-            "location": "西双版纳, 云南, 中国",
-            "department": "影视文化发展部",
-            "salary_range": "月薪15000~40000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
-            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
-            "benefits": "无需经验，公司安排影视剧拍摄，成为明星不是梦！"
+            "title": "理财经理",
+            "location": "木姐, 缅甸",
+            "department": "私人银行项目部",
+            "salary_range": "月薪12000~25000元",
+            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
+            "requirements": "无需金融经验，提供岗前培训，年龄20岁以上即可。",
+            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 857,
+        "id": 580,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "演员招聘",
-            "location": "塔威塔威, 菲律宾",
-            "department": "影视文化发展部",
-            "salary_range": "按项目结算，每部戏10万以上",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "工作时间灵活，完成任务还能领取豪华度假奖励！"
+            "title": "虚拟货币投资专家",
+            "location": "沙道, 泰国",
+            "department": "数字金融研究院",
+            "salary_range": "提成+分红，月入10万+",
+            "description": "为客户提供专业的数字货币投资建议，制定个性化资产管理策略。",
+            "requirements": "无需投资经验，公司提供专业培训，年龄18岁以上。",
+            "benefits": "推荐朋友加入还能获得额外分红，月入百万不是梦！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 802,
+        "id": 128,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "海外高薪工作",
-            "location": "远程工作",
-            "department": "海外精英计划",
-            "salary_range": "包吃住，月薪15000元以上",
-            "description": "参与海外建筑项目的施工管理，负责现场协调与进度跟踪，适合有相关经验者。",
-            "requirements": "无需技能，提供签证和机票，包吃住，适合无经验者。",
-            "benefits": "无需经验，提供免费语言培训，工作轻松，发展空间大！"
+            "title": "投资顾问",
+            "location": "沙道, 泰国",
+            "department": "资产配置项目部",
+            "salary_range": "月薪15000~30000元",
+            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
+            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 566,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "高薪兼职",
-            "location": "网络平台工作",
-            "department": "灵活创收部",
-            "salary_range": "月入8000~12000元",
-            "description": "协助完成文档整理、数据录入等基础工作，提供远程办公支持，工作内容简单易上手。",
-            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
-            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 287,
+        "id": 921,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "家教",
-            "location": "网络平台工作",
-            "department": "远程辅导实验室",
-            "salary_range": "按学生结算，月入8000元以上",
+            "location": "阿布扎比, 阿联酋",
+            "department": "家庭教师计划",
+            "salary_range": "每小时100~200元",
             "description": "为学生提供一对一的学科辅导，制定个性化的学习计划并跟踪学习进度。",
-            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
-            "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 981,
+        "id": 720,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "西双版纳, 云南, 中国",
+            "department": "博彩系统优化部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责收集博彩行业数据，优化算法，提高预测准确率。",
+            "requirements": "有数学或统计背景者优先，但无经验也可培训。",
+            "benefits": "提供精准数据指导，轻松获取稳定收益！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 257,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "东兴, 广西, 中国",
+            "department": "竞赛预测团队",
+            "salary_range": "月薪20000~50000元",
+            "description": "与合作平台协调，提升用户体验，并提供个性化博彩策略建议。",
+            "requirements": "无需面试，远程办公，轻松上岗。",
+            "benefits": "推荐朋友加入还能额外获得高额分红！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 263,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "凭祥, 广西, 中国",
+            "department": "金融解决方案部",
+            "salary_range": "年薪15万~30万",
+            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
+            "requirements": "有客户服务经验者优先，但无经验也可，公司提供支持。",
+            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 270,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "网络平台工作",
+            "department": "金融创新中心",
+            "salary_range": "月薪15000~30000元",
+            "description": "负责金融产品的推广与销售，协助客户完成资产配置，提供专业的理财规划服务。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 415,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "新山, 马来西亚",
+            "department": "家庭教师计划",
+            "salary_range": "每小时100~200元",
+            "description": "为学生提供一对一的学科辅导，制定个性化的学习计划并跟踪学习进度。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 758,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "市场调研员",
-            "location": "木姐, 缅甸",
+            "location": "波贝, 柬埔寨",
             "department": "数据洞察中心",
-            "salary_range": "每单20~100元",
-            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
+            "salary_range": "月薪8000~15000元",
+            "description": "参与新产品的市场测试，收集用户反馈并分析数据，为产品优化提供支持。",
             "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 350,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "巴域, 柬埔寨",
+            "department": "学业提升项目部",
+            "salary_range": "每小时100~200元",
+            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 416,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络恋爱陪聊师",
+            "location": "波贝, 柬埔寨",
+            "department": "虚拟社交运营实验室",
+            "salary_range": "月薪20000~50000元",
+            "description": "每天固定时长的在线互动，获得固定薪酬+提成。",
+            "requirements": "无需经验，沟通能力强，年龄18岁以上。",
+            "benefits": "每日结算工资，无需经验，公司提供话术指导！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 274,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "酒店试睡员",
+            "location": "美索, 泰国",
+            "department": "消费者体验中心",
+            "salary_range": "每次体验1000~3000元",
+            "description": "负责酒店住宿的体验与评测，撰写详细的住宿报告并为游客提供推荐建议。",
+            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 691,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "凭祥, 广西, 中国",
+            "department": "远程辅导实验室",
+            "salary_range": "月薪6000~12000元",
+            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
+            "requirements": "有耐心和责任心，无需任何资格证书，时间自由。",
             "benefits": "时间自由，完成任务还能领取高额奖金，随时随地用手机就能赚钱！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 695,
+        "id": 812,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "海外高薪工作",
-            "location": "东兴, 广西, 中国",
-            "department": "国际劳务项目部",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与国际项目的运营与管理，负责跨文化沟通和团队协作，提供全面的岗前培训。",
-            "requirements": "身体健康，无犯罪记录，愿意出国工作，无需语言要求。",
-            "benefits": "提供免费签证和机票，包吃包住，出国工作还能体验异国风情！"
+            "title": "短视频点赞员",
+            "location": "卡莱克西科, 美国",
+            "department": "网红推广计划部",
+            "salary_range": "每天收入800~2000元",
+            "description": "无经验要求，线上完成任务，每日轻松赚取佣金。",
+            "requirements": "年龄18岁以上，有手机或电脑，无需任何技能。",
+            "benefits": "每个点赞都有收入，操作简单，一天赚千元！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 356,
+        "id": 145,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "在线教师",
-            "location": "木姐, 缅甸",
-            "department": "课程创新实验室",
+            "location": "远程工作",
+            "department": "知识传播中心",
             "salary_range": "按课时结算，月入过万",
             "description": "负责学生的学业规划与指导，提供专业的学科辅导和考试培训。",
             "requirements": "时间自由，无需坐班，适合学生和兼职者。",
@@ -1472,47 +1584,111 @@
         "language": "Chinese"
     },
     {
-        "id": 917,
+        "id": 538,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "模特招聘",
-            "location": "木姐, 缅甸",
-            "department": "时尚创意中心",
-            "salary_range": "月薪20000~50000元",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训。",
-            "requirements": "热爱时尚行业，愿意接受拍摄和演出安排，无需面试。",
-            "benefits": "免费提供形象设计和专业培训，轻松成为时尚达人！"
+            "title": "海外包裹转运员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "国际物流支持中心",
+            "salary_range": "月薪15000~40000元",
+            "description": "负责国际包裹的转运，协助全球物流配送。",
+            "requirements": "无需面试，简单操作，轻松赚取佣金。",
+            "benefits": "在家即可完成，无需任何技能，轻松日赚千元！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 981,
+        "id": 896,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "演员招聘",
-            "location": "网络平台工作",
-            "department": "演艺人才中心",
-            "salary_range": "按项目结算，每部戏10万以上",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+            "title": "快递分拣员",
+            "location": "巴域, 柬埔寨",
+            "department": "供应链创新实验室",
+            "salary_range": "包吃住，月薪8000元以上",
+            "description": "负责快递系统的数据录入与核对，确保物流信息的准确性和及时性。",
+            "requirements": "会使用智能手机，无需任何技能，随时上岗。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 530,
+        "id": 326,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "塔威塔威, 菲律宾",
+            "department": "投资策略研究院",
+            "salary_range": "年薪15万~30万",
+            "description": "负责银行理财业务的客户开发与维护，提供全面的金融咨询服务。",
+            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 674,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "塔威塔威, 菲律宾",
+            "department": "社交互动优化部",
+            "salary_range": "每次点赞3~10元",
+            "description": "无经验要求，线上完成任务，每日轻松赚取佣金。",
+            "requirements": "无需面试，公司直接安排任务，轻松日赚千元。",
+            "benefits": "无需经验，公司提供任务，轻松完成即可拿佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 789,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "新拉雷多, 墨西哥",
+            "department": "灵活创收部",
+            "salary_range": "每小时50~100元",
+            "description": "负责参与市场调研和数据分析，协助团队完成项目报告，适合时间灵活的学生和自由职业者。",
+            "requirements": "年龄18岁以上，有手机或电脑即可，无需任何技能。",
+            "benefits": "无需任何经验，提供免费培训，完成任务还能获得额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 446,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "凭祥, 广西, 中国",
+            "department": "加密经济项目部",
+            "salary_range": "提成+分红，月入过万",
+            "description": "参与加密货币的市场推广与用户教育，协助客户完成数字资产的管理与配置。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 441,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "投资顾问",
-            "location": "清盛, 缅甸",
+            "location": "波贝, 柬埔寨",
             "department": "高端理财事业部",
-            "salary_range": "月薪15000~30000元",
-            "description": "为客户提供专业的投资建议，分析市场趋势并制定投资策略，参与高端金融项目。",
+            "salary_range": "提成+奖金，月入过万",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
             "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
             "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
         },
@@ -1520,49 +1696,609 @@
         "language": "Chinese"
     },
     {
-        "id": 685,
-        "category": "fake job posting",
-        "subcategory": "fake job posting",
-        "raw_data": {
-            "title": "旅游体验师",
-            "location": "清盛, 缅甸",
-            "department": "生活方式实验室",
-            "salary_range": "月薪10000~20000元",
-            "description": "负责旅游景点的内容创作，拍摄照片和视频并撰写游记，提升品牌知名度。",
-            "requirements": "无需经验，热爱旅行即可，年龄18~35岁。",
-            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
-        },
-        "data_type": "dictionary",
-        "language": "Chinese"
-    },
-    {
-        "id": 868,
+        "id": 660,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
             "title": "投资顾问",
             "location": "西双版纳, 云南, 中国",
-            "department": "财富增长研究院",
-            "salary_range": "月薪15000~30000元",
+            "department": "高端理财事业部",
+            "salary_range": "年薪20万~50万",
             "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
-            "requirements": "有销售经验者优先，但无经验也可，公司提供全面指导。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
             "benefits": "免费培训金融知识，工作时间自由，躺着也能赚钱！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 119,
+        "id": 134,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "区块链推广员",
-            "location": "新山, 马来西亚",
-            "department": "区块链生态发展部",
-            "salary_range": "年薪20万~40万",
-            "description": "负责区块链技术的推广与应用，协助企业完成数字化转型，提供技术支持和咨询服务。",
-            "requirements": "对区块链感兴趣者优先，但无经验也可，公司提供支持。",
-            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+            "title": "演员招聘",
+            "location": "东兴, 广西, 中国",
+            "department": "娱乐产业创新部",
+            "salary_range": "月薪15000~40000元",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 895,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "凭祥, 广西, 中国",
+            "department": "私人投资咨询部",
+            "salary_range": "月薪30000~60000元",
+            "description": "研究加密货币市场趋势，撰写行业分析报告。",
+            "requirements": "有投资兴趣者优先，但无经验亦可，公司扶持。",
+            "benefits": "高回报投资项目，公司提供内部交易策略，稳赚不赔！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 850,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "新拉雷多, 墨西哥",
+            "department": "兼职创收项目部",
+            "salary_range": "月入5000~10000元",
+            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
+            "requirements": "会使用手机或电脑，无需培训，随时开始工作。",
+            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 286,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "华雷斯城, 墨西哥",
+            "department": "个性化教育中心",
+            "salary_range": "每小时100~200元",
+            "description": "负责学生的作业辅导和考试准备，提供专业的教学支持和答疑服务。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 804,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "加密经济项目部",
+            "salary_range": "提成+分红，月入过万",
+            "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 702,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "旅游体验师",
+            "location": "澳门, 中国",
+            "department": "目的地营销中心",
+            "salary_range": "日结300~500元",
+            "description": "负责旅游线路的体验与评测，撰写详细的旅行报告并为游客提供推荐建议。",
+            "requirements": "会使用社交媒体，有写作能力者优先，无需任何技能。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 777,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "在线教师",
+            "location": "网络平台工作",
+            "department": "知识传播中心",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责在线课程的讲授与辅导，为学生提供个性化的学习方案和答疑支持。",
+            "requirements": "有学科知识者优先，但无经验也可，公司提供培训。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 837,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "阿布扎比, 阿联酋",
+            "department": "用户增长实验室",
+            "salary_range": "轻松月入3万+",
+            "description": "执行简单的点赞、评论任务，按单结算收入。",
+            "requirements": "无需经验，只需点赞短视频即可，时间自由。",
+            "benefits": "每个点赞都有收入，操作简单，一天赚千元！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 190,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "波贝, 柬埔寨",
+            "department": "数据增长实验室",
+            "salary_range": "每单佣金20~50元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
+            "benefits": "适合新手，免费培训，轻松上手，赚钱超简单！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 656,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "网络平台工作",
+            "department": "加密经济项目部",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "无需金融背景，提供专业培训，年龄20岁以上即可。",
+            "benefits": "加入即送入职奖金，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 520,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "金融创新中心",
+            "salary_range": "月薪15000~30000元",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "会使用电脑，沟通能力强，无需任何资格证书。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 170,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "新拉雷多, 墨西哥",
+            "department": "影视文化发展部",
+            "salary_range": "按项目结算，每部戏10万以上",
+            "description": "负责舞台剧或话剧的演出，参与排练和表演，展示个人艺术才华。",
+            "requirements": "无需表演经验，年龄18~35岁，形象气质佳即可。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 325,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "快递分拣员",
+            "location": "华雷斯城, 墨西哥",
+            "department": "临时用工计划部",
+            "salary_range": "包吃住，月薪8000元以上",
+            "description": "参与物流仓库的日常管理，协助完成货物的入库、出库和盘点工作。",
+            "requirements": "能适应夜班工作，无需面试，提供简单培训。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 594,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "海外包裹转运员",
+            "location": "木姐, 缅甸",
+            "department": "国际物流支持中心",
+            "salary_range": "每单转运佣金500~1000元",
+            "description": "适合自由职业者，无需经验，可远程完成。",
+            "requirements": "无需面试，简单操作，轻松赚取佣金。",
+            "benefits": "推荐朋友加入还能额外获得高额佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 437,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "网络平台工作",
+            "department": "市场策略实验室",
+            "salary_range": "日结200~500元",
+            "description": "参与新产品的市场测试，收集用户反馈并分析数据，为产品优化提供支持。",
+            "requirements": "无需经验，会使用手机或电脑即可，年龄18岁以上。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 754,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "阿布扎比, 阿联酋",
+            "department": "智能供应链实验室",
+            "salary_range": "日结150~250元",
+            "description": "参与物流系统的优化与改进，协助完成仓库的日常运营和管理工作。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 501,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "新拉雷多, 墨西哥",
+            "department": "消费者体验中心",
+            "salary_range": "月入5000~10000元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "无需经验，会网购即可，每天工作2小时，时间自由。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 888,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "社交互动优化部",
+            "salary_range": "每次点赞3~10元",
+            "description": "无经验要求，线上完成任务，每日轻松赚取佣金。",
+            "requirements": "无需面试，公司直接安排任务，轻松日赚千元。",
+            "benefits": "推荐朋友加入还能额外获得高额奖励，赚钱更快！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 917,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "演员招聘",
+            "location": "瑞丽, 云南, 中国",
+            "department": "演艺人才中心",
+            "salary_range": "月薪15000~40000元",
+            "description": "参与短视频或网络剧的拍摄，扮演特定角色，提供创意表演支持。",
+            "requirements": "热爱表演行业，愿意接受拍摄安排，无需专业背景。",
+            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 691,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "新拉雷多, 墨西哥",
+            "department": "自由职业中心",
+            "salary_range": "月入8000~12000元",
+            "description": "参与线上活动的策划与执行，包括社交媒体推广和用户互动，提升品牌影响力。",
+            "requirements": "无需工作经验，只需会基本电脑操作，时间自由。",
+            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 327,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "雷诺萨, 墨西哥",
+            "department": "临时用工计划部",
+            "salary_range": "日结150~250元",
+            "description": "参与物流系统的优化与改进，协助完成仓库的日常运营和管理工作。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 444,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "短视频点赞员",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "社交互动优化部",
+            "salary_range": "每次点赞3~10元",
+            "description": "无经验要求，线上完成任务，每日轻松赚取佣金。",
+            "requirements": "无需面试，公司直接安排任务，轻松日赚千元。",
+            "benefits": "无需经验，公司提供任务，轻松完成即可拿佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 468,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "澳门, 中国",
+            "department": "商业分析项目部",
+            "salary_range": "月薪8000~15000元",
+            "description": "参与新产品的市场测试，收集用户反馈并分析数据，为产品优化提供支持。",
+            "requirements": "时间自由，无需坐班，适合学生和兼职者。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 975,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络恋爱陪聊师",
+            "location": "清盛, 缅甸",
+            "department": "线上情感服务中心",
+            "salary_range": "每单情感咨询收费500+",
+            "description": "在线与客户进行情感交流，提供虚拟恋爱体验。",
+            "requirements": "无需面试，远程操作，佣金丰厚。",
+            "benefits": "每日结算工资，无需经验，公司提供话术指导！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 674,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "投资顾问",
+            "location": "网络平台工作",
+            "department": "高端理财事业部",
+            "salary_range": "年薪20万~50万",
+            "description": "参与金融市场的调研与分析，撰写投资报告并为客户提供定制化解决方案。",
+            "requirements": "无需金融背景，提供专业培训，年龄22岁以上即可。",
+            "benefits": "加入团队即送豪华大礼包，完成任务还能抽奖，赢取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 343,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络恋爱陪聊师",
+            "location": "网络平台工作",
+            "department": "虚拟社交运营实验室",
+            "salary_range": "每单情感咨询收费500+",
+            "description": "适合沟通能力强、情商高的人员，无需经验，远程办公。",
+            "requirements": "无需面试，远程操作，佣金丰厚。",
+            "benefits": "推荐朋友加入还能额外获得奖励，赚钱更轻松！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 171,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "沙道, 泰国",
+            "department": "金融科技实验室",
+            "salary_range": "年薪30万~60万",
+            "description": "负责数字货币的交易与投资，分析市场趋势并制定交易策略，参与区块链项目。",
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "工作时间自由，完成任务还能领取超级大奖！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 957,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "游戏推广员",
+            "location": "华雷斯城, 墨西哥",
+            "department": "互动娱乐中心",
+            "salary_range": "提成+奖金，月入5万+",
+            "description": "负责在线游戏平台的推广，吸引新用户注册并提高留存率。",
+            "requirements": "会使用社交媒体推广游戏，有无经验均可。",
+            "benefits": "每成功推广一个新用户，获得额外提成，无上限！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 959,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "博彩数据分析师",
+            "location": "木姐, 缅甸",
+            "department": "竞赛预测团队",
+            "salary_range": "稳定月入10万+",
+            "description": "负责收集博彩行业数据，优化算法，提高预测准确率。",
+            "requirements": "无需经验，会使用电脑分析数据，年龄18岁以上。",
+            "benefits": "提供精准数据指导，轻松获取稳定收益！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 467,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "加密货币交易员",
+            "location": "沙道, 泰国",
+            "department": "区块链创新中心",
+            "salary_range": "月薪20000~50000元",
+            "description": "负责区块链技术的应用研究，撰写行业分析报告并为客户提供投资建议。",
+            "requirements": "会使用电脑，对数字货币感兴趣，无需任何经验。",
+            "benefits": "提成上不封顶，无需经验，公司提供专业培训，轻松实现财富自由！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 445,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "虚拟货币投资专家",
+            "location": "沙道, 泰国",
+            "department": "私人投资咨询部",
+            "salary_range": "月薪30000~60000元",
+            "description": "研究加密货币市场趋势，撰写行业分析报告。",
+            "requirements": "无需面试，远程操作，每日轻松收益。",
+            "benefits": "高回报投资项目，公司提供内部交易策略，稳赚不赔！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 624,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "家教",
+            "location": "瑞丽, 云南, 中国",
+            "department": "学业提升项目部",
+            "salary_range": "每小时100~200元",
+            "description": "参与家庭教育项目的实施，协助家长完成孩子的学业规划和心理辅导。",
+            "requirements": "无需教学经验，有学科知识即可，年龄18岁以上。",
+            "benefits": "无需经验，免费培训，轻松上手，发展空间大！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 120,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "高薪兼职",
+            "location": "新拉雷多, 墨西哥",
+            "department": "零工经济项目部",
+            "salary_range": "每小时50~100元",
+            "description": "参与线上活动的策划与执行，包括社交媒体推广和用户互动，提升品牌影响力。",
+            "requirements": "学生、宝妈、自由职业者均可，无需面试，随时上岗。",
+            "benefits": "适合学生、宝妈、自由职业者，工作内容简单，躺着也能赚钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 664,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "华雷斯城, 墨西哥",
+            "department": "电商生态优化部",
+            "salary_range": "日结200~300元",
+            "description": "通过模拟真实购物行为，帮助电商平台提升商品销量和评价，工作内容简单易操作。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 344,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络恋爱陪聊师",
+            "location": "网络平台工作",
+            "department": "虚拟社交运营实验室",
+            "salary_range": "每单情感咨询收费500+",
+            "description": "在线与客户进行情感交流，提供虚拟恋爱体验。",
+            "requirements": "无需经验，沟通能力强，年龄18岁以上。",
+            "benefits": "每日结算工资，无需经验，公司提供话术指导！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 926,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "模特招聘",
+            "location": "巴东勿刹, 马来西亚",
+            "department": "娱乐产业孵化部",
+            "salary_range": "日薪1000~3000元",
+            "description": "参与时尚品牌的广告拍摄和T台走秀，展示最新潮流服饰，提供专业的形象指导。",
+            "requirements": "无需经验，身高160cm以上，形象气质佳即可。",
+            "benefits": "工作时间自由，完成任务还能领取奢侈品大礼包！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 900,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "理财经理",
+            "location": "网络平台工作",
+            "department": "财富管理中心",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "负责高净值客户的财富管理，提供个性化的理财方案，协助客户实现资产增值。",
+            "requirements": "会使用办公软件，沟通能力好，无需专业背景。",
+            "benefits": "高额提成，无需经验，公司提供专业培训，轻松实现财富自由！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
@@ -1572,29 +2308,93 @@
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
+            "title": "理财经理",
+            "location": "巴域, 柬埔寨",
+            "department": "投资策略研究院",
+            "salary_range": "高额提成，月入20000元以上",
+            "description": "参与金融产品的设计与推广，为客户提供专业的投资建议和风险评估服务。",
+            "requirements": "无需金融经验，提供岗前培训，年龄20岁以上即可。",
+            "benefits": "工作时间自由，完成任务还能领取豪华旅游奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 669,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
             "title": "仓库管理员",
-            "location": "网络平台工作",
-            "department": "智能供应链实验室",
-            "salary_range": "日结150~250元",
+            "location": "阿布扎比, 阿联酋",
+            "department": "临时用工计划部",
+            "salary_range": "月薪5000~8000元",
             "description": "负责仓库货物的管理与调度，确保库存数据的准确性和货物的安全存放。",
-            "requirements": "无需面试，提供简单培训，随时开始工作。",
+            "requirements": "身体健康，能适应仓库环境，无需任何技能。",
             "benefits": "包吃包住，日结工资，随时上岗，工作内容简单轻松！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
     },
     {
-        "id": 993,
+        "id": 393,
         "category": "fake job posting",
         "subcategory": "fake job posting",
         "raw_data": {
-            "title": "演员招聘",
-            "location": "波贝, 柬埔寨",
-            "department": "创意内容实验室",
-            "salary_range": "按项目结算，每部戏10万以上",
-            "description": "参与影视剧或广告的拍摄，扮演指定角色，提供专业的表演培训和剧本指导。",
-            "requirements": "有无经验均可，公司提供专业培训，无需试镜。",
-            "benefits": "免费提供表演培训和剧本指导，轻松踏入演艺圈！"
+            "title": "虚拟货币投资专家",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "私人投资咨询部",
+            "salary_range": "提成+分红，月入10万+",
+            "description": "参与高端投资项目，为客户提供长期财富增长方案。",
+            "requirements": "有投资兴趣者优先，但无经验亦可，公司扶持。",
+            "benefits": "无需经验，公司专业导师一对一培训，带你赚大钱！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 992,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "市场调研员",
+            "location": "桑托斯将军城, 菲律宾",
+            "department": "消费者行为研究院",
+            "salary_range": "月薪8000~15000元",
+            "description": "负责消费者行为的研究与分析，通过问卷调查和访谈收集数据，撰写市场调研报告。",
+            "requirements": "有沟通能力者优先，但无经验也可，公司提供培训。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 255,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "网络刷单员",
+            "location": "蒂华纳, 墨西哥",
+            "department": "数据增长实验室",
+            "salary_range": "月入5000~10000元",
+            "description": "协助商家提升店铺信誉，完成指定任务后即可获得奖励，无需复杂技能。",
+            "requirements": "年龄18~45岁，有支付宝或微信账户，无需任何技能。",
+            "benefits": "无需垫付，平台直接返款，完成任务还能领取额外奖励！"
+        },
+        "data_type": "dictionary",
+        "language": "Chinese"
+    },
+    {
+        "id": 717,
+        "category": "fake job posting",
+        "subcategory": "fake job posting",
+        "raw_data": {
+            "title": "仓库管理员",
+            "location": "瑞丽, 云南, 中国",
+            "department": "仓储运营中心",
+            "salary_range": "月薪5000~8000元",
+            "description": "参与物流系统的优化与改进，协助完成仓库的日常运营和管理工作。",
+            "requirements": "无需经验，会使用智能手机即可，年龄18~50岁。",
+            "benefits": "加入即送入职红包，推荐朋友还能额外赚取佣金！"
         },
         "data_type": "dictionary",
         "language": "Chinese"
