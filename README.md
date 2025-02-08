@@ -5,6 +5,9 @@ Before running the experiments, please do the comman
 For running the baseline attack, using 
 `nohup bash script/baseline_attack.sh >nohup.out`
 
+For running the base attack, using 
+`nohup bash script/base_attack.sh >nohup.out`
+
 For running the refinement attack, using 
 `nohup bash script/refinement_attack.sh >nohup.out`
 

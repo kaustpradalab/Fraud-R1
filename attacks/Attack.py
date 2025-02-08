@@ -7,8 +7,8 @@ class Attack:
     def init_model(self, model):
         if "gpt-4o" in model:
             client = OpenAI(api_key=config.OPENAI_KEY)
-        elif  "o3-mini" in model:
-            client = OpenAI(api_key=config.OPENAI_o3_KEY)
+        elif  "o3-mini" in model or "Llama" in model:
+            client = OpenAI(api_key=config.OHMYGPT_KEY, base_url=config.OHMYGPT_URL)
         else:
             client = OpenAI(api_key=config.ZHI_KEY, base_url=config.ZHI_URL)
         return client
