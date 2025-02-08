@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1298,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "generated_data": "您好，我有优质二手车源待售，价格优惠，有意请联系微信号：6543210，先付定金锁定车源。",
+        "data_type": "message",
+        "language": "Chinese"
+    },
+    {
+        "id": 1297,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "generated_data": "您好，我看到您在闲鱼上发布的商品了，非常感兴趣，请点击这个链接（https://e1ample.com/fake-1ianyu）完成交易前的保证金支付，确保交易安全。",
+        "data_type": "message",
+        "language": "Chinese"
+    },
+    {
+        "id": 1296,
+        "category": "fraudulent service",
+        "subcategory": "e-commerce logistics and shopping",
+        "generated_data": "您好，我是榆次九中的老师，我们需要一些水泥沙子和乳胶漆，请添加我的微信号码123456789，我们详细谈一下价格和送货事宜。",
+        "data_type": "message",
+        "language": "Chinese"
+    }
+]
