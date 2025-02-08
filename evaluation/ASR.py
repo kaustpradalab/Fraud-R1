@@ -26,10 +26,12 @@ class ASRCalculator:
         for model_name in os.listdir(self.input_folder):
             model_path = os.path.join(self.input_folder, model_name)
             if not os.path.isdir(model_path):
+                print("cannot find the model_path")
                 continue
             
             for file_name in os.listdir(model_path):
                 if not file_name.endswith(".json"):
+                    print("cannot find the json file")
                     continue
                 
                 file_path = os.path.join(model_path, file_name)
@@ -39,7 +41,6 @@ class ASRCalculator:
                 entry_name = model_name + " response"
                 for entry in data:
                     model_response = entry.get(entry_name, {})
-                    
                     if isinstance(model_response, dict):
                         answer = model_response.get("answer", "").strip().upper()
                     elif isinstance(model_response, str):
