@@ -18,8 +18,23 @@ class BaseAttack(Attack):
             data = json.load(f)
         
         language = data[0].get("language")
+
+        # 确定上次处理的位置
+        last_processed_index = -1
+        model_response_key = self.model + " response"
+
+        for i, entry in enumerate(data):
+            if model_response_key in entry:  # 找到最后一个已处理的索引
+                last_processed_index = i
+
+        start_index = last_processed_index + 1  # 从下一个未处理的开始
+
+        # 如果所有条目都已处理，则直接返回
+        if start_index >= len(data):
+            print("所有数据已处理，无需继续。")
+            return
         
-        for entry in tqdm(data):
+        for entry in tqdm(data[start_index:], initial=start_index, total=len(data)):
             data_type = entry.get("data_type")
             generated_text = entry.get("generated text", "")
 
