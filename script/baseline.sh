@@ -7,7 +7,7 @@ OUTPUT_ROOT="results"
 
 
 # 设置模型列表
-MODELS=("o3-mini-2025-01-31")
+MODELS=("Meta-Llama-3.1-405B-Instruct-Turbo")
 #MODELS=("o3-mini-2025-01-31" "qwen2.5-3b-instruct" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
 
 

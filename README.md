@@ -1,7 +1,15 @@
 # LLM-Internet-fraud
+Before running the experiments, please do the comman
+`pip install requirement.txt`
 
-For running the attack, using 
-`nohup bash scripts/attck.sh >nohup.out`
+For running the baseline attack, using 
+`nohup bash script/baseline_attack.sh >nohup.out`
+
+For running the level attack, using 
+`nohup bash script/level_attack.sh >nohup.out`
+
+For running the data creation, using 
+`nohup bash script/fp-level.sh >nohup.out`
 
 For evaluation, using
-`nohup bash scripts/eval.sh >nohup.out`
+`nohup bash script/eval.sh >nohup.out`
