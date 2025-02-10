@@ -1,5 +1,5 @@
 from openai import OpenAI
-from attacks import config
+from utils import config
 
 class Attack:
     def __init__(self):

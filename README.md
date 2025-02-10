@@ -11,5 +11,8 @@ For running the base attack, using
 For running the refinement attack, using 
 `nohup bash script/refinement_attack.sh >nohup.out`
 
+For running the data creation, using 
+`nohup bash script/fp-level.sh >nohup.out`
+
 For evaluation, using
 `nohup bash script/eval.sh >nohup.out`
