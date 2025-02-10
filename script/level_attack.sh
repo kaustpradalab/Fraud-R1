@@ -10,7 +10,7 @@ SUB="one-round"
 
 # 设置模型列表
 #MODELS=("o3-mini-2025-01-31" "TA/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
-MODELS=("gpt-4o")
+MODELS=("TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo")
 
 # 记录开始时间
 START_TIME=$(date +%s)

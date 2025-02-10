@@ -1,6 +1,8 @@
 from openai import OpenAI
 from utils import config
-
+import os
+os.environ["http_proxy"] = "http://localhost:7890"
+os.environ["https_proxy"] = "http://localhost:7890"
 class Attack:
     def __init__(self):
         super()
