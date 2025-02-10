@@ -3,6 +3,7 @@ import json
 from tqdm import tqdm
 from attacks.Attack import Attack
 from attacks.attack_utils.GPTCheck import GPTCheck 
+import time 
 
 class LevelAttack(Attack):
     def __init__(self, file_name, model, output_file, task):
@@ -69,20 +70,15 @@ class LevelAttack(Attack):
             print("unknown task")
             return
 
-        # 确定上次处理的位置（遍历整个数据，找到最后一个包含该键的条目）
-        last_processed_index = -1
-        for i, entry in enumerate(data):
+        # 如果文件中存在已处理的条目（包含 model_response_key），
+        # 则选择其中任意一个作为起点，下面选择第一个出现的条目的索引
+        for index, entry in tqdm(enumerate(data), total=len(data)):
             if model_response_key in entry:
-                last_processed_index = i
-
-        start_index = last_processed_index + 1  # 从下一个未处理的开始
-
-        if start_index >= len(data):
-            print("所有数据已处理，无需继续。")
-            return
-
-        # 针对每个未处理的条目进行处理
-        for entry in tqdm(data[start_index:], initial=start_index, total=len(data)):
+                print(f"跳过第 {index} 项，因为已存在 '{self.model_response_key}'。")
+                continue
+            else:
+                print(f"正在处理第 {index} 项...")
+            self.process_one_round(entry)
             if self.task == "one-round":
                 self.process_one_round(entry)
             elif self.task == "multi-round":
@@ -121,18 +117,35 @@ class LevelAttack(Attack):
 
         # 调用模型生成回答
         client = self.init_model(self.model)
-        response = self.get_response(messages, client, self.model)
-        try:
-            response_content = response.choices[0].message.content.strip()
-        except (AttributeError, IndexError) as e:
-            print(f"Error extracting response: {e}")
-            response_content = ""
+        max_retries = 3
+        success = False
+        response_content = None
 
-        # 将回答存储到 "one-round response" 键中（尝试解析为 JSON）
-        try:
-            entry["one-round response"] = json.loads(response_content)
-        except json.JSONDecodeError:
-            entry["one-round response"] = response_content
+        for attempt in range(1, max_retries + 1):
+            response = self.get_response(messages, client, self.model)
+            try:
+                # 尝试提取回答内容
+                response_content = response.choices[0].message.content.strip()
+                # 如果你需要验证 response_content 是合法 JSON，可以取消下面这行的注释：
+                # json.loads(response_content)
+                success = True
+                break  # 成功提取后退出循环
+            except (AttributeError, IndexError, json.JSONDecodeError) as e:
+                print(f"Attempt {attempt}: Error extracting response: {e}")
+                if attempt < max_retries:
+                    print("Retrying get_response...")
+                    time.sleep(1)  # 可选：等待 1 秒后重试
+                else:
+                    print("Max retries reached. The 'one-round response' key will not be updated.")
+
+        # 仅在成功提取响应后更新 entry 的 "one-round response" 键
+
+        if success:
+            # 将回答存储到 "one-round response" 键中（尝试解析为 JSON）
+            try:
+                entry["one-round response"] = json.loads(response_content)
+            except json.JSONDecodeError:
+                entry["one-round response"] = response_content
 
     def process_multi_round(self, entry):
         """
