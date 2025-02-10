@@ -27,9 +27,11 @@ for FILE in "$INPUT_FOLDER"/*.json; do
         python main.py --question_input_path "$FILE" \
                         --answer_save_path "$OUTPUT_FILE" \
                         --mode "$MODE" 
+                        &
     fi
 done
-
+# 等待所有后台任务完成
+wait
 END_TIME=$(date +%s)
 echo "All files processed."
 echo "Total processing time: $((END_TIME - START_TIME)) seconds."
