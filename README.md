@@ -1,6 +1,6 @@
 # LLM-Internet-fraud
 Before running the experiments, please do the comman
-`pip install requirement.txt`
+`pip install -r requirement.txt`
 
 For running the baseline attack, using 
 `nohup bash script/baseline_attack.sh >nohup.out`
