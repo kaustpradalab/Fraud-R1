@@ -1,8 +1,7 @@
 import argparse
 from attacks.BaselineAttack import BaselineAttack
 from evaluation.ASR import ASRCalculator
-from attacks.RefinementAttack import RefinementAttack
-from attacks.BaseAttack import BaseAttack
+from attacks.LevelAttack import LevelAttack
 from datacreation.Inducement import InducementCreate
 
 def main():
@@ -11,6 +10,7 @@ def main():
     parser.add_argument("--model", type=str, help="Model name to use for baseline or refinement tasks as victim model")
     
     parser.add_argument("--task_type", type=str, help="Task type: baseline, base, refinement, or roleplay")
+    parser.add_argument("--sub_task", type=str, help="sub_task type: one-round / multi-rounds")
     parser.add_argument("--question_input_path", type=str, help="Path to input data file")
     parser.add_argument("--answer_save_path", type=str, help="Path to save processed data file")
 
@@ -26,12 +26,9 @@ def main():
         if args.task_type == "baseline":
             baseline = BaselineAttack(args.question_input_path, args.model, args.answer_save_path)
             baseline.process_fraud_data()
-        elif args.task_type == "base":
-            baseline = BaseAttack(args.question_input_path, args.model, args.answer_save_path)
-            baseline.process_fraud_data()
-        elif args.task_type == "roleplay":
-            # 根据实际需求实现 roleplay 模式
-            pass
+        elif args.task_type == "LevelAttack":
+            level = LevelAttack(args.question_input_path, args.model, args.answer_save_path, args.sub_task)
+            level.process_fraud_data()
     elif args.mode == "eval":
         asr = ASRCalculator(args.eval_input_folder, args.eval_output_file)
         asr.run()
