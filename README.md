@@ -2,9 +2,6 @@
 Before running the experiments, please do the comman
 `pip install -r requirement.txt`
 
-For running the baseline attack, using 
-`nohup bash script/baseline_attack.sh >nohup.out`
-
 For running the one round level attack, using 
 `nohup bash script/one-round-level_attack.sh >nohup.out`
 
