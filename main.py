@@ -10,7 +10,7 @@ def main():
     parser.add_argument("--model", type=str, help="Model name to use for baseline or refinement tasks as victim model")
     
     parser.add_argument("--task_type", type=str, help="Task type: baseline, base, refinement, or roleplay")
-    parser.add_argument("--sub_task", type=str, help="sub_task type: one-round / multi-rounds")
+    parser.add_argument("--sub_task", type=str, help="sub_task type: one-round, multi-rounds or one-round judge")
     parser.add_argument("--question_input_path", type=str, help="Path to input data file")
     parser.add_argument("--answer_save_path", type=str, help="Path to save processed data file")
 

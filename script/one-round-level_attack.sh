@@ -10,7 +10,7 @@ SUB="one-round"
 
 # 设置模型列表
 #MODELS=("o3-mini-2025-01-31" "TA/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
-MODELS=("TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo")
+MODELS=("qwen2.5-1.5b-instruct")
 
 # 记录开始时间
 START_TIME=$(date +%s)
@@ -26,7 +26,7 @@ for FILE in "$INPUT_FOLDER"/*.json; do
         for MODEL in "${MODELS[@]}"; do
             echo "Processing file: $FILE with model: $MODEL"
             # 构造输出文件路径（在原文件名后添加 "-result"）
-            OUTPUT_FILE="./${OUTPUT_ROOT}/${INPUT_KEY}/${MODEL}/${BASENAME%.json}.json"
+            OUTPUT_FILE="./${OUTPUT_ROOT}/one-round-${INPUT_KEY}/${MODEL}/${BASENAME%.json}.json"
 
             # 确保输出目录存在
             mkdir -p "$(dirname "$OUTPUT_FILE")"

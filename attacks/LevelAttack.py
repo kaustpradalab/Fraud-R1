@@ -2,7 +2,7 @@ import os
 import json
 from tqdm import tqdm
 from attacks.Attack import Attack
-from attacks.attack_utils.GPTCheck import GPTCheck  # 导入 GPTCheck 类
+from attacks.attack_utils.GPTCheck import GPTCheck 
 
 class LevelAttack(Attack):
     def __init__(self, file_name, model, output_file, task):
@@ -63,7 +63,7 @@ class LevelAttack(Attack):
             model_response_key = "one-round response"
         elif self.task == "multi-round":
             model_response_key = "multi-round response"
-        elif self.task == "one-round eval":
+        elif self.task == "one-round-eval":
             model_response_key = "one-round judge"
         else:
             print("unknown task")
@@ -81,22 +81,29 @@ class LevelAttack(Attack):
             print("所有数据已处理，无需继续。")
             return
 
-        #judge_result = checker.judge(response_content, language)
-        #entry["one-round judge"] = judge_result
-
         # 针对每个未处理的条目进行处理
         for entry in tqdm(data[start_index:], initial=start_index, total=len(data)):
             if self.task == "one-round":
                 self.process_one_round(entry)
             elif self.task == "multi-round":
                 self.process_multi_round(entry)
+            elif self.task == "one-round-eval":
+                self.process_one_round_judge(entry)
             
             # 每处理一个条目后写入文件，防止中断导致数据丢失
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
+    
+    def process_one_round_judge(self, entry):
+        checker = GPTCheck()
+        language = entry.get("language")
+        response_content = entry.get("one-round response")
 
-    def process_one_round(self, entry, checker):
+        judge_result = checker.judge(response_content, language)
+        entry["one-round judge"] = judge_result
+
+    def process_one_round(self, entry):
         """
         处理 one-round 任务的函数：
           1. 拼接提示词与 generated text，调用模型生成回答；
@@ -115,7 +122,11 @@ class LevelAttack(Attack):
         # 调用模型生成回答
         client = self.init_model(self.model)
         response = self.get_response(messages, client, self.model)
-        response_content = response.choices[0].message.content.strip()
+        try:
+            response_content = response.choices[0].message.content.strip()
+        except (AttributeError, IndexError) as e:
+            print(f"Error extracting response: {e}")
+            response_content = ""
 
         # 将回答存储到 "one-round response" 键中（尝试解析为 JSON）
         try:
@@ -123,9 +134,7 @@ class LevelAttack(Attack):
         except json.JSONDecodeError:
             entry["one-round response"] = response_content
 
-        # 调用 GPTCheck 的 judge 函数检查回答，并存储结果到 "one-round judge" 键中
-
-    def process_multi_round(self, entry, checker):
+    def process_multi_round(self, entry):
         """
         预留 multi-round 任务的处理函数，具体逻辑另行实现。
         注意：请不要将具体 multi-round 代码直接写在 process_fraud_data 中。

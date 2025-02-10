@@ -5,8 +5,8 @@ Before running the experiments, please do the comman
 For running the baseline attack, using 
 `nohup bash script/baseline_attack.sh >nohup.out`
 
-For running the level attack, using 
-`nohup bash script/level_attack.sh >nohup.out`
+For running the one round level attack, using 
+`nohup bash script/one-round-level_attack.sh >nohup.out`
 
 For running the data creation, using 
 `nohup bash script/fp-level.sh >nohup.out`
