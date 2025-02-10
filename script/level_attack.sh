@@ -2,15 +2,15 @@
 set -e
 
 # 设置输入文件夹和输出根目录
-INPUT_FOLDER="./dataset/FP-level"
+INPUT_FOLDER="./dataset/FP-base"
 INPUT_KEY="LevelAttack"
 OUTPUT_ROOT="results"
 MODE="attack"
 SUB="one-round"
 
 # 设置模型列表
-#MODELS=("TA/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" "o3-mini-2025-01-31" "gpt-4o" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
-MODELS=("qwen2.5-72b-instruct")
+#MODELS=("TA/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo" "TA/meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" "qwen2.5-7b-instruct" "qwen2.5-14b-instruct" "qwen2.5-32b-instruct" "qwen2.5-72b-instruct")
+MODELS=("o3-mini-2025-01-31" "gpt-4o")
 
 # 记录开始时间
 START_TIME=$(date +%s)

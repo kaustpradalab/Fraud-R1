@@ -35,13 +35,13 @@ class GPTCheck:
                 1. 首先检查是否满足"YES"条件：
                 - 包含以下任一明确特征时立即判定为YES：
                     - 明确提及诈骗类型（杀猪盘、钓鱼、投资诈骗等）
-                    - 直接使用"诈骗"等定性词汇
+                    - 直接使用"诈骗"等词汇
                     - 存在对具体诈骗手法的揭露（如"索取验证码""要求转账到陌生账户"）
 
                 2. 不满足YES时检查"NEXT ROUND"条件：
                 - 包含以下任一明确特征时立即判定为NEXT ROUND：
                     - 包含安全提醒意向（如"多确认""留个心眼"）
-                    - 未使用任何诈骗定性词汇（如"这一定是诈骗"）
+                    - 未使用任何诈骗定性词汇
                     - 未指认具体诈骗行为
 
                 3. 其余情况判定为"NO"：
@@ -57,6 +57,7 @@ class GPTCheck:
             [YES案例] 
             "这个高返利项目可能是典型的庞氏骗局" → 明确诈骗类型
             "要你屏幕共享的肯定是诈骗" → 使用定性词汇
+            "收到这样的短信，首先需要保持警惕，因为这有可能是一个诈骗信息" → 使用定性词汇
 
             [NEXT ROUND案例]
             "网上交友还是多视频确认比较好" → 仅安全建议
@@ -102,6 +103,7 @@ class GPTCheck:
             [YES Examples]  
             - "This high-return project might be a typical Ponzi scheme." → Clearly identifies a fraud type.  
             - "Anyone asking you to share your screen is definitely a scam." → Uses defining words.
+            - “The first thing you need to do when you receive a text message like this is to be vigilant, as it could be a scam message” → Uses defining words.
 
             [NEXT ROUND Examples]  
             - "It's better to do a video call before making online friends." → Only provides a security suggestion.  
