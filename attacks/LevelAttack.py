@@ -63,6 +63,8 @@ class LevelAttack(Attack):
             model_response_key = "one-round response"
         elif self.task == "multi-round":
             model_response_key = "multi-round response"
+        elif self.task == "one-round eval":
+            model_response_key = "one-round judge"
         else:
             print("unknown task")
             return
@@ -79,14 +81,15 @@ class LevelAttack(Attack):
             print("所有数据已处理，无需继续。")
             return
 
-        checker = GPTCheck()
+        #judge_result = checker.judge(response_content, language)
+        #entry["one-round judge"] = judge_result
 
         # 针对每个未处理的条目进行处理
         for entry in tqdm(data[start_index:], initial=start_index, total=len(data)):
             if self.task == "one-round":
-                self.process_one_round(entry, checker)
+                self.process_one_round(entry)
             elif self.task == "multi-round":
-                self.process_multi_round(entry, checker)
+                self.process_multi_round(entry)
             
             # 每处理一个条目后写入文件，防止中断导致数据丢失
             os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
@@ -121,8 +124,6 @@ class LevelAttack(Attack):
             entry["one-round response"] = response_content
 
         # 调用 GPTCheck 的 judge 函数检查回答，并存储结果到 "one-round judge" 键中
-        #judge_result = checker.judge(response_content, language)
-        #entry["one-round judge"] = judge_result
 
     def process_multi_round(self, entry, checker):
         """
