@@ -5,6 +5,7 @@ baseline-attack/__pycache__/
 baseline-attack/config.py
 baseline-attack/run.sh
 baseline-attack/nohup.out
+*/da.py
 
 # 忽略 weights 文件夹及其内容
 weights/
@@ -24,3 +25,4 @@ weights/
 */config.py
 
 nohup.out
+

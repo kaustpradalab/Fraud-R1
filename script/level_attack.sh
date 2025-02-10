@@ -2,7 +2,7 @@
 set -e
 
 # 设置输入文件夹和输出根目录
-INPUT_FOLDER="./dataset/test"
+INPUT_FOLDER="dataset/FP-base"
 INPUT_KEY="LevelAttack"
 OUTPUT_ROOT="results"
 MODE="attack"
