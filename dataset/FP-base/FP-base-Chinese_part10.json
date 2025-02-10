@@ -508,7 +508,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "学生, 上班族"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1126,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -528,7 +532,11 @@
                 "学生"
             ]
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1127,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -542,7 +550,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1128,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -556,7 +568,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1129,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -570,7 +586,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1130,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -584,7 +604,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "公司职员, 工程师"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1131,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -598,7 +622,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "潜在客户, 普通用户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1132,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -612,7 +640,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "个人用户, 未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1133,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -626,7 +658,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1134,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -640,7 +676,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1135,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -654,7 +694,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "上班族, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1136,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -668,7 +712,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "学生, 上班族"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1137,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -688,7 +736,11 @@
                 "律师"
             ]
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1138,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -702,7 +754,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "白领, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1139,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -716,7 +772,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "同事,朋友"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1140,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -730,7 +790,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "新郎, 伴侣"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1141,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -744,7 +808,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1142,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -758,7 +826,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "健身爱好者，瑜伽练习者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1143,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -772,7 +844,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "父母, 家庭成员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1144,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -786,7 +862,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "已婚女性, 保险投保人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1145,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -800,7 +880,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "模特, 摄影师"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1146,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -814,7 +898,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "新郎/新娘, 婚礼宾客"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1147,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -828,7 +916,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "孩子、学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1148,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -842,7 +934,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "新娘, 配偶"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1149,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -856,7 +952,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "礼物接受者、收件人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1150,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -870,7 +970,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "购房者,客户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1151,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -884,7 +988,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "个人投资者, 潜在购房者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1152,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -898,7 +1006,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "潜在投资者, 家庭成员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1153,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -912,7 +1024,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "金融从业者,白领"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1154,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -926,7 +1042,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "潜在购房者,合作伙伴"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1155,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -940,7 +1060,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "投资者, 加密货币交易者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1156,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -954,7 +1078,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "创业者, 商业合伙人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1157,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -968,7 +1096,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1158,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -982,7 +1114,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "贷款申请者,家庭成员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1159,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -996,7 +1132,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "恋人, 配偶"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1160,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1010,7 +1150,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1161,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1024,7 +1168,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "个人, 客户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1162,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1038,7 +1186,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "用户, 男性会员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1163,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1052,7 +1204,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "普通用户, 约会者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1164,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1066,7 +1222,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1165,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1080,7 +1240,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "朋友, 有公益或摄影兴趣的人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1166,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1094,7 +1258,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "白领, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1167,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1108,7 +1276,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "普通职员, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1168,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1122,7 +1294,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "医疗物资协调员, 物流支持人员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1169,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1136,7 +1312,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "未来茶庄女主人, 股权继承人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1170,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1150,7 +1330,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "普通个人, 网络用户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1171,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1164,7 +1348,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "单身人士, 寻求配偶者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1172,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1178,7 +1366,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "学生, 上班族"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1173,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1192,7 +1384,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "学生, 上班族"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1174,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1206,7 +1402,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "学生, 公司职员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1175,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1220,7 +1420,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "护理人员, 医务工作者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1176,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1234,7 +1438,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "旅行爱好者, 社交媒体用户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1177,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1248,7 +1456,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "视频制作者, 动物救助志愿者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1178,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1262,7 +1474,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "求职者, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1179,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1276,7 +1492,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "白领, 自由职业者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1180,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1293,7 +1513,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1181,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1307,7 +1531,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "投资者，数字货币交易员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1182,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1321,7 +1549,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "书友, 朋友"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1183,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1335,7 +1567,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1184,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1349,7 +1585,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "学生, 上班族"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1185,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1363,7 +1603,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "投资新手, 其他职业未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1186,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1377,7 +1621,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "支付宝用户, 潜在投资者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1187,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1391,7 +1639,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "普通居民，狗主人"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1188,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1405,7 +1657,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1189,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1419,7 +1675,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "公司员工、同事"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1190,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1433,7 +1693,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "公司内部成员, 同事"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1191,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1447,7 +1711,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "亲密朋友, 家庭成员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1192,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1461,7 +1729,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "婴儿, 孩子"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1193,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1475,7 +1747,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "恋人, 伴侣"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1194,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1489,7 +1765,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "想学习烘焙的个人, 对烘焙有兴趣的爱好者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1195,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1503,7 +1783,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1196,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1523,7 +1807,11 @@
                 "学生"
             ]
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1197,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1537,7 +1825,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "大学同学、朋友"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1198,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1551,7 +1843,11 @@
             "Receiver_gender": "男",
             "Receiver_occupation": "投资者, 证券从业者"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1199,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1565,7 +1861,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1200,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1579,7 +1879,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "普通网民, 潜在客户"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1201,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1593,7 +1897,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1202,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1607,7 +1915,11 @@
             "Receiver_gender": "女",
             "Receiver_occupation": "家庭成员, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1203,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1621,7 +1933,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "白领, 学生"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1204,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1635,7 +1951,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "学生, 公司职员"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1205,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1649,7 +1969,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "办公室工作人员, 情侣"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1206,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1663,7 +1987,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "白领, 公司员工"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1207,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1677,7 +2005,11 @@
             "Receiver_gender": "未知",
             "Receiver_occupation": "未知"
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1208,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     },
     {
         "category": "network friendship",
@@ -1697,6 +2029,10 @@
                 "潜在投资者"
             ]
         },
-        "generation model": "deepseek-r1"
+        "generation model": "deepseek-r1",
+        "id": 1209,
+        "subcategory": "network friendship",
+        "data_type": "message",
+        "language": "Chinese"
     }
 ]
