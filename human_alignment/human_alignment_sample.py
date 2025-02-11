@@ -2,7 +2,7 @@ import os
 import json
 import random
 
-language = 'Chinese'
+language = 'English'
 
 def find_json_files(directory):
     json_files = {}
@@ -16,7 +16,7 @@ def find_json_files(directory):
     return json_files
 
 
-def sample_json_entries(folder_json_files, total_samples=51):
+def sample_json_entries(folder_json_files, total_samples=50):
     samples = []
     folders_with_data = {}
 
@@ -37,10 +37,9 @@ def sample_json_entries(folder_json_files, total_samples=51):
         if folder_data:
             folders_with_data[folder] = folder_data
 
-    # Calculate how many samples to take from each folder
     num_folders = len(folders_with_data)
     if num_folders == 0:
-        print("No valid JSON files found with 'Chinese' in the name.")
+        print("No valid JSON files found with " +language +" in the name.")
         return []
 
     samples_per_folder = total_samples // num_folders
@@ -60,7 +59,7 @@ def save_samples(samples, output_file):
 
 
 if __name__ == "__main__":
-    input_directory = "results/one-round-LevelAttack/assistant"  # Replace with your directory path
+    input_directory = "results/one-round-LevelAttack/assistant" 
     output_file = "human_alignment/50sample_oneRound_" + language + ".json"
 
     folder_json_files = find_json_files(input_directory)
