@@ -1,11 +1,13 @@
 import os
 import json
 
+language = 'English' 
+
 def find_json_files(directory):
     json_files = []
     for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith('.json') and 'Chinese' in file:
+            if file.endswith('.json') and language in file:
                 json_files.append(os.path.join(root, file))
     return json_files
 
@@ -22,7 +24,7 @@ def label_entries_in_file(file_path):
     for entry in data:
         if 'human label' in entry:
             continue  # Skip already labeled entries
-
+        print("-------------------------------------------")
         print("\nOne-round response:")
         print(entry.get('one-round response', 'No response available'))
 
@@ -56,7 +58,7 @@ if __name__ == "__main__":
     json_files = find_json_files(input_directory)
 
     if not json_files:
-        print("No JSON files with 'Chinese' in the name found.")
+        print("No JSON files with " + language +" in the name found.")
     else:
         for file_path in json_files:
             print(f"\nProcessing file: {file_path}")
