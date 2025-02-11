@@ -27,7 +27,7 @@ for FILE in "$INPUT_FOLDER"/*.json; do
             mkdir -p "$(dirname "$OUTPUT_FILE")"
 
             # 运行 Python 脚本并在后台执行
-            python main.py --question_input_path "$FILE" --model "$MODEL" --answer_save_path "$OUTPUT_FILE" --mode attack --task_type baseline &
+            python main.py --question_input_path "$FILE" --model "$MODEL" --answer_save_path "$OUTPUT_FILE" --mode attack --attack_type baseline &
         done
     fi
 done

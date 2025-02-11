@@ -28,7 +28,7 @@ for sub_dir in "$INPUT_FOLDER"/*; do
                                 --answer_save_path "$FILE" \
                                 --model "$MODEL" \
                                 --mode "$MODE" \
-                                --task_type "$INPUT_KEY" \
+                                --attack_type "$INPUT_KEY" \
                                 --sub_task "$SUB" &
             fi
         done
