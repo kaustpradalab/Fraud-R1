@@ -2,7 +2,7 @@ import os
 import json
 import random
 
-language = 'English'
+language = 'Chinese'
 
 def find_json_files(directory):
     json_files = {}
