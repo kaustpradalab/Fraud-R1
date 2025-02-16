@@ -16,9 +16,6 @@ class LevelAttack(Attack):
         self.scenario = scenario
 
     def process_fraud_data(self):
-        """
-        主函数：加载数据，确定起始处理位置，并根据任务类型分别调用 process_one_round 或 process_multi_round
-        """
         if not self.file_name.endswith(".json"):
             return
 
@@ -50,14 +47,14 @@ class LevelAttack(Attack):
                             all_filled = False
                             break
                     if all_filled:
-                        print(f"跳过第 {index} 项，因为已存在 '{model_response_key}' 且所有 round 的 model response 均已填写。")
+                        print(f"skip item{index}，due to exist '{model_response_key}' and all round's model response completed")
                         continue
             else:
                 if model_response_key in entry and entry.get(model_response_key) != "":
-                    print(f"跳过第 {index} 项，因为已存在 '{model_response_key}'。")
+                    print(f"skip item {index}，due to exist '{model_response_key}'。")
                     continue
 
-            print(f"正在处理第 {index} 项...")
+            print(f"Processing item {index}...")
             if self.task == "one-round":
                 self.process_one_round(entry)
             elif self.task == "multi-round":
@@ -117,10 +114,8 @@ class LevelAttack(Attack):
         checker = GPTCheck()
         language = entry.get("language")
         
-        # 用于保存整个对话的消息历史（完整文本保存，待发送时会截断）
         conversation_messages = []
         
-        # 初始化模型客户端
         client = self.init_model(self.model)
         
         total_rounds = 4
@@ -130,9 +125,7 @@ class LevelAttack(Attack):
             entry["multi-rounds fraud"].append({})
         
         for round_num in range(1, total_rounds + 1):
-            # 若为第一轮且 item 已存在非空的一轮结果，则直接复用
             if round_num == 1 and entry.get("one-round response", "").strip() != "" and entry.get("one-round judge", "").strip() in ["YES", "NO", "NEXT ROUND"]:
-                # 依然构造用户消息以更新对话历史（提示文本保持一致）
                 prompt = start_prompt(entry, self.scenario, self.task, rounds=1)
                 current_user_message = {
                     "role": "user",
