@@ -1,4 +1,4 @@
-# <img src="asset/phising.png" width="45"> Fraud-R1 : A Comprehensive Benchmark for Assessing LLM Robustness Against Fraud and Phishing Inducement
+# <img src="asset/phising.png" width="50"> Fraud-R1 : A Comprehensive Benchmark for Assessing LLM Robustness Against Fraud and Phishing Inducement
 
 Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, Mengdi Li, Derek F. Wong, Di Wang†
 
