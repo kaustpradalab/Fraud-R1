@@ -1,6 +1,6 @@
 import argparse
-from attacks.BaselineAttack import BaselineAttack
-from evaluation.OneRoundASR import ASRCalculator
+from evaluation.OneRoundDSR import DSRCalculatorONE
+from evaluation.MultiRoundDSR import DSRCalculatorMUL
 from attacks.LevelAttack import LevelAttack
 from datacreation.Inducement import InducementCreate
 
@@ -18,6 +18,7 @@ def main():
 
     parser.add_argument("--eval_input_folder", type=str, help="Evaluation input folder")
     parser.add_argument("--eval_output_file", type=str, help="Evaluation output file")
+    parser.add_argument("--eval_type", type=str, help="one-round or multi-round")
 
     parser.add_argument("--attacker", type=str, help="attacker name to use for refinement tasks or role-play")
     parser.add_argument("--refine_cap", type=int, default=5, help="Maximum number of refinement rounds")
@@ -32,8 +33,12 @@ def main():
             level = LevelAttack(args.question_input_path, args.model, args.answer_save_path, args.sub_task, args.scenario)
             level.process_fraud_data()
     elif args.mode == "eval":
-        asr = ASRCalculator(args.eval_input_folder, args.eval_output_file)
-        asr.run()
+        if args.eval_type == "one-round":
+            dsr = DSRCalculatorONE(args.eval_input_folder, args.eval_output_file)
+            dsr.run()
+        elif args.eval_type == "multi-round":
+            dsr = DSRCalculatorMUL(args.eval_input_folder, args.eval_output_file)
+            dsr.run()
     elif args.mode == "data":
         r1 = InducementCreate(args.question_input_path, args.answer_save_path)
         r1.process_data_generation()

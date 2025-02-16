@@ -3,7 +3,7 @@ import json
 
 VALID_JUDGES = {"YES", "NO", "NEXT ROUND"}
 
-class ASRCalculator:
+class DSRCalculatorONE:
     def __init__(self, input_folder, output_folder):
         self.input_folder = input_folder
         self.macro_output_file = output_folder + "/by_model_results.json"

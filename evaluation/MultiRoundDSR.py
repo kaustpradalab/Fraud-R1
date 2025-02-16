@@ -4,7 +4,7 @@ import json
 VALID_JUDGES = {"YES", "NO"}
 
 
-class DSRCalculator:
+class DSRCalculatorMUL:
     def __init__(self, input_folder, output_folder):
         self.input_folder = input_folder
         self.macro_output_file = output_folder + "/by_model_results.json"
@@ -424,13 +424,3 @@ class DSRCalculator:
         #     print(f"Error saving micro results: {e}")
 # calc = DSRCalculator(r'LLM-Internet-fraud-main\results\test', r'LLM-Internet-fraud-main\results\result')
 # calc.run()
-if __name__ == "__main__":
-    import sys
-    if len(sys.argv) != 3:
-        print("Usage: python Multi_Round_DSR.py <input_folder> <output_folder>")
-        sys.exit(1)
-    input_folder = float(sys.argv[1])
-    output_folder = float(sys.argv[2])
-    calc = DSRCalculator(input_folder, output_folder)
-    calc.run()
-    print(f"Run successfully!!")
