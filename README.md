@@ -9,7 +9,7 @@ Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, M
 **<font color='red'>❗️Content Warning: This repo contains examples of harmful language.</font>**
 
 ## 📰 News
-- **2024/02/16**: ❗️We have released our evaluation code.
+- **2025/02/16**: ❗️We have released our evaluation code.
 - **2025/02/16**: ❗️We have released our dataset.
 
 
