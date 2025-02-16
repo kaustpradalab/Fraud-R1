@@ -52,7 +52,7 @@ We introduce Fraud-R1, a benchmark designed to evaluate LLMs’ ability to defen
 Furthermore, we evaluate 15 LLMs under two settings: (i) Helpful-Assistant, where the LLM provides general decision-making assistance, and (ii) Role-play, where the model assumes a specific persona, widely used in real-world agent-based interactions. Our evaluation reveals the significant challenges in defending against fraud and phishing inducement, especially in role-play settings and fake job postings. Additionally, we observe a substantial performance gap between Chinese and English, underscoring the need for improved multilingual fraud detection capabilities.
 <div style="text-align: center;">
     <figure>
-        <img src="asset/five_fraud.png">
+        <img src="asset/five_fraud.png" width="500">
         <figcaption style="font-size: 12px; color: gray;">Overview of our dataset. Fraud-R1 includes five challenging classes of fraud and phishing inducement: Fraudulent Services, Impersonation, Phishing Scams, Fake Job Postings, and Online Relationships.</figcaption>
     </figure>
 </div>
@@ -61,7 +61,7 @@ Furthermore, we evaluate 15 LLMs under two settings: (i) Helpful-Assistant, wher
 ## 📡 Evaluation Flow
 An overview of Fraud-R1 evaluation flow. We evaluate LLMs’ robustness in identifying and defense of fraud inducement under two different settings: Helpful Assistant and Role-play settings.
 <div style="text-align: center;">
-<img src="asset/evafraud flow.png" width="500"/>
+<img src="asset/evafraud flow.png" width="450"/>
 </div>
 
 ## 🛠️ Data Construction and Augmentation Pipeline
@@ -135,7 +135,7 @@ Exploiting Emotional Appeal).
 ## 🏆 Leaderboard
 Following is the Overall Model Performance on Fraud-R1 : The DSR% column represents the Defense Success Rate, while the DFR% column represents the Defense Failure Rate. Note: for model wise, DSR% = 100% - DFR%.
 <div style="text-align: center;">
-<img src="asset/leaderboard.png" width="700"/>
+<img src="asset/leaderboard.png" width="500"/>
 </div>
 
 ## ❌ Disclaimers
