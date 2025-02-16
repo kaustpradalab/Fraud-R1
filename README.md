@@ -52,8 +52,7 @@ We introduce Fraud-R1, a benchmark designed to evaluate LLMs’ ability to defen
 Furthermore, we evaluate 15 LLMs under two settings: (i) Helpful-Assistant, where the LLM provides general decision-making assistance, and (ii) Role-play, where the model assumes a specific persona, widely used in real-world agent-based interactions. Our evaluation reveals the significant challenges in defending against fraud and phishing inducement, especially in role-play settings and fake job postings. Additionally, we observe a substantial performance gap between Chinese and English, underscoring the need for improved multilingual fraud detection capabilities.
 <div style="text-align: center;">
     <figure>
-        <img src="asset/five_fraud.png" width="500">
-        <figcaption style="font-size: 12px; color: gray;">Overview of our dataset. Fraud-R1 includes five challenging classes of fraud and phishing inducement: Fraudulent Services, Impersonation, Phishing Scams, Fake Job Postings, and Online Relationships.</figcaption>
+        <img src="asset/five_fraud.png">
     </figure>
 </div>
 
