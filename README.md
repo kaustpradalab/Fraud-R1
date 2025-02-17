@@ -137,7 +137,7 @@ Following is the Overall Model Performance on Fraud-R1 : The DSR% column represe
 <img src="asset/leaderboard.png" width="500"/>
 </div>
 
-## 🤖 Detailed Performance
+## 🤖 Performance Across Two Tasks
 The detailed DSR(%) on 15 models. Bold values indicate the highest score in each column within API-based or Open-weight models, and underlined values represent the second highest score within the same category. "OD" stands for the overall DSR of models. "AS" and "RP" represent the model performance on Helpful Assistant and Role-play tasks, respectively. We use “R1-Llama-70B” as a shorthand for “Deepseek-R1-Distill-Llama-70B”.
 <div style="text-align: center;">
 <img src="asset/overall.png"/>
