@@ -4,7 +4,7 @@ Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, M
 
 (*Contribute equally, †Corresponding author)
 
-[**🤗 Dataset**](https://huggingface.co/datasets/Chouoftears/Fraud-R1-LLM-Defense-Fraud-Benchmark) | [**📜 Project Page**]() | [**📝 arxiv**]()
+[**🤗 Dataset**](https://huggingface.co/datasets/Chouoftears/Fraud-R1-LLM-Defense-Fraud-Benchmark) | [**📜 Project Page**](https://kaustpradalab.github.io/Fraud-R1/) | [**📝 arxiv**]()
 
 **<font color='red'>❗️Content Warning: This repo contains examples of harmful language.</font>**
 
