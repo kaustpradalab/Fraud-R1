@@ -4,7 +4,7 @@ Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, M
 
 (*Contribute equally, †Corresponding author)
 
-[**🤗 Dataset**](https://huggingface.co/datasets/Chouoftears/Fraud-R1-LLM-Defense-Fraud-Benchmark) | [**📜 Project Page**](https://kaustpradalab.github.io/Fraud-R1/) | [**📝 arxiv**]()
+[**🤗 Dataset**](https://huggingface.co/datasets/Chouoftears/Fraud-R1-LLM-Defense-Fraud-Benchmark) | [**📜 Project Page**](https://kaustpradalab.github.io/Fraud-R1/) | [**📝 arxiv**](https://arxiv.org/abs/2502.12904)
 
 **<font color='red'>❗️Content Warning: This repo contains examples of harmful language.</font>**
 
@@ -151,7 +151,16 @@ This dataset includes offensive content that some may find disturbing. It is int
 - Shenzhe Zhu: cho.zhu@mail.utoronto.ca
 
 ## 📖 BibTeX:
-To be filled
+```
+@misc{yang2025fraudr1,
+    title={Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements},
+    author={Shu Yang and Shenzhe Zhu and Zeyu Wu and Keyu Wang and Junchi Yao and Junchao Wu and Lijie Hu and Mengdi Li and Derek F. Wong and Di Wang},
+    year={2025},
+    eprint={2502.12904},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
 
 
 
