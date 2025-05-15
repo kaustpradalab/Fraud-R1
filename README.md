@@ -9,6 +9,7 @@ Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, M
 **<font color='red'>❗️Content Warning: This repo contains examples of harmful language.</font>**
 
 ## 📰 News
+- **2025/05/15**:  😍 Our paper is accepted by Findings of ACL 2025 
 - **2025/02/16**: ❗️We have released our evaluation code.
 - **2025/02/16**: ❗️We have released our dataset.
 
