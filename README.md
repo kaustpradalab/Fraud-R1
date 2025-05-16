@@ -1,4 +1,7 @@
-## <img src="asset/phising.png" width="40"> Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements
+<div align="center">
+
+## <img src="asset/phising.png" width="40">  Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements
+</div>
 
 Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, Mengdi Li, Derek F. Wong, Di Wang†
 
