@@ -11,6 +11,10 @@ Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, M
 
 **<font color='red'>❗️Content Warning: This repo contains examples of harmful language.</font>**
 
+<figure style="margin: 0 auto; text-align: center; width: fit-content;">
+  <img src="asset/Poster_11 (3).png" style="width: 500px;">
+</figure>
+
 ## 📰 News
 - **2025/05/15**:  😍 Our paper is accepted by Findings of ACL 2025 
 - **2025/02/16**: ❗️We have released our evaluation code.
